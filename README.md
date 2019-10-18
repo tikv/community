@@ -24,11 +24,11 @@ You can reach out to the community members via any one of the following ways:
 
 ## Your First Contribution
 
-The [Contributor Guide](./CONTRIBUTING.md) provides detailed instruction on how to get your ideas and bug fixes seen and accepted, including:
+The [Contributor Guide](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md) provides detailed instruction on how to get your ideas and bug fixes seen and accepted, including:
 
 1. [Building and setting up a development workspace](./CONTRIBUTING.md#building-and-setting-up-a-development-workspace)
-2. [How to run TiKV](./CONTRIBUTING.md#running-tikv)
-3. [Contribution flow](./CONTRIBUTING.md#contribution-flow)
+2. [How to run TiKV](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md#running-tikv)
+3. [Contribution flow](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md#contribution-flow)
 
 ## How Do I Become a Committer?
 
@@ -38,17 +38,17 @@ Based on your track-record as a contributor, one of our Maintainers or PMC membe
 
 Note that becoming a committer is not just about submitting some patches; it's also about helping out on the development and helping with documentation and the issues.
 
-See [Become a Committer.md](./become-a-committer.md) for becoming a committer steps and more details.
+See [How to be a TiKV Contributor.md](https://tikv.org/docs/3.0/contribute/contribute-to-tikv/) for more details.
 
 ## Communication
 
-Communication within the TiKV community abides by [TiKV Code of Conduct](./CODE_OF_CONDUCT.md). Here is an excerpt:
+Communication within the TiKV community abides by [TiKV Code of Conduct](https://github.com/tikv/tikv/blob/master/CODE_OF_CONDUCT.md). Here is an excerpt:
 
 > In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## License
 
-TiDB Community is under the Apache 2.0 license. See the [LICENSE.md](https://github.com/tikv/tikv/blob/master/LICENSE) file for details.
+TiKV Community is under the Apache 2.0 license. See the [LICENSE.md](https://github.com/tikv/tikv/blob/master/LICENSE) file for details.
 
 ## Acknowledgements
 
