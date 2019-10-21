@@ -1,5 +1,5 @@
 # SIG Governance
-SIG 全称 Special Interest Group。SIG 在社区架构中的位置请见：社区架构&角色。SIG 主要聚集一批 Active Contributor，对某一个或多个 TiDB 的模块深入研究 & 贡献，在 SIG 内部一步步晋升为 Reviewer，Committer。 
+SIG 全称 Special Interest Group。SIG 在社区架构中的位置请见：[社区架构 & 角色](/GOVERNACE-zh_CN.md#community_organization)。SIG 主要聚集一批 Active Contributor，对某一个或多个 TiKV 的模块深入研究 & 贡献，在 SIG 内部一步步晋升为 Reviewer，Committer。 
 
 ## SIG 角色以及组织治理
 
