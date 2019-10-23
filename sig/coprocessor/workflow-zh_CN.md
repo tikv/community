@@ -2,7 +2,7 @@
 
 ## 任务领取
 
-Coprocessor SIG 任务以 issue 的形式组织，任务都关联到 [Coprocessor SIG](https://github.com/tikv/tikv/issues?q=is%3Aopen+is%3Aissue+project%3Atikv%2Ftikv%2F19) Project 中，可以结合自己的兴趣和对源码的理解程度在 TiKV 的 Coprocessor SIG Project 中选择适合自己难度的 issue，这些难度划分为：
+Coprocessor SIG 任务以 issue 的形式组织，任务都关联到 [Copr SIG](https://github.com/tikv/tikv/issues?q=is%3Aissue+is%3Aopen+label%3A%22C%3A+Copr+SIG%22) Label 中，可以结合自己的兴趣和对源码的理解程度在 TiKV 的 Coprocessor SIG 的列表中选择适合自己难度的 issue，这些难度划分为：
 
 - L = Low 低难度，只需要了解 Coprocessor 一小部分知识并使用较少代码量完成
 - M = Medium 中难度，需要了解 Coprocessor 多种知识或需要显著代码量完成

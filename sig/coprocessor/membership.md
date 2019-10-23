@@ -1,13 +1,9 @@
 # Coprocessor SIG Members
 
-## Active Members
-
-- [breeswish](https://github.com/breeswish): Tech Lead
-- [lonng](https://github.com/lonng): Tech Lead
-
 ## Maintainers
 
-None
+- [breeswish](https://github.com/breeswish)
+- [lonng](https://github.com/lonng)
 
 ## Committers
 
