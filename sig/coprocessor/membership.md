@@ -1,9 +1,13 @@
 # Coprocessor SIG Members
 
-## Maintainers
+## Tech Leader
 
 - [breeswish](https://github.com/breeswish)
 - [lonng](https://github.com/lonng)
+
+## Maintainers
+
+None
 
 ## Committers
 
