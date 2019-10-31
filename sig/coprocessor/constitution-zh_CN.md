@@ -57,7 +57,6 @@ Coprocessor SIG 聚焦 TiKV 项目 Coprocessor 模块，Coprocessor 是 TiKV 中
 
   - Tech Leader 和 TiKV Maintainer 以季度为单位对小组成员进行考核，决定成员是否可由 Reviewer 晋升为 Committer：
     - 表现出良好的技术判断力
-    - 在 TiKV / PingCAP 至少两个子项目中是 Reviewer
     - 获得至少 2 位 TiKV Maintainer 的提名
     - 至少完成两项难度为 Medium 的任务，或一项难度为 High 的任务
     - PR 贡献满足以下至少两点：
