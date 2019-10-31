@@ -6,9 +6,9 @@ Your journey of becoming a contributor and committer starts from here: improving
 
 ## Communicating
 
-You can reach out to the community members via any one of the following ways: 
+You can reach out to the community members via any one of the following ways:
 
-+ Slack: [https://tikv-wg.slack.com](https://tikv-wg.slack.com)
++ Slack: [https://tikv-wg.slack.com](https://join.slack.com/t/tikv-wg/shared_invite/enQtNTUyODE4ODU2MzI0LWVlMWMzMDkyNWE5ZjY1ODAzMWUwZGVhNGNhYTc3MzJhYWE0Y2FjYjliYzY1OWJlYTc4OWVjZWM1NDkwN2QxNDE)
 
 + Discourse: [Discourse](https://forum.tikv.org/c/tikv)
 
@@ -26,7 +26,7 @@ You can reach out to the community members via any one of the following ways:
 
 The [Contributor Guide](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md) provides detailed instruction on how to get your ideas and bug fixes seen and accepted, including:
 
-1. [Building and setting up a development workspace](./CONTRIBUTING.md#building-and-setting-up-a-development-workspace)
+1. [Building and setting up a development workspace](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md#building-and-setting-up-a-development-workspace)
 2. [How to run TiKV](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md#running-tikv)
 3. [Contribution flow](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md#contribution-flow)
 
