@@ -8,7 +8,7 @@ Your journey of becoming a contributor and committer starts from here: improving
 
 You can reach out to the community members via any one of the following ways:
 
-+ Slack: [https://tikv-wg.slack.com](https://tikv-wg.slack.com)
++ Slack: [https://tikv-wg.slack.com](https://join.slack.com/t/tikv-wg/shared_invite/enQtNTUyODE4ODU2MzI0LWVlMWMzMDkyNWE5ZjY1ODAzMWUwZGVhNGNhYTc3MzJhYWE0Y2FjYjliYzY1OWJlYTc4OWVjZWM1NDkwN2QxNDE)
 
 + Discourse: [Discourse](https://forum.tikv.org/c/tikv)
 
