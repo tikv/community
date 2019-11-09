@@ -57,8 +57,10 @@ SIG 的成员在一段时间的不活跃之后，该成员会暂时请出 SIG。
 
 1. 复制 [SIG 章程模板](SIG-CHARTER-TEMPLATE-zh_CN.md)
 2. 修改模板中需要为新 SIG 定义的内容
-3. 向 [TiKV Community](https://github.com/tikv/community) 发起 Pull Request，将相应的 SIG 章程提交到 [SIGs 目录](/SIGs)
+3. 向 [TiKV Community](https://github.com/tikv/community) 发起 Pull Request，将相应的 SIG 章程提交到 [SIGs 目录](/sig)
 4. PR 被批准合并之后，会由社区委员会公布新的 SIG
+
+可以参考 [copr-sig 页面](/sig/coprocessor/README.md)
 
 <h2 id="sig_lifetime">SIG 生命周期</h2>
 
