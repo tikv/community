@@ -44,3 +44,7 @@ Organizer Committee：项目组织委员会，负责执行、输出，推广技�
 * Tech Leader：小组技术负责人，对整个小组的技术走向进行把控。负责制定学习计划、成员考核制度等。一个小组可以有多个 Tech Leader。
 * 其余角色见社区组织架构图
 
+### 委员会
+
+项目管理委员会（PMC），管理和监督 TiKV 社区，它制定 TiKV 的价值观和社区结构。PMC 由核心 Maintainers 组成。[更多详情](/committee/README.md)
+
