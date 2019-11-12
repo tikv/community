@@ -74,5 +74,5 @@ Active community contributors.
 
 ## Contributor
 
-- Merged at least 1 PR in TiKV Repo
+- Merged at least 1 PR in any Repo under [TiKV](https://github.com/tikv) 
 
