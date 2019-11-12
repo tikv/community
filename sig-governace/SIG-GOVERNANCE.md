@@ -1,6 +1,6 @@
 # SIG Governance
 
-The full name of SIG is Special Interest Group. Please refer to [community structure & role](/GOVERNACE-.md#community_organization). SIGs mainly aggregate a group of Active Contributors, and conducts in-depth research & contributions to one or more TiKV modules, and is promoted to Reviewer, Committer within the SIG.
+The full name of SIG is Special Interest Group. Please refer to [community structure & role](GOVERNANCE.md#community-membership). SIGs mainly aggregate a group of Active Contributors, and conducts in-depth research & contributions to one or more TiKV modules, and is promoted to Reviewer, Committer within the SIG.
 
 ## SIG role and organizational governance
 
