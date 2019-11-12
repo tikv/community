@@ -51,11 +51,8 @@ Reviewers are responsible for reviewing the code submitted by the community to e
 ### Privileges and responsibilities:
 
 - Ensure the correctness of the subproject code
-
 - Respond promptly to PRs submitted by the community
-
 - Participate in SIG seminars on a regular basis
-
 - Approve code reviews with LGTM (Looks Good To Me)
 
 ## Active Contributor
@@ -65,7 +62,6 @@ Active community contributors.
 ### How to become a Reviewer:
 
 - Contributed 8 PRs and above to TiKV within one year
-
 - Received recognition from two incumbent Reviewers
 
 ### Privileges and responsibilities:
@@ -75,4 +71,3 @@ Active community contributors.
 ## Contributor
 
 - Merged at least 1 PR in any Repo under [TiKV](https://github.com/tikv) 
-
