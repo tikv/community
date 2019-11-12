@@ -6,7 +6,7 @@ Maintainers are the planners and designers of the project, with the authority to
 
 ### How to become a Maintainer:
 
-- Demonstrate a deep understanding of TiKV's technical goals and directions
+- Demonstrated a deep understanding of TiKV's technical goals and directions
 - Actively organize technical seminars and propose constructive projects
 - Can handle complex problems in the code implementation process
 - Get unanimous votes from Members of the PMC
