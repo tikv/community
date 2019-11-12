@@ -1,10 +1,10 @@
 # SIG Governance
 
-The full name of SIG is Special Interest Group. Please refer to [community structure & role](GOVERNANCE.md#community-membership). SIGs mainly aggregate a group of Active Contributors, and conducts in-depth research & contributions to one or more TiKV modules, and is promoted to Reviewer, Committer within the SIG.
+The full name of SIG is Special Interest Group. Please refer to [Community Organization](/GOVERNANCE.md#developer-group-structure). SIGs mainly aggregate a group of Active Contributors, and conducts in-depth research & contributions to one or more TiKV modules, and is promoted to Reviewer, Committer within the SIG.
 
-## SIG role and organizational governance
+## SIG Role and Organizational Governance
 
-The SIG follows the role definitions in the [GOVERNANCE](/GOVERNACE.md). The SIG is subject to the following rules:
+The SIG follows the role definitions in the [GOVERNANCE](/GOVERNANCE.md). The SIG is subject to the following rules:
 
 - Before starting a SIG, the charter will be established in advance. Please refer [Create the SIG charter](#Create-the-SIG-charter) to create the charter 
 - Except for holidays, the regular meeting is organized at least once every two weeks.
@@ -41,15 +41,15 @@ Please refer to [SIG Lifecycle](#sig-lifecycle) for other issue.
   - Make roadmap for the SIG
   - Weekly progress meeting requires at least one Tech Lead to participate in the discussion online
 
-## Member promotion mechanism
+## Member Promotion Mechanism
 
 Members of the SIG can be promoted to a higher role, and the rules are set by the specific SIG. Each promotion is nominated by two members of a higher level role or above.
 
-## Member exit mechanism
+## Member Exit Mechanism
 
 After a period of inactivity, the SIG member will temporarily exit the SIG. The exit mechanism is set by each SIG.
 
-## Create the SIG charter
+## Create the SIG Charter
 
 1. Copy the [SIG Charter Template](SIG-CHARTER-TEMPLATE.md)
 2. Modify the content in the template that needs to be defined for the specific SIG
