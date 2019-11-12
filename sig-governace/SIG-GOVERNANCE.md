@@ -6,7 +6,7 @@ The full name of SIG is Special Interest Group. Please refer to [community struc
 
 The SIG follows the role definitions in the [GOVERNANCE](/GOVERNACE.md). The SIG is subject to the following rules:
 
-- Before starting a SIG, the charter will be established in advance. Please refer[Create the SIG charter](Create the SIG charter) to create the charter 
+- Before starting a SIG, the charter will be established in advance. Please refer[Create the SIG charter](#Create the SIG charter) to create the charter 
 - Except for holidays, the regular meeting is organized at least once every two weeks.
 - The assignable tasks will be graded by difficulty levels and claimed by SIG members.
 
