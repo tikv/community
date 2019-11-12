@@ -2,7 +2,7 @@
 
 ## Maintainer
 
-Maintainers are the planners and designers of the project, with the authority to merge branches into the master. Maintainers come from Committers. They must demonstrate good judgment and responsibility for the health of the subproject. The maintainer must set up the technical direction directly or by delegating these responsibilities, and make or approve design decisions for the subproject.
+Maintainers are the planners and designers of the project, with the authority to merge branches into the master. Maintainers come from Committers. They must demonstrate both good judgment and responsibility towards the health of the subproject. Maintainers must set up the technical direction and make or approve design decisions for the subproject - either directly or by delegating these responsibilities.
 
 ### How to become a Maintainer:
 
