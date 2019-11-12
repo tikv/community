@@ -21,7 +21,7 @@ Maintainers are the planners and designers of the project, with the authority to
 
 ## Committer
 
-Committers are recommended by Maintainers or the PMC as Contributors with outstanding contributions to TiKV. A committer must have completed at least one feature or fix a major bug independently.
+Committers are recommended by Maintainers or the PMC as Contributors with outstanding contributions to TiKV. A Committer must have completed at least one feature or fix a major bug independently.
 
 ### How to become a Committer:
 
