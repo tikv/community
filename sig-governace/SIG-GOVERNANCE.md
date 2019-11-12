@@ -53,14 +53,14 @@ After a period of inactivity, the SIG member will temporarily exit the SIG. The 
 
 1. Copy the [SIG Charter Template](SIG-CHARTER-TEMPLATE.md)
 2. Modify the content in the template that needs to be defined for the specific SIG
-3. Initiate a proposal to [TiKV Community](https://github.com/tikv/community) with the SIG Charter
+3. Initiate a PR to [TiKV Community](https://github.com/tikv/community) with the SIG Charter, and propose the SIG Charter to [SIGs log](/sig)
 4. The new SIG will be announced by the community committee after approval.
 
 ## SIG Lifecycle
 
 - **Create**
   - All SIG Technical Leads, and other roles need to be at least [Active Contributor](#active_contributor) in the Community structure
-  - Follow the steps above to create an [Create the SIG charter](Create the SIG charter)
+  - Follow the steps above to [Create the SIG charter](#Create-the-SIG-charter) 
   - Create a public and private Slack Channel in tikv-wg.slack.com to discuss the SIG operation related matters
   - Create a Zoom room for regular meetings, as well as other online discussions
   - Announce the establishment of a new SIG in the TiKV community
