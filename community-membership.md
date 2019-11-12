@@ -45,7 +45,7 @@ Reviewers are responsible for reviewing the code submitted by the community to e
 
 - Familiar with the codebase
 - Contributed a certain amount of code to TiKV subprojects
-- Performed excellently in the Special Interest Group (SIG)
+- Performed excellently in a Special Interest Group (SIG)
 - Sponsored by at least two incumbent Committers
 
 ### Privileges and responsibilities:
