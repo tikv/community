@@ -2,21 +2,21 @@
 
 ## Code of Conduct
 
-TiKV Community follows the TiKV Code of Conduct. Here are some excerpts:
+The TiKV community follows the TiKV Code of Conduct. Here are some excerpts:
 
 > In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Community Membership
 
-Refer to [Community Membership](community-membership.md)
+Refer to [Community Membership](community-membership.md).
 
-## Community Organization
+## Community Structure
 
-![community organization](media/governace/community_organization.png)
+![community organization](media/governance/community_organization.png)
 
-The community structure is divided into two parts. The first part is the community Membership structure diagram, the second part is the role division within the community group, and the promotion path of the community role.
+The community structure comprises two parts. The first part is the community organization, and the second part is the role division within the community group and the promotion path of each community role.
 
-PMC: The project management committee, is the project's core management team, which participates in roadmap to develop major community-related resolutions.
+PMC: The Project Management Committee; functions as the core management team that oversees the TiDB community. The PMC decides the roadmap of the project and makes major decisions related to the community.
 
 Developer Group:
 
@@ -26,7 +26,7 @@ Developer Group:
 - Active contributor: Contributed 8 PRs and above to TiKV within one year and received recognition from 2 incumbent Reviewers
 - Contributor: Merged at least 1 PR in any Repo under [TiKV](https://github.com/tikv) 
 
-Organizer Committee: The project organization committee is responsible for the implementation, export, and promotion of technical content. The members include the user group leaders of each region and the person in charge of community activities.
+Organizer Committee:  The Organizer Committee consists of organizers in charge of event or activity operations; in charge of the execution of PMC’s strategies and decisions. Specifically, the members are the leaders of user groups or community event organizers across regions
 
 ## Developer Group Structure
 

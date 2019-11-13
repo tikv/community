@@ -1,6 +1,6 @@
 # SIG Charter Template
 
-This charter follows the TiDB Community charter and institution, using the role definitions and responsibilities in [SIG Governace](SIG-GOVERNANCE.md). Each SIG needs to have its own charter that defines the responsibilities and contribution scope of the SIG. Each SIG institution can be consistent with the “charter template” or it can have its own defined rules, depending on the needs of the special SIG.
+This charter follows the TiKV Community charter and institution, using the role definitions and responsibilities in [SIG Governace](SIG-GOVERNANCE.md). Each SIG needs to have its own charter that defines the responsibilities and contribution scope of the SIG. Each SIG institution can be consistent with the “charter template” or it can have its own defined rules, depending on the needs of the special SIG.
 
 ## Responsibility
 
