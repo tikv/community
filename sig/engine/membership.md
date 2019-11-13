@@ -21,7 +21,7 @@ None
 
 ## Active Contributors
 
-None
+- [@fredchenbj](https://github.com/fredchenbj)
 
 ## Former Members
 
