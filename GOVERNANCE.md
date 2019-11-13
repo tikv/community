@@ -12,7 +12,7 @@ Refer to [Community Membership](community-membership.md).
 
 ## Community Structure
 
-![community organization](media/governance/community_organization.png)
+![community organization](/media/governace/community_organization.png)
 
 The community structure comprises two parts. The first part is the community organization, and the second part is the role division within the community group and the promotion path of each community role.
 
@@ -30,7 +30,7 @@ Organizer Committee:  The Organizer Committee consists of organizers in charge o
 
 ## Developer Group Structure
 
-![developer group](media/governace/developer_group.png)
+![developer group](/media/governace/developer_group.png)
 
 Community groups include Special Interest Group (SIG) and Working Group (WG). The second part of the organizational structure illustrates the definition of the SIG and WG, the internal roles of the group, and the role promotion machanism.
 
