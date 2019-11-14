@@ -2,8 +2,8 @@
 
 ## Tech Leader
 
-- [breeswish](https://github.com/breeswish)
-- [lonng](https://github.com/lonng)
+- [@breeswish](https://github.com/breeswish)
+- [@lonng](https://github.com/lonng)
 
 ## Maintainers
 
@@ -19,7 +19,9 @@ None
 
 ## Active Contributors
 
-None
+- [@hawkingrei](http://github.com/hawkingrei)
+- [@koushiro](http://github.com/koushiro)
+- [@niedhui](https://github.com/niedhui)
 
 ## Former Members
 
