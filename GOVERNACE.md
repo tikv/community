@@ -36,16 +36,9 @@ Members of the PMC do not have significant authority over other members of the c
 
 Membership of the PMC is by invitation from the existing PMC members. A nomination will result in discussion and then a vote by the existing PMC members. PMC membership votes are subject to consensus approval of the current PMC members.
 
-The current list of PMC members are:
+<!--- need the link to a Guiding Principals (Missions, Values; to be added separately) page as the principals for PMC --> 
 
-- Max Liu(**[@goroutine](https://github.com/ngaut/)**)
-- Ed Huang(**[@c4pt0r](https://github.com/c4pt0r)**)
-- Dylan Cui(**[@qiuyesuifeng](https://github.com/qiuyesuifeng)**)
-- Li Shen(**[@shenli](https://github.com/shenli)**)
-- Siddon Tang(**[@siddontang](https://github.com/siddontang)**)
-- Yin Liu(**[@iamxy](https://github.com/iamxy)**)
-- Jian Zhang(**[@zz-json](https://github.com/zz-jason)**)
-- Wink Yao(**[@winkyao](https://github.com/winkyao)**)
+For a list of the current PMC members, see the [PMC List](/master/committee/.README.md#members).
 
 ### Organizer Committee
 
@@ -67,13 +60,15 @@ Currently SIG membership requires invitation - potential qualified members are A
 
 Each SIG must have a charter that specifies its scope (topics, code repos and directories), responsibilities, areas of authority, how members and roles of authority/leadership are selected/granted, how decisions are made, and how conflicts are resolved. See the SIG charter process for details on how charters are managed. SIGs should be relatively free to customize or change how they operate, within some broad guidelines and constraints imposed by cross-SIG processes.
 
-See [sig governance](../sig-governace/sig-governace.md) for more details about current SIG operating mechanics, such as mailing lists, meeting times, etc.
+See [sig governance](/sig-governace/sig-governace.md) for more details about current SIG operating mechanics, such as mailing lists, meeting times, etc.
 
 #### Working Groups
 
 A Working Group is formed by community developers who gather together to accomplish a specific goal. To achieve the goal, some WGs may span over multiple SIGs, and some WGs may only focus on something specific in a specific SIG.
 
 Each WG has its life cycle. Once the goal is completed, the group will be disbanded. The only goal of WG operations and management is to ensure that the goals set by the group are completed at the right time. In general, the working group hold periodic meetings to summarize the current project progress and determine the plans for next steps.
+
+<!---to add Working Group governance link --> 
 
 ## Contributions
 
