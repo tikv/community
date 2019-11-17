@@ -1,4 +1,6 @@
-This is a Work in Progress. Stay tuned for more follow-up updates! 
+> **Note**
+>
+> This is a **Work in Progress**. Stay tuned for more follow-up updates!
 
 # Governace
 
@@ -21,7 +23,7 @@ Refer to [Community Membership](community-membership.md).
 The project is comprised of the following types of subgroups:
 
 - Project Management Committee, PMC
-- Organizer Committee 
+- Organizer Committee
 - Developer Group
     - Special Interest Groups, SIGs
     - Working Groups, WGs
@@ -33,6 +35,17 @@ The PMC functions as the core management team that oversees the TiKV community. 
 Members of the PMC do not have significant authority over other members of the community, although it is the PMC that votes on new committers, and makes all major decisions for the future with respect to TiKV. It also makes decisions when community consensus cannot be reached. In addition, the PMC has access to the project’s private mailing list and its archives. This list is used for sensitive issues, such as votes for new committers and legal matters that cannot be discussed in public. It is never used for project management or planning.
 
 Membership of the PMC is by invitation from the existing PMC members. A nomination will result in discussion and then a vote by the existing PMC members. PMC membership votes are subject to consensus approval of the current PMC members.
+
+The current list of PMC members are:
+
+- Max Liu(**[@goroutine](https://github.com/ngaut/)**)
+- Ed Huang(**[@c4pt0r](https://github.com/c4pt0r)**)
+- Dylan Cui(**[@qiuyesuifeng](https://github.com/qiuyesuifeng)**)
+- Li Shen(**[@shenli](https://github.com/shenli)**)
+- Siddon Tang(**[@siddontang](https://github.com/siddontang)**)
+- Yin Liu(**[@iamxy](https://github.com/iamxy)**)
+- Jian Zhang(**[@zz-json](https://github.com/zz-jason)**)
+- Wink Yao(**[@winkyao](https://github.com/winkyao)**)
 
 ### Organizer Committee
 
@@ -61,6 +74,10 @@ See [sig governance](../sig-governace/sig-governace.md) for more details about c
 A Working Group is formed by community developers who gather together to accomplish a specific goal. To achieve the goal, some WGs may span over multiple SIGs, and some WGs may only focus on something specific in a specific SIG.
 
 Each WG has its life cycle. Once the goal is completed, the group will be disbanded. The only goal of WG operations and management is to ensure that the goals set by the group are completed at the right time. In general, the working group hold periodic meetings to summarize the current project progress and determine the plans for next steps.
+
+## Contributions
+
+Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. The various ways of contributing are described in more detail in a separate document. For details, see [Contributing to TiKV](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md).
 
 ## Support
 
