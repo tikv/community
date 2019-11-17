@@ -58,12 +58,18 @@ After a period of inactivity, the SIG member will temporarily exit the SIG. The 
 
 ## SIG Lifecycle
 
-- **Create**
-  - All SIG Technical Leads, and other roles need to be at least [Active Contributor](#active_contributor) in the Community structure
-  - Follow the steps above to [Create the SIG charter](#Create-the-SIG-charter) 
-  - Create a public and private Slack Channel in tikv-wg.slack.com to discuss the SIG operation related matters
-  - Create a Zoom room for regular meetings, as well as other online discussions
-  - Announce the establishment of a new SIG in the TiKV community
-- **Dismiss**
+### Create
+
+1. All SIG Technical Leads, and other roles need to be at least [Active Contributor](#active_contributor) in the Community structure
+
+2. Follow the steps above to [Create the SIG charter](#Create-the-SIG-charter) 
+
+3. Create a public and private Slack Channel in tikv-wg.slack.com to discuss the SIG operation related matters
+
+4. Create a Zoom room for regular meetings, as well as other online discussions
+
+5. Announce the establishment of a new SIG in the TiKV community
+
+### Dismiss
 
 Sometimes an SIG may need to be dismissed or merged. The SIG's dissolution rules should be defined by the specific SIG.
