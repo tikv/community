@@ -4,14 +4,7 @@ PMC (Project Management Committee) functions as the core management team that ov
 
 ## Members
 
-- Max Liu(**[@goroutine](https://github.com/ngaut/)**)
-- Ed Huang(**[@c4pt0r](https://github.com/c4pt0r)**)
-- Dylan Cui(**[@qiuyesuifeng](https://github.com/qiuyesuifeng)**)
-- Li Shen(**[@shenli](https://github.com/shenli)**)
-- Siddon Tang(**[@siddontang](https://github.com/siddontang)**)
-- Yin Liu(**[@iamxy](https://github.com/iamxy)**)
-- Jian Zhang(**[@zz-json](https://github.com/zz-jason)**)
-- Wink Yao(**[@winkyao](https://github.com/winkyao)**)
+TBD
 
 ## Contact
 
