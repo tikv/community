@@ -33,7 +33,7 @@ Working Group 的页面上需要在 `Stakeholder SIGs` 一节中将跟本 Workin
 
 * 确定 WG 的组织者以及成员，确保成员都是 TiKV 的 Contributor。
 * 按照 [Working Group 页面模板](working-group-template.md) 在 [wg 目录](/wg) 创建一个 `xyz-wg` 的目录（将 xyz 修改为你的 WG 名称），并且将修改好的 Working Group 页面模板作为 `README.md` 页面
-* 在 [tikv/community](https://github.com/tikv/community) 提交一个 Pull Request，由 Maintainer/PMC 投票决定。再 Pull Request 被合并之后，宣布 Working Group 成立。
+* 在 [tikv/community](https://github.com/tikv/community) 提交一个 Pull Request，由 Maintainer/PMC 投票决定。在 Pull Request 被合并之后，宣布 Working Group 成立。
 * [Slack: tikv-wg.slack.com](tikv-wg.slack.com) 中创建对应 Working Group 的 channel。
 
 ### 解散

@@ -1,18 +1,20 @@
-# xyz Working Group(Working Group README Template)
+# xyz Working Group (Working Group README Template)
 
-Describe the goal of the working group, please ensure that the goal are measurable and deliverable.
+Describe the goal of the working group. Please ensure that the goals are measurable and deliverable.
 
 ## Stakeholder SIGs
 
-List the SIGs who have stake holders with this Working Group.
+List the stakeholder SIGs of this Working Group.
 
 ## Meetings
+
 * Regular WG Meeting: [Mondays at 13:00 PT (Pacific Time)] (bi-weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=13:00&tz=PT%20%28Pacific%20Time%29).
-    * Link your meeting notes here.(Google Doc)
+    * Link your meeting notes here. (Google Doc)
 
 ## Organizers
 
 * Wink Yao (**[@winkyao](https://github.com/winkyao)**), PingCAP
+
 
 ## Contact
 - Slack: [#xyz-wg](https://tikv-wg.slack.com/messages/xyz-wg)
@@ -20,8 +22,8 @@ List the SIGs who have stake holders with this Working Group.
 
 ## Published Documents
 
-Put the published docs of this Working Group here.
+Put the published documents of this Working Group here.
 
 ### RFC/Proposal
 
-Link your working group RFC/Proposal here.
+Link your Working Group RFC/Proposal here.
