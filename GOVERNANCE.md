@@ -2,9 +2,9 @@
 >
 > This is a **Work in Progress**. Stay tuned for more follow-up updates!
 
-# Governace
+# Governance
 
-The TiKV community is a meritocratic, consensus-based community project. Anyone with an interest in the project can join the community, contribute to the project design and participate in the decision making process. This document describes how that participation takes place and how to set about earning merit within the project community.
+TiKV is a community driven project. Anyone with an interest in the project can join the community, contribute to the project design and participate in the decision making process. This document describes how that participation takes place and how to set about earning merit within the project community.
 
 ## Code of Conduct
 
@@ -14,15 +14,16 @@ The TiKV community follows the TiKV Code of Conduct. Here are some excerpts:
 
 ## Community Roles and Responsibilities
 
-Refer to [Community Membership](community-membership.md).
+Refer to [Community Membership](/community-membership.md).
 
 ## Community Structure
 
-![community organization](/media/governace/community_organization.png)
+![community organization](/media/governance/community_organization.png)
 
-The project is comprised of the following types of subgroups:
+The project is comprised of and operated by the following types of subgroups:
 
 - Project Management Committee, PMC
+- Maintainers
 - Organizer Committee
 - Developer Group
     - Special Interest Groups, SIGs
@@ -30,15 +31,21 @@ The project is comprised of the following types of subgroups:
 
 ### Project Management Committee
 
-The PMC functions as the core management team that oversees the TiKV community. It consists of those individuals identified as Maintainers on the development site. The PMC has additional responsibilities over and above those of a committer. These responsibilities ensure the smooth running of the project. PMC members are expected to review code contributions, participate in strategic planning, approve changes to the governance model and manage the copyrights within the project outputs.
+The PMC functions as the core management team that oversees the TiKV community. The PMC has additional responsibilities over and above those of Maintainers. These responsibilities ensure the smooth running of the project. PMC members are expected to review code contributions, participate in strategic planning, approve changes to the governance model and manage the copyrights within the project outputs.
 
-Members of the PMC do not have significant authority over other members of the community, although it is the PMC that votes on new committers, and makes all major decisions for the future with respect to TiKV. It also makes decisions when community consensus cannot be reached. In addition, the PMC has access to the project’s private mailing list and its archives. This list is used for sensitive issues, such as votes for new committers and legal matters that cannot be discussed in public. It is never used for project management or planning.
+Members of the PMC do not have significant authority over other members of the community, although it is the PMC that votes on new Maintainers or Committers, and makes all major decisions for the future with respect to TiKV, such as project-level governance policies, management of sub-structures, security processes and so on. It also makes decisions when community consensus cannot be reached. In addition, the PMC has access to the project’s private mailing list and its archives.
 
 Membership of the PMC is by invitation from the existing PMC members. A nomination will result in discussion and then a vote by the existing PMC members. PMC membership votes are subject to consensus approval of the current PMC members.
 
-<!--- need the link to a Guiding Principals (Missions, Values; to be added separately) page as the principals for PMC --> 
+Given that PingCAP has built and supported this project in the first place, they reserve the right to appoint and form the first committee for a period of first year from the time this document becomes effective. Future PMC numbers are generated based on the rules described above.
 
-For a list of the current PMC members, see the [PMC List](/master/committee/.README.md#members).
+The number of PMC members should be limited to 6. This number is chosen to ensure that sufficient points of view are represented, while preserving the efficiency of the decision making process. For a list of the current PMC members, see the [PMC Members](/committee/.README.md#members).
+
+<!--- need the link to a Guiding Principals (Missions, Values; to be added separately) page as the principals for PMC -->
+
+### Maintainers
+
+While the PMC is the core management body that oversees the project, Maintainers are the technical authority in the Developer Group who function as planners and designers of the project. Maintainers set technical direction and priorities for the sub-project, and ensure its continued health and development. They make or approve design decisions for the project - either directly or by delegating these responsibilities. Maintainers are appointed by the PMC with anonymous votes.
 
 ### Organizer Committee
 
@@ -46,11 +53,11 @@ The Organizer Committee consists of organizers in charge of event or activity op
 
 ### Developer Group
 
-As the cornerstone of community development, the TiKV Developer Group consists of these roles: Maintainer, Committer, Reviewer, Active Contributor, and Contributor. Each role takes corresponding responsibilities in the community. Collectively they play an important role in the robust development of TiDB.
+As the cornerstone of community development, the TiKV Developer Group consists of these roles: Maintainer, Committer, Reviewer, Active Contributor, and Contributor. Each role takes corresponding responsibilities in the community. Collectively they play an important role in the robust development of TiDB. For more deitals, refer to [Community Membership](/community-membership.md).
 
 The Developer Group operates TiKV projects in two function forms: Special Interest Group (SIG) and Working Group (WG). The diagram below illustrates the definition of the SIG and WG, the internal roles of the group, and the role promotion path.
 
-![developer group](/media/governace/developer_group.png)
+![developer group](/media/governance/developer_group.png)
 
 #### SIGs
 
@@ -60,7 +67,7 @@ Currently SIG membership requires invitation - potential qualified members are A
 
 Each SIG must have a charter that specifies its scope (topics, code repos and directories), responsibilities, areas of authority, how members and roles of authority/leadership are selected/granted, how decisions are made, and how conflicts are resolved. See the SIG charter process for details on how charters are managed. SIGs should be relatively free to customize or change how they operate, within some broad guidelines and constraints imposed by cross-SIG processes.
 
-See [sig governance](/sig-governace/sig-governace.md) for more details about current SIG operating mechanics, such as mailing lists, meeting times, etc.
+See [sig governance](/sig-governance/sig-governance.md) for more details about current SIG operating mechanics, such as mailing lists, meeting times, etc.
 
 #### Working Groups
 
@@ -68,7 +75,7 @@ A Working Group is formed by community developers who gather together to accompl
 
 Each WG has its life cycle. Once the goal is completed, the group will be disbanded. The only goal of WG operations and management is to ensure that the goals set by the group are completed at the right time. In general, the working group hold periodic meetings to summarize the current project progress and determine the plans for next steps.
 
-<!---to add Working Group governance link --> 
+<!---to add Working Group governance link -->
 
 ## Contributions
 
