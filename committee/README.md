@@ -1,5 +1,6 @@
 # PMC
 
+<<<<<<< HEAD
 PMC (Project Management Committee) functions as the core management team that oversees the TiKV community. The PMC has additional responsibilities over and above those of a committer. These responsibilities ensure the smooth running of the project. PMC members are expected to review code contributions, participate in strategic planning, approve changes to the governance model and manage the copyrights within the project outputs. See [Governance](/governance.md#project-management-committee) for more details about PMC.
 
 ## Members
@@ -14,6 +15,13 @@ The current PMC members are:
 - Li Shen(**[@shenli](https://github.com/shenli)**)
 - Siddon Tang(**[@siddontang](https://github.com/siddontang)**)
 - Wink Yao(**[@winkyao](https://github.com/winkyao)**)
+=======
+PMC (Project Management Committee) functions as the core management team that oversees the TiKV community. It consists of those individuals identified as Maintainers on the development site. The PMC has additional responsibilities over and above those of a committer. These responsibilities ensure the smooth running of the project. PMC members are expected to review code contributions, participate in strategic planning, approve changes to the governance model and manage the copyrights within the project outputs.
+
+## Members
+
+TBD
+>>>>>>> a9f177dd7018e8c0df9f5b5ed2be3173af473478
 
 ## Contact
 
