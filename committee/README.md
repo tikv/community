@@ -4,6 +4,10 @@ PMC (Project Management Committee) functions as the core management team that ov
 
 ## Members
 
+Membership of the PMC is by invitation from the existing PMC members. Given that PingCAP has built and supported this project in the first place, they reserve the right to appoint and form the first committee for a period of first year from the time this document becomes effective.
+
+The current PMC members are:
+
 - Max Liu(**[@goroutine](https://github.com/ngaut/)**)
 - Ed Huang(**[@c4pt0r](https://github.com/c4pt0r)**)
 - Dylan Cui(**[@qiuyesuifeng](https://github.com/qiuyesuifeng)**)
@@ -15,4 +19,3 @@ PMC (Project Management Committee) functions as the core management team that ov
 
 - Slack: [#pmc](https://tikv-wg.slack.com/messages/pmc)
 - [Open Community Issues/PRs](https://github.com/tikv/community/labels/pmc)
-
