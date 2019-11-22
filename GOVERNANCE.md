@@ -8,7 +8,7 @@ TiKV is a community driven project. Anyone with an interest in the project can j
 
 ## Code of Conduct
 
-The TiKV community follows the TiKV Code of Conduct. Here are some excerpts:
+The TiKV community follows the [TiKV Code of Conduct](https://github.com/tikv/tikv/blob/master/CODE_OF_CONDUCT.md). Here are some excerpts:
 
 > In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
@@ -37,7 +37,7 @@ Members of the PMC do not have significant authority over other members of the c
 
 Membership of the PMC is by invitation from the existing PMC members. A nomination will result in discussion and then a vote by the existing PMC members. PMC membership votes are subject to consensus approval of the current PMC members.
 
-Given that PingCAP has built and supported this project in the first place, they reserve the right to appoint and form the first committee for a period of first year from the time this document becomes effective. Future PMC numbers are generated based on the rules described above.
+For the first formation of the committee our maintainers nominated a group of people who had great impact or influence on the project, including some members from PingCAP who founded TiKV. Future PMC numbers are generated based on the rules described above.
 
 For a list of the current PMC members, see the [PMC Members](/committee/.README.md#members).
 
@@ -87,7 +87,7 @@ All participants in the community are encouraged to provide support for new user
 
 ## Decision Making Process
 
-Depending on the nature, decisions about the future of the project are made by the PMC or by Maintainers. As the technical authority, Maintainers set technical direction and priorities for the sub-project, while PMC make other high-level decisions like establishment and operation policies of sub-projects, sub-structures, promoting new Maintainers, security processes, etc. Tech New proposals and ideas (changes of major features, organization, or processes) can be brought to the PMC or Maintainers’ attention through the [Request for Change (RFC)](https://github.com/tikv/rfcs) process. For the change to happen, the RFC must earn the majority votes in the corresponding group.
+Depending on the nature, decisions about the future of the project are made by the PMC or by Maintainers. As the technical authority, Maintainers set technical direction and priorities for the sub-project, while PMC make other high-level decisions like establishment and operation policies of sub-projects, sub-structures, promoting new Maintainers, security processes, etc. Tech New proposals and ideas (changes of major features, organization, or processes) can be brought to the PMC or Maintainers’ attention through the [Request for Comments (RFC)](https://github.com/tikv/rfcs) process. For the change to happen, the RFC must earn the majority votes in the corresponding group.
 
 ## Credits
 
