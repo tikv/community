@@ -4,7 +4,7 @@ PMC (Project Management Committee) functions as the core management team that ov
 
 ## Members
 
-Membership of the PMC is by invitation from the existing PMC members. Given that PingCAP has built and supported this project in the first place, they reserve the right to appoint and form the first committee for a period of first year from the time this document becomes effective.
+Membership of the PMC is by invitation from the existing PMC members. For the first formation of the committee our maintainers nominated a group of people who had great impact or influence on the project, including some members from PingCAP who founded TiKV.
 
 The current PMC members are:
 
