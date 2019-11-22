@@ -87,7 +87,7 @@ All participants in the community are encouraged to provide support for new user
 
 ## Decision Making Process
 
-Depending on the nature, decisions about the future of the project are made by the PMC or by Maintainers. As the technical authority, Maintainers set technical direction and priorities for the sub-project, while PMC make other high-level decisions like establishment and operation policies of sub-projects, sub-structures, promoting new Maintainers, security processes, etc. Tech New proposals and ideas (changes of major features, organization, or processes) can be brought to the PMC or Maintainers’ attention through the [Request for Comments (RFC)](https://github.com/tikv/rfcs) process. For the change to happen, the RFC must earn the majority votes in the corresponding group.
+Depending on the nature, decisions about the future of the project are made by the PMC or by Maintainers. As the technical authority, Maintainers set technical direction and priorities for the sub-project, while PMC make other high-level decisions like establishment and operation policies of sub-projects, sub-structures, promoting new Maintainers, security processes, etc. New proposals and ideas (changes of major features, organization, or processes) can be brought to the PMC or Maintainers’ attention through the [Request for Comments (RFC)](https://github.com/tikv/rfcs) process. For the change to happen, the RFC must earn the majority votes in the corresponding group.
 
 ## Credits
 
