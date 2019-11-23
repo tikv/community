@@ -45,7 +45,7 @@ For a list of the current PMC members, see the [PMC Members](/committee/.README.
 
 ### Maintainers
 
-While the PMC is the core management group that oversees the project, Maintainers are the technical authority in the Developer Group who function as planners and designers of the project. Maintainers set technical direction and priorities for the sub-project, and ensure its continued health and development. They make or approve design decisions for the project - either directly or by delegating these responsibilities. Maintainers are appointed by the PMC with anonymous votes.
+While the PMC is the core management group that oversees the project, Maintainers are the technical authority in the Developer Group who function as planners and designers of the project. Maintainers set technical direction and priorities for the sub-project, and ensure its continued health and development. They make or approve design decisions for the project - either directly or by delegating these responsibilities. Maintainers are appointed by the PMC with majority votes.
 
 ### Organizer Committee
 
