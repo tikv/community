@@ -37,7 +37,7 @@ Members of the PMC do not have significant authority over other members of the c
 
 Membership of the PMC is by invitation from the existing PMC members. A nomination will result in discussion and then a vote by the existing PMC members. PMC membership votes are subject to consensus approval of the current PMC members.
 
-For the first formation of the committee our maintainers nominated a group of people who had great impact or influence on the project, including some members from PingCAP who founded TiKV. Future PMC numbers are generated based on the rules described above.
+For the first formation of the committee our maintainers nominated a group of people who had great impact or influence on the project, including some members from PingCAP who founded TiKV. New PMC members are selected based on the rules described above.
 
 For a list of the current PMC members, see the [PMC Members](/committee/.README.md#members).
 
