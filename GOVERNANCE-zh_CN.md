@@ -12,7 +12,7 @@ TiKV Community 遵循 [TiKV 行为准则](https://github.com/tikv/tikv/blob/mast
 
 <h2 id="community_organization">社区组织架构</h2>
 
-![community organization](media/governace/community_organization.png)
+![community organization](media/governance/community_organization.png)
 
 社区架构分成两个部分，第一部分是社区角色架构图，第二部分为社区小组内部的角色分工，以及社区角色的晋升路径。
 
@@ -30,7 +30,7 @@ Organizer Committee：项目组织委员会，负责执行、输出，推广技�
 
 ## 开发者社区组织架构
 
-![developer group](media/governace/developer_group.png)
+![developer group](media/governance/developer_group.png)
 
 社区对外的小组有 Special Interest Group（SIG） 与 Working Group（WG）。第二部分组织架构图对 SIG 和 WG 的定义、小组内部角色和个角色晋升通道进行了说明。
 
