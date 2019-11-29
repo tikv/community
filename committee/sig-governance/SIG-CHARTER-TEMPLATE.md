@@ -1,6 +1,6 @@
 # SIG Charter Template
 
-This charter follows the TiKV Community charter and institution, using the role definitions and responsibilities in [SIG Governace](SIG-GOVERNACE.md). Each SIG needs to have its own charter that defines the responsibilities and contribution scope of the SIG. Each SIG institution can be consistent with the “charter template” or it can have its own defined rules, depending on the needs of the special SIG.
+This charter follows the TiKV Community charter and institution, using the role definitions and responsibilities in [SIG Governance](SIG-GOVERNANCE.md). Each SIG needs to have its own charter that defines the responsibilities and contribution scope of the SIG. Each SIG institution can be consistent with the “charter template” or it can have its own defined rules, depending on the needs of the special SIG.
 
 ## Responsibility
 
@@ -32,14 +32,14 @@ Describes the current issues related to the modules covered by the SIG, but does
 
 ## Role Definition and Organization Management
 
-This SIG follows the role definition and organization management defined in [SIG Governace](SIG-GOVERNACE.md). The following is a description of the responsibilities or institution specific to this SIG, as well as those that differ from [SIG Governace](SIG-GOVERNACE.md). Each SIG can also have different elimination and promotion mechanisms.
+This SIG follows the role definition and organization management defined in [SIG Governance](SIG-GOVERNANCE.md). The following is a description of the responsibilities or institution specific to this SIG, as well as those that differ from [SIG Governance](SIG-GOVERNANCE.md). Each SIG can also have different elimination and promotion mechanisms.
 
 ### Tech Leads Additional Responsibilities
 
 - List of additional responsibilities
 - Additional situation need to be mentioned
 
-### Different from [SIG Governace](SIG-GOVERNACE.md)
+### Different from [SIG Governance](SIG-GOVERNANCE.md)
 
 - Different list
 - Explain the reasons and purposes for different reasons
