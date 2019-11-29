@@ -15,12 +15,12 @@ None
 
 ## Reviewers
 
+- [@hawkingrei](http://github.com/hawkingrei)
 - [@niedhui](https://github.com/niedhui)
 - [@TennyZhuang](https://github.com/TennyZhuang)
 
 ## Active Contributors
 
-- [@hawkingrei](http://github.com/hawkingrei)
 - [@koushiro](http://github.com/koushiro)
 
 ## Former Members
