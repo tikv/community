@@ -1,9 +1,9 @@
 # SIG Governance
-SIG 全称 Special Interest Group。SIG 在社区架构中的位置请见：[社区架构 & 角色](/GOVERNACE-zh_CN.md#community_organization)。SIG 主要聚集一批 Active Contributor，对某一个或多个 TiKV 的模块深入研究 & 贡献，在 SIG 内部一步步晋升为 Reviewer，Committer。 
+SIG 全称 Special Interest Group。SIG 在社区架构中的位置请见：[社区架构 & 角色](/GOVERNANCE-zh_CN.md#community_organization)。SIG 主要聚集一批 Active Contributor，对某一个或多个 TiKV 的模块深入研究 & 贡献，在 SIG 内部一步步晋升为 Reviewer，Committer。 
 
 ## SIG 角色以及组织治理
 
-SIG 遵循 [社区治理规范](/GOVERNACE-zh_CN.md) 中的角色定义。SIG 需要遵守以下规则：
+SIG 遵循 [社区治理规范](/GOVERNANCE-zh_CN.md) 中的角色定义。SIG 需要遵守以下规则：
 
 * 在开始一个 SIG 之前，需要提前确立好章程，创建章程请参考：[创建 SIG 章程步骤](#step_to_create_sig_charter)。
 * 定期组织会议，至少每双周组织一次（节假日或其他需推迟或顺延的情况需提前说明），并且产出会议记录
