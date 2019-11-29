@@ -1,4 +1,4 @@
-# Governace
+# Governance
 
 ## Code of Conduct
 

@@ -1,10 +1,10 @@
-# SIG Governace
+# SIG Governance
 
-The full name of SIG is Special Interest Group. Please refer to [Community Organization](/GOVERNACE.md#developer-group-structure). SIGs mainly aggregate a group of Active Contributors, and conducts in-depth research & contributions to one or more TiKV modules, and is promoted to Reviewer, Committer within the SIG.
+The full name of SIG is Special Interest Group. Please refer to [Community Organization](/GOVERNANCE.md#developer-group-structure). SIGs mainly aggregate a group of Active Contributors, and conducts in-depth research & contributions to one or more TiKV modules, and is promoted to Reviewer, Committer within the SIG.
 
-## SIG Role and Organizational Governace
+## SIG Role and Organizational Governance
 
-The SIG follows the role definitions in the [GOVERNACE](/GOVERNACE.md). The SIG is subject to the following rules:
+The SIG follows the role definitions in the [GOVERNANCE](/GOVERNANCE.md). The SIG is subject to the following rules:
 
 - Before starting a SIG, the charter will be established in advance. Please refer [Create the SIG charter](#Create-the-SIG-charter) to create the charter 
 - Except for holidays, the regular meeting is organized at least once every two weeks.
