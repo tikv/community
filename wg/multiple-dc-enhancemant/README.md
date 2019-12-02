@@ -1,6 +1,7 @@
-# multiple-dc-enhancement Working Group
+# multi-dc-enhancement Working Group
 
-To implement an enhancement about deploying TiDB across multiple data centers.
+The multi-dc-enhancement Working Group aims to implement an enhancement of deploying
+TiDB across multiple data centers.
 
 ## Stakeholder SIGs
 
