@@ -24,7 +24,7 @@ List the stakeholder SIGs of this Working Group.
 * [Fullstop000](https://github.com/Fullstop000)
 
 ## Contact
-- Slack: [#xyz-wg](https://tikv-wg.slack.com/messages/multiple-dc-enhancement-wg)
+- Slack: [#multiple-dc-enhancement-wg](https://tikv-wg.slack.com/messages/multiple-dc-enhancement-wg)
 - [Open Community Issues/PRs](https://github.com/tikv/community/labels/wg%2Fmultiple-dc-enhancement-wg)
 
 ## Published Documents
