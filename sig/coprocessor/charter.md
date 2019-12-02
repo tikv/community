@@ -1,6 +1,6 @@
 # Coprocessor SIG Charter
 
-This charter follows the TiKV Community Charter, using the role definitions and responsibilities in [SIG Governace](/GOVERNACE.md).
+This charter follows the TiKV Community Charter, using the role definitions and responsibilities in [SIG Governance](/GOVERNANCE.md).
 
 ## Scope
 
