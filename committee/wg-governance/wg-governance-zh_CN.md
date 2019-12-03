@@ -12,7 +12,7 @@ Working Group 具有以下特征：
 
 ## Working Group 与 Special Interest Group 的关系
 
-![wg_sig_relationship](/media/governace/wg_sig_relationship.png)
+![wg_sig_relationship](/media/governance/wg_sig_relationship.png)
 
 被 TiKV Project 拥有的资产（例如：代码，文档，博客，规章制度等等）由 SIGs 拥有和管理。除非被 Working Group 所拥有的特殊资产，例如：
 
