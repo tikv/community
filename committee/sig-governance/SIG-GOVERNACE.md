@@ -73,3 +73,7 @@ After a period of inactivity, the SIG member will temporarily exit the SIG. The 
 ### Dismiss
 
 Sometimes an SIG may need to be dismissed or merged. The SIG's dissolution rules should be defined by the specific SIG.
+
+## Active SIG
+- [Coprocessor SIG](https://github.com/tikv/community/tree/master/sig/coprocessor)
+- [Engine SIG](https://github.com/tikv/community/tree/master/sig/engine)

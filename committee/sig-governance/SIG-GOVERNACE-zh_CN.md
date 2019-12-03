@@ -75,3 +75,7 @@ SIG 的成员在一段时间的不活跃之后，该成员会暂时请出 SIG。
 ### 解散
 
 有时候，SIG 可能是需要被解散或者被合并的。SIG 的解散规则应该在各自的章程中定义。
+
+## 活跃的 SIG
+- [Coprocessor SIG](https://github.com/tikv/community/tree/master/sig/coprocessor)
+- [Engine SIG](https://github.com/tikv/community/tree/master/sig/engine)
