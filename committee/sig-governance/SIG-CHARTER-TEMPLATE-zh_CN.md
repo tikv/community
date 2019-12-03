@@ -1,4 +1,5 @@
 # SIG 章程模板
+
 本章程遵循 TiDB Community 章程和制度，使用 [SIG Governance](/committee/sig-governance/SIG-GOVERNANCE-zh_CN.md) 中的角色定义以及职责。每一个 SIG 需要拥有自己的章程，定义 SIG 的职责以及贡献范围。每个 SIG 制度可以跟“章程模板” 保持一致，也可以有自己定义的规则，视 SIG 的需求而定。
 
 ## 职责范围
