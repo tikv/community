@@ -9,7 +9,7 @@ Maintainers are the planners and designers of the project, with the authority to
 - Demonstrated a deep understanding of TiKV's technical goals and directions
 - Actively involved in organizing technical seminars and proposing constructive subprojects
 - Can handle complex problems in the code implementation process
-- Obtained unanimous votes from the PMC
+- Invited by and obtained unanimous votes from the PMC
 
 ### Privileges and responsibilities:
 
