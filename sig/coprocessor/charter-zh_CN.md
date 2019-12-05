@@ -44,11 +44,13 @@ Coprocessor SIG 聚焦 TiKV 项目 Coprocessor 模块，Coprocessor 是 TiKV 中
 
 ## 活跃规则及晋升机制
 
-### 等级晋升
+### 身份等级晋升
+
+目前 Coprocessor SIG 成员身份等级的晋升主要以提名+投票方式进行。满足基本条件、表现出色、能够胜任相应职责的社区用户会被 Tech Leader 或 TiKV Maintainer 提名，其他 Tech Leader / TiKV Maintainer 投票通过后即可获得相应的身份。具体细则如下。
 
 #### Active Contributor → Reviewer
 
-Reviewer 能参与 Coprocessor SIG 社区的 PR review 工作，帮助相关项目进行落地。Tech Leader 审批决定成员是否可由 Active Contributor 晋升为 Reviewer，规则如下：
+Reviewer 能参与 Coprocessor SIG 社区的 PR review 工作，帮助相关项目进行落地。由 Active Contributor 晋升为 Reviewer 的要求如下：
 
 1. 成员展现出了一定的技术水平和社区参与度，客观贡献量必须至少满足以下一个或多个**最低要求**：
 
@@ -59,11 +61,11 @@ Reviewer 能参与 Coprocessor SIG 社区的 PR review 工作，帮助相关项�
 
 2. 成员的能力及技术水平得到至少两位 TiKV Committer（或更高社区等级）的认可和提名，能胜任 Coprocessor **一部分** PR 的 review 工作。
 
-满足规则的成员经由 Tech Leader 审批成为 Reviewer。
+经过提名、由两名 Tech Leader 投票通过后，可成为 Reviewer。
 
 #### Reviewer → Committer
 
-Committer 是对 Coprocessor 模块及 Coprocessor SIG 社区做出突出贡献成员的名誉上的认可。Tech Leader 和 TiKV Maintainer 审批决定成员是否可由 Reviewer 晋升为 Committer，规则如下：
+Committer 是对 Coprocessor 模块及 Coprocessor SIG 社区做出突出贡献成员的名誉上的认可。由 Reviewer 晋升为 Committer 的要求如下：
 
 1. 成员成为 Reviewer 后展现出了一定的责任感、参与推动 Coprocessor PR 的落地，客观贡献量至少满足以下一个或多个**最低要求**：
 
@@ -80,9 +82,9 @@ Committer 是对 Coprocessor 模块及 Coprocessor SIG 社区做出突出贡献�
 
 3. 成员的能力、技术水平、社区参与度得到至少两位 TiKV Maintainer（或更高社区等级）的认可和提名，能胜任**大部分** Coprocessor PR 的 review 和推动工作，有能力对 Coprocessor 的未来改进方向进行讨论、设计和决策，表现出良好的技术判断力。
 
-满足规则的成员经由 Tech Leader 和 Maintainer 审批成为 Committer。
+经过提名、由两名 Tech Leader 和一名 Maintainer 投票通过后，可成为 Committer。
 
-### 角色的权利和义务
+### 身份等级的权利和义务
 
 #### Reviewer
 
@@ -96,14 +98,23 @@ Committer 是对 Coprocessor 模块及 Coprocessor SIG 社区做出突出贡献�
 - 整体把控项目的代码质量
 - 指导 Contributor 与 Reviewer
 
-### 退出制度
+### 退出 SIG
 
-SIG 成员在以下情况中会被移除 SIG，但保留相应的 Active Contributor / Reviewer / Committer 身份：
+SIG 成员可主动退出 SIG，也会在以下情况中被移出 SIG：
 
 - 作为新成员未在指定时间内认领任务
 - 连续一个季度处于不活跃状态
 
-Reviewer 满足以下条件之一会被取消 Reviewer 身份且收回权限（后续重新考核后可恢复）：
+退出 SIG 后，将不能参与设计讨论，但可以继续保留 Active Contributor / Reviewer / Committer 身份等级作为 SIG 贡献的 Acknowledgement，并保留在成员列表中。
 
-- 超过一个季度没有 review 任何 Coprocessor 相关的 PR
-- 有 2 位以上 Committer 认为 Reviewer 能力不足或活跃度不足
+退出 SIG 后，Reviewer 及 Committer 会被回收 GitHub 权限。
+
+### 重新加入 SIG
+
+先前已退出 SIG 的成员以下条件后可申请重新加入 SIG：
+
+- 一个月内有新的 Coprocessor PR 被合入主干
+
+重新加入 SIG 的成员继承退出时的身份等级。
+
+重新加入 SIG 的 Reviewer 及 Committer 经过两名 Tech Leader 投票后可被重新授予 GitHub 权限。
