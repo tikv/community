@@ -42,44 +42,68 @@ Coprocessor SIG 聚焦 TiKV 项目 Coprocessor 模块，Coprocessor 是 TiKV 中
   - 及时 Review 代码
   - 定时发布任务（如果 SIG member 退出后，未完成的任务需要重新分配）
 
+## 活跃规则及晋升机制
 
-## SIG 活跃规则，晋升机制
+### 等级晋升
 
-- 考核 & 晋升制度
-  - Tech Leader 以月为单位对小组成员进行考核，决定成员是否可由 Active Contributor 晋升为 Reviewer：
-    - 熟悉代码库
-    - 获得至少 2 位 TiKV Committer 的提名
-    - PR 贡献满足以下任意一点：
-      - Merge Coprocessor PR 总数超过 10 个
-      - Merge Coprocessor PR 总行数超过 1000 行
-      - 已完成一项难度为 Medium 或以上的任务
-      - 提出设计想法并得到采纳成为可执行任务超过 3 个
+#### Active Contributor → Reviewer
 
-  - Tech Leader 和 TiKV Maintainer 以季度为单位对小组成员进行考核，决定成员是否可由 Reviewer 晋升为 Committer：
-    - 表现出良好的技术判断力
-    - 获得至少 2 位 TiKV Maintainer 的提名
-    - 至少完成两项难度为 Medium 的任务，或一项难度为 High 的任务
-    - PR 贡献满足以下至少两点：
-      - 半年内 Merge Coprocessor PR 总行数超过 1500 行
-      - 有效 Review Coprocessor PR 总数超过 10 个
-      - 有效 Review Coprocessor PR 总行数超过 1000 行
+Reviewer 能参与 Coprocessor SIG 社区的 PR review 工作，帮助相关项目进行落地。Tech Leader 审批决定成员是否可由 Active Contributor 晋升为 Reviewer，规则如下：
 
-- 晋级角色权益 & 义务
-  - Reviewer
-    - 参与项目设计决策
-    - 参与 Coprocessor PR Review 与质量控制
-    - 对 Coprocessor 模块 PR 具有有效的 Approve / Request Change 权限
+1. 成员展现出了一定的技术水平和社区参与度，客观贡献量必须至少满足以下一个或多个**最低要求**：
 
-  - Committer
-    - 拥有 Reviewer 具有的权益与义务
-    - 整体把控项目的代码质量
-    - 指导 Contributor 与 Reviewer
+   - Merge Coprocessor PR 总数超过 10 个
+   - Merge Coprocessor PR 总行数超过 1000 行
+   - 完成一项难度为 Medium 或以上的任务
+   - 提出设计想法并得到采纳成为可执行任务超过 3 个
 
-- 退出制度
-  - SIG 成员在以下情况中会被移除 SIG，但保留相应的 Active Contributor / Reviewer / Committer 身份：
-    - 作为新成员未在指定时间内认领任务
-    - 连续一个季度处于不活跃状态
+2. 成员的能力及技术水平得到至少两位 TiKV Committer（或更高社区等级）的认可和提名，能胜任 Coprocessor **一部分** PR 的 review 工作。
 
-  - Reviewer 满足以下条件之一会被取消 Reviewer 身份且收回权限（后续重新考核后可恢复）：
-    - 超过一个季度没有 review 任何 Coprocessor 相关的 PR
-    - 有 2 位以上 Committer 认为 Reviewer 能力不足或活跃度不足
+满足规则的成员经由 Tech Leader 审批成为 Reviewer。
+
+#### Reviewer → Committer
+
+Committer 是对 Coprocessor 模块及 Coprocessor SIG 社区做出突出贡献成员的名誉上的认可。Tech Leader 和 TiKV Maintainer 审批决定成员是否可由 Reviewer 晋升为 Committer，规则如下：
+
+1. 成员成为 Reviewer 后展现出了一定的责任感、参与推动 Coprocessor PR 的落地，客观贡献量至少满足以下一个或多个**最低要求**：
+
+   - Review 了 10 个 Easy 或无难度等级的 PR
+   - Review 了 2 个 Medium PR
+   - Review 了 1 个 Hard PR
+
+   上述 Review 的定义为 Reviewer 针对 PR 以评论或 Review 形式提出了有效的改进建议（除代码风格建议以外），回应 PR 作者的疑问，跟进该 PR 的最新变更，直到 PR 得到完善并被合入主干分支。
+
+2. 成员展现出了在 Coprocessor 模块足够的技术实力，对 Coprocessor 模块各个部分都有比较深入的理解，客观贡献量至少满足以下一个或多个**最低要求**：
+
+   - 完成两项难度为 Medium 或以上的任务
+   - 完成一项难度为 Hard 的任务
+
+3. 成员的能力、技术水平、社区参与度得到至少两位 TiKV Maintainer（或更高社区等级）的认可和提名，能胜任**大部分** Coprocessor PR 的 review 和推动工作，有能力对 Coprocessor 的未来改进方向进行讨论、设计和决策，表现出良好的技术判断力。
+
+满足规则的成员经由 Tech Leader 和 Maintainer 审批成为 Committer。
+
+### 角色的权利和义务
+
+#### Reviewer
+
+- 参与项目设计决策
+- 参与 Coprocessor PR Review 与质量控制
+- 对 Coprocessor 模块 PR 具有有效的 Approve / Request Change 权限
+
+#### Committer
+
+- 拥有 Reviewer 具有的权利与义务
+- 整体把控项目的代码质量
+- 指导 Contributor 与 Reviewer
+
+### 退出制度
+
+SIG 成员在以下情况中会被移除 SIG，但保留相应的 Active Contributor / Reviewer / Committer 身份：
+
+- 作为新成员未在指定时间内认领任务
+- 连续一个季度处于不活跃状态
+
+Reviewer 满足以下条件之一会被取消 Reviewer 身份且收回权限（后续重新考核后可恢复）：
+
+- 超过一个季度没有 review 任何 Coprocessor 相关的 PR
+- 有 2 位以上 Committer 认为 Reviewer 能力不足或活跃度不足
