@@ -1,6 +1,6 @@
 # Coprocessor SIG 章程
 
-本章程遵循 TiKV Community 章程和制度，使用 [SIG Governace](/GOVERNACE-zh_CN.md) 中的角色定义以及职责。
+本章程遵循 TiKV Community 章程和制度，使用 [SIG Governance](/GOVERNANCE-zh_CN.md) 中的角色定义以及职责。
 
 ## 职责范围
 
