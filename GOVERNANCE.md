@@ -4,7 +4,7 @@
 
 # TiKV Governance
 
-This document describes the governance rules of the TiKV project (organization). It is meant to be followed by all the repositories in the project and the TikV community.
+This document describes the governance rules of the TiKV project (organization). It is meant to be followed by all the repositories in the project and TiKV contributors.
 
 ## Principles
 
@@ -69,7 +69,7 @@ The Organizer Committee consists of organizers in charge of community event or a
 
 ### Developer Group
 
-As the cornerstone of community development, the TiKV Developer Group consists of these roles: Maintainer, Committer, Reviewer, Active Contributor, and Contributor. Each role takes corresponding responsibilities in the community. Collectively they play an important role in the robust development of TiDB. For more details, refer to [Community Membership](/community-membership.md).
+As the cornerstone of community development, the TiKV Developer Group consists of these roles: Maintainer, Committer, Reviewer, Active Contributor, and Contributor. Each role takes corresponding responsibilities in the community. Collectively they play an important role in the robust development of TiKV. For more details, refer to [Community Membership](/community-membership.md).
 
 The Developer Group operates TiKV projects in two function forms: Special Interest Group (SIG) and Working Group (WG). The diagram below illustrates the definition of the SIG and WG, the internal roles of the group, and the role promotion path.
 
@@ -77,11 +77,11 @@ The Developer Group operates TiKV projects in two function forms: Special Intere
 
 #### SIGs
 
-The TiKV project is organized primarily into Special Interest Groups, or SIGs. Each SIG is comprised of members from multiple companies or organizations, with a common purpose of advancing the TiKV project with respect to a specific topic,such as Coprocessor or Documentation. The goal of an SIG is to enable a distributed decision structure and code ownership, as well as providing focused forums for getting work done, making decisions, and onboarding new contributors. Every identifiable subpart of the project (e.g., github org, repository, subdirectory, API, test, issue, PR) is intended to be owned by the corresponding SIG.
+The TiKV project is organized primarily into Special Interest Groups, or SIGs. Each SIG is comprised of members from multiple companies or organizations, with a common purpose of advancing the TiKV project with respect to a specific topic, such as Coprocessor or Documentation. The goal of an SIG is to enable a distributed decision structure and code ownership, as well as providing focused forums for getting work done, making decisions, and onboarding new contributors. Every identifiable subpart of the project (e.g., github org, repository, subdirectory, API, test, issue, PR) is intended to be owned by the corresponding SIG.
 
-Currently SIG membership requires invitation - potential qualified members are Active Contributors in a particular module. It is our intention to properly guide or mentor community talents, and help them advance to the higher-level Reviewer, Committer and Maintainer within an SIG.
+Currently, SIG membership requires invitation - potential qualified members are Active Contributors in a particular module. It is our intention to properly guide or mentor community talents, and help them advance to the higher-level Reviewer, Committer and Maintainer within an SIG.
 
-Each SIG must have a charter that specifies its scope (topics, code repositories and directories), responsibilities, areas of authority, how members and roles of authority/leadership are selected/granted, how decisions are made, and how conflicts are resolved. See the SIG charter process for details on how charters are managed. SIGs should be relatively free to customize or change how they operate, within some broad guidelines and constraints imposed by cross-SIG processes.
+Each SIG must have a charter that specifies its scope (topics, code repositories, and directories), responsibilities, areas of authority, how members and roles of authority/leadership are selected/granted, how decisions are made, and how conflicts are resolved. See the SIG charter process for details on how charters are managed. SIGs should be relatively free to customize or change how they operate, within some broad guidelines and constraints imposed by cross-SIG processes.
 
 See [sig governance](/sig-governance/sig-governance.md) for more details about current SIG operating processes and mechanisms.
 
@@ -99,17 +99,17 @@ Anyone can contribute to the project, regardless of their skills, as there are m
 
 ## Decision making and voting
 
-Decisions are build on consensus between PMC members or Maintainers. Depending on the nature, decisions about the future of the project are made by the PMC or by Maintainers. As the technical authority, Maintainers set technical direction and priorities for the sub-project, while PMC make other high-level decisions like establishment and operation policies of sub-projects, sub-structures,promoting new Maintainers, security processes, etc.
+Decisions are built on consensus between PMC members or Maintainers. Depending on the nature, decisions about the future of the project are made by the PMC or by Maintainers. As the technical authority, Maintainers set technical direction and priorities for the sub-project, while the PMC makes other high-level decisions like establishment and operation policies of sub-projects, sub-structures, promoting new Maintainers, security processes, etc.
 
 New proposals and ideas (changes of major features, organization, or processes) can be brought to the PMC or Maintainers’ attention through the [Request for Comments (RFC)](https://github.com/tikv/rfcs) process. For the change to happen, the RFC must earn the supermajority (2/3) votes in the corresponding group.
 
 ## Conflict resolution
 
-In general, we prefer that technical issues and maintainer membership are amicably worked out between the persons involved. If a dispute cannot be decided independently, depending on the nature, the PMC or Maintainers can be called in to resolve the issue by voting. The same PR can be used or a separate PR can be opened in the concerned repository for voting.
+In general, we prefer that technical issues and other disputes upon which consensus can't be reached are amicably worked out between the persons involved. If a dispute cannot be decided independently, depending on the nature, the PMC or Maintainers can be called in to resolve the issue by voting based on the [Principles](#principles) and [Code of Conduct](https://github.com/tikv/tikv/blob/master/CODE_OF_CONDUCT.md). The same PR can be used or a separate PR can be opened in the concerned repository for voting.
 
 ## Adding new projects to the TiKV GitHub organization
 
-New projects can be added to the TiKV organization via GitHub issue discussion in one of the existing projects in the organization, as long as as they adheres to the [CNCF charter](https://www.cncf.io/about/charter/) and the guidelines in this governance. Once sufficient discussions have taken place (normally 3-5 business days but also depending on the volume of conversation), the Maintainers of the project where the issue was opened (since different projects in the organization may have different maintainers) will decide whether the new project should be added. The requester also needs to create an corresponding RFC for the change to happen, as described in [Decision Making and Voting](#decision-making-and-voting).
+New projects can be added to the TiKV organization via GitHub issue discussion in one of the existing projects in the organization, as long as as they adheres to the [CNCF charter](https://www.cncf.io/about/charter/) and the guidelines in this governance. Once sufficient discussions have taken place, the Maintainers of the project where the issue was opened (since different projects in the organization may have different maintainers) will decide whether the new project should be added. The requester also needs to create an corresponding RFC for the change to happen, as described in [Decision Making and Voting](#decision-making-and-voting).
 
 ## Changes in Governance
 
