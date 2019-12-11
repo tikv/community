@@ -2,14 +2,14 @@
 
 ## What is Working Group?
 
-Contributors are totally able to just work on goals together without it being a WG or formal. We're not 'allowing' it, this is just a formal recognition that this will happen and that WGs can empower and enhance these cooperations.
+Contributors are totally able to just work on goals together without it being a Working Group (WG) or formal team. A WG is a formal recognition that these kinds of groups will form, and that WGs can empower and enhance these cooperations.
 
-Due to the Working Group usually solves a problem that spans the scope of responsibility of multiple Special Interest Groups (SIGs), so it usually consists of members from different SIGs or some other community contributors. The Working Group usually dismisses after the problem is solved. And the results or members in the Working Group can be accepted by the SIG after. For more detailed procedures of creating or dismiss, see [WG Lifecycle](#wg-lifecycle).
+A Working Group usually solves a problem that spans the scope of responsibility of multiple Special Interest Groups (SIGs), so it usually consists of members from different SIGs or some other community contributors. The Working Group usually dissolves after the problem is solved. For more detailed procedures of creating or dismiss, see [WG Lifecycle](#wg-lifecycle).
 
 The Working Group has the following characteristics: 
 
 * Does not own the code
-* Have clear measurable goals and results that can be delivered
+* Have formal hierarchy or expected outcomes
 * Is a short-term organization and will be disbanded after the goal or mission is completed
 * Typically addresses a concern affecting multiple SIGs or subprojects
 
@@ -17,7 +17,7 @@ The Working Group has the following characteristics:
 
 ![wg_sig_relationship](/media/governance/wg_sig_relationship.png)
 
-The assets owned by the TiKV Project (eg: code, documentation, blogs, regulations, etc.) are owned and managed by SIGs. However, there are assets that are specially owned and managed by Working Groups, such as:
+The assets owned by the TiKV Project (eg: code, documentation, blogs, regulations, etc.) are owned and managed by SIGs, maintainers, and ultimately our PMC. However, there are assets that are specially owned and managed by Working Groups, such as:
 
 * Calendar events
 * Slack channel
@@ -48,10 +48,10 @@ The SIGs related to this Working Group should be listed on the Working Group's p
 
 * Once the PR is approved, this WG is properly charted. You can create a channel corresponding to the Working Group on Slack: tikv-wg.slack.com
 
-### Dismiss
+### Dissolution
 
-* The Working Group can be dismissed by the organizer after the mission completed.
-* If the working group has met one of the following requirements, the working group can be dismissed voluntarily:
+* The Working Group can dissolve itself after it feels that the mission it set out to do is complete.
+* If the working group has met one of the following requirements, the working group may be dissolved by the PMC:
   * None of the communication channels for the Working Group have been in use for the goals outlined at the founding of the Working Group in 2 months:
     * Slack channel
     * Zoom meeting room
