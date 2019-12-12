@@ -32,7 +32,7 @@ The SIGs related to this Working Group should be listed on the Working Group's p
 
 ## WG Lifecycle 
 
-### Create
+### Creation
 
 * Before creating a working group, make sure you get the following ready:
   * Ensure all WG Organizers, and other leadership roles are community members
