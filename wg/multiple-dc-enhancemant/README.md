@@ -8,6 +8,10 @@ TiDB across multiple data centers.
 List the stakeholder SIGs of this Working Group.
 
 ## Meetings
+* 2019-12-03
+  > Send an issue to etcd to show proto changes.
+  > Progresses of delegated peers are maintained on delegates.
+  > Delegated peers send responses to botht its leader and delegate.
 
 ## Mentors
 
