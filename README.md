@@ -8,7 +8,7 @@ Your journey of becoming a contributor and committer starts from here: improving
 
 TiKV has the following types of groups that are officially supported:
 
-+ PMC (Project Management Committee) is to manage and oversee the entire TiKV community. The PMC consists of Core Maintainers and Organizer Committee Chair. 
++ PMC (Project Management Committee) is to manage and oversee the entire TiKV community. The PMC consists of Core Maintainers and Organizer Committee Chair.
 + Special Interest Groups (SIGs) are persistent open groups that focus on a part of the project. SIGs must have open and transparent proceedings. Anyone is welcome to participate and contribute provided they follow the [TiKV Code of Conduct](https://github.com/tikv/tikv/blob/master/CODE_OF_CONDUCT.md). The purpose of a SIG is to own and develop a set of TiKV subprojects or components. See more details in SIG governance([中文](/committee/sig-governance/SIG-GOVERNANCE-zh_CN.md), [English](/committee/sig-governance/SIG-GOVERNANCE.md))
 + Working Groups are temporary groups that are formed to address issues that cross SIG boundaries. Working groups do not own any code or other long term artifacts. Working groups can report back and act through involved SIGs. See more details in WG governance([中文](/committee/wg-governance/wg-governance-zh_CN.md), [English](committee/wg-governance/wg-governance.md))
 
@@ -63,5 +63,3 @@ TiKV Community is under the Apache 2.0 license. See the [LICENSE.md](https://git
 ## Acknowledgements
 
 Thank you to the [Kubernetes](https://github.com/kubernetes/community), [Apache](http://activemq.apache.org/becoming-a-committer.html) and [Docker](https://github.com/docker/community) community pages for providing us with inspiration.
-
-

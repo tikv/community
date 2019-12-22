@@ -5,6 +5,8 @@ Covers engine related work in TiKV, including supporting various engines in TiKV
 - Constitution: [中文](./constitution-zh_CN.md)
 - Membership: [English](./membership.md)
 - Workflow: [中文](./workflow-zh_CN.md)
+- Document Archive: [中文/English](https://docs.google.com/document/d/1sRgyXsmeW350QmA3EancjhJ53W2DIKUTJuCzxMfL3Wk/edit#)
+- Meeting Notes: [English](https://docs.google.com/document/d/17GpwAsIWlxAM6lX6svXZK-9OtLrUG_Lau0mgW8kutLI/edit#)
 
 ## Meetings
 
