@@ -6,7 +6,7 @@ The full name of SIG is Special Interest Group. Please refer to [Community Organ
 
 The SIG follows the role definitions in the [GOVERNANCE](/GOVERNANCE.md). The SIG is subject to the following rules:
 
-- Before starting a SIG, the charter will be established in advance. Please refer [Create the SIG charter](#Create-the-SIG-charter) to create the charter 
+- Before starting a SIG, the charter will be established in advance. Please refer [Create the SIG charter](#create-the-sig-charter) to create the charter
 - Except for holidays, the regular meeting is organized at least once every two weeks.
 - The assignable tasks will be graded by difficulty levels and claimed by SIG members.
 
@@ -14,40 +14,44 @@ Please refer to [SIG Lifecycle](#sig-lifecycle) for other issue.
 
 ## SIG Roles
 
-### Active Contributors
+### SIG Members
 
-  - Active contributors will be invited to the SIG
-  - Remain active in at least one module in the SIG
-  - Continue to contribute in at least one module
-  - Can participate in the proposal and discussion in the SIG
-
-### Reviewer
-
-  Please refer to the definition of [Reviewer](/community-membership.md#Reviewer)
-
-### Committer
-
-  Please refer to the definition of [Committer](/community-membership.md#committer)
+- Inludes all Active Contributors, Reviewers, and Committers under the SIG
+- SHOULD maintain health of the SIG
+- SHOULD show sustained contributions to the SIG
+- SHOULD hold corresponding responsibilities in the SIG as documented in [Community Membership](/community-membership.md)
+- MAY participate in decision making of the SIG
 
 ### Tech Lead
 
-  - 2 or 3 Tech Leads in an SIG are required
-  - Responsible for training members of the SIG
-  - Organize discussions and make decisions of proposal generated within the SIG
-  - Responsible for the SIG's activity and output
-  - Lead the SIG to generate more Reviewer and Commiter
-  - Follow up progress and assign task in SIG
-  - Need to participate in regular meetings
-  - Make roadmap for the SIG
-  - Weekly progress meeting requires at least one Tech Lead to participate in the discussion online
+  - **Number**: 2-3. Initially assigned by Maintainers
+  - **Requirement**:
+    - MUST be a committer from the specific SIG
+    - MUST have demonstrated deep understanding of the SIG project
+  - **Term**: 1 year
+  - **Election:**
+      - Nominated by the Tech Leads or self-nominate
+      - Gained supermajority votes of Maintainers
+- **Responsibilities**
+    - Creating new projects under the SIG
+    - Triaging issues/tasks in the SIG
+    - Mentoring members of the SIG
+    - Organizing discussions and drawing conclusions for decision making within the SIG
+    - Ensuring health and sustained development of the SIG and grwoth of SIG members
+    - Making roadmap for the SIG
+    - Organizing and participating in regular meetings
 
 ## Member Promotion Mechanism
 
-Members of the SIG can be promoted to a higher role, and the rules are set by the specific SIG. Each promotion is nominated by two members of a higher level role or above.
+Members of the SIG can be promoted to a higher role based on the rules defined in [Community Membership](/community-membership.md).
 
 ## Member Exit Mechanism
 
-After a period of inactivity, the SIG member will temporarily exit the SIG. The exit mechanism is set by each SIG.
+There are two exit situations:
+
+- Members MAY decide to step down at anytime for personal reasons by opening the PR to modify the [`membership.md`](./membership.md) file. The PR can be merged once it gets two approvals from the higher role.
+
+- Members of a role SHOULD be removed of the SIG if they have not communicated a leave of absence and either cannot be reached for more than 1 month or are not fulfilling their documented responsibilities for more than 1 month. Tech Leads will assess the communication and contributions monthly to update the membership list. Each change (removal) in such case should be gained supermajority approval among Maintainers + Tech Leads.
 
 ## Create the SIG Charter
 
@@ -58,11 +62,11 @@ After a period of inactivity, the SIG member will temporarily exit the SIG. The 
 
 ## SIG Lifecycle
 
-### Create
+### Creation
 
-1. All SIG Technical Leads, and other roles need to be at least [Active Contributor](#active_contributor) in the Community structure
+1. All SIG Technical Leads and other roles need to be at least [Active Contributor](#active_contributor) in the Community structure
 
-2. Follow the steps above to [Create the SIG charter](#Create-the-SIG-charter) 
+2. Follow the steps above to [Create the SIG charter](#Create-the-SIG-charter)
 
 3. Create a public and private Slack Channel in tikv-wg.slack.com to discuss the SIG operation related matters
 
@@ -70,6 +74,6 @@ After a period of inactivity, the SIG member will temporarily exit the SIG. The 
 
 5. Announce the establishment of a new SIG in the TiKV community
 
-### Dismiss
+### Dissolution
 
-Sometimes an SIG may need to be dismissed or merged. The SIG's dissolution rules should be defined by the specific SIG.
+Sometimes a SIG may need to be dismissed or merged. The SIG's dissolution rules should be defined by the specific SIG.

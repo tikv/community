@@ -8,9 +8,9 @@ Your journey of becoming a contributor and committer starts from here: improving
 
 TiKV has the following types of groups that are officially supported:
 
-+ PMC (Project Management Committee) is to manage and oversee the entire TiKV community. The PMC consists of Core Maintainers and Organizer Committee Chair.
-+ Special Interest Groups (SIGs) are persistent open groups that focus on a part of the project. SIGs must have open and transparent proceedings. Anyone is welcome to participate and contribute provided they follow the [TiKV Code of Conduct](https://github.com/tikv/tikv/blob/master/CODE_OF_CONDUCT.md). The purpose of a SIG is to own and develop a set of TiKV subprojects or components. See more details in SIG governance([中文](/committee/sig-governance/SIG-GOVERNANCE-zh_CN.md), [English](/committee/sig-governance/SIG-GOVERNANCE.md))
-+ Working Groups are temporary groups that are formed to address issues that cross SIG boundaries. Working groups do not own any code or other long term artifacts. Working groups can report back and act through involved SIGs. See more details in WG governance([中文](/committee/wg-governance/wg-governance-zh_CN.md), [English](committee/wg-governance/wg-governance.md))
++ PMC (Project Management Committee) is to manage and oversee the entire TiKV community.
++ Special Interest Groups (SIGs) are persistent open groups that focus on a part of the project. SIGs must have open and transparent proceedings. Anyone is welcome to participate and contribute provided they follow the [TiKV Code of Conduct](https://github.com/tikv/tikv/blob/master/CODE_OF_CONDUCT.md). The purpose of a SIG is to own and develop a set of TiKV subprojects or components. See more details in SIG governance([中文](/sig-governace/SIG-GOVERNACE-zh_CN.md), [English](/sig-governace/SIG-GOVERNACE.md))
++ Working Groups are temporary groups that are formed to address issues that cross SIG boundaries. Working groups do not own any code or other long term artifacts. Working groups can report back and act through involved SIGs.
 
 See the full governance([中文](/GOVERNANCE-zh_CN.md), [English](/GOVERNANCE.md)) for more details on these groups.
 
@@ -34,6 +34,8 @@ You can reach out to the community members via any one of the following ways:
 
 ## Your First Contribution
 
+A first step to contributing is to pick from the list of available TiKV SIGs. Start attending SIG meetings, join the slack channel and subscribe to the mailing list. SIGs will often have a set of "help wanted" issues that can help new contributors get involved.
+
 The [Contributor Guide](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md) provides detailed instruction on how to get your ideas and bug fixes seen and accepted, including:
 
 1. [Building and setting up a development workspace](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md#building-and-setting-up-a-development-workspace)
@@ -42,13 +44,7 @@ The [Contributor Guide](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md
 
 ## How Do I Become a Committer?
 
-First of all you need to get involved and be a Contributor.
-
-Based on your track-record as a contributor, one of our Maintainers or PMC members may invite you to be a committer (after we've called a vote). When that happens, if you accept, the following process kicks into place...
-
-Note that becoming a committer is not just about submitting some patches; it's also about helping out on the development and helping with documentation and the issues.
-
-See [How to be a TiKV Contributor.md](https://tikv.org/docs/3.0/contribute/contribute-to-tikv/) for more details.
+Firstly you need to get involved and become a Active Contributor in a SIG. After that, you will be invited into the SIG as a SIG member, which kicks off your path to higher roles such as Reviewer and Committer. For more details on the requirements, see [Community Membership](community-membership.md).
 
 ## Communication
 
@@ -60,6 +56,6 @@ Communication within the TiKV community abides by [TiKV Code of Conduct](https:/
 
 TiKV Community is under the Apache 2.0 license. See the [LICENSE.md](https://github.com/tikv/tikv/blob/master/LICENSE) file for details.
 
-## Acknowledgements
+## Credits
 
-Thank you to the [Kubernetes](https://github.com/kubernetes/community), [Apache](http://activemq.apache.org/becoming-a-committer.html) and [Docker](https://github.com/docker/community) community pages for providing us with inspiration.
+Thanks to [Kubernetes](https://github.com/kubernetes/community), [Apache](http://activemq.apache.org/becoming-a-committer.html) and [Docker](https://github.com/docker/community) community pages for providing us with inspiration.
