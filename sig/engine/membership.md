@@ -17,11 +17,11 @@ None
 
 ## Reviewers
 
-None
+- [@fredchenbj](https://github.com/fredchenbj)
 
 ## Active Contributors
 
-- [@fredchenbj](https://github.com/fredchenbj)
+None
 
 ## Former Members
 
