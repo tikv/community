@@ -30,22 +30,24 @@ Committer status is scoped to the part of the codebase under the SIG.
 
 ### How to become a Committer:
 
-- Demonstrated good sense of responsibility in PR reviews within the SIG. The review contributions must meet the amount or the difficulty criteria as defined in the charter of the specific SIG.
-- Demonstrated deep undertanding of the TiKV components specific to the SIG by contributing significantly to TiKV performance improvements, or fix major bugs, which can be achieved by satisfying one or more requirements below:
+- Demonstrated a good sense of responsibility in PR reviews within the SIG. The review contributions must meet the amount or the difficulty criteria as defined in the charter of the specific SIG.
+- Demonstrated deep understanding of the TiKV components specific to the SIG by contributing significantly to TiKV performance improvements, or fix major bugs, which can be achieved by satisfying one or more requirements below:
     - Finished 2+ tasks of Medium difficulty or higher
     - Fixed 1+ task of Hard difficulty
-- Nominated by the Tech Lead of the SIG and gain at least two votes from Maintainers
+- Nominated by the Tech Leads of the SIG and gained supermajority (2/3) votes from Maintainers
 
-**Note:**
+**Notes:**
 >
-> - A review is counted only when it provides valid comments or edits that advances the PR to approval and merging.
-> - PR characteristics may vary among SIGs, so the requirments for PR reviews are subject to the specific SIG.
+> - A review is only counted when it provides valid comments or edits that advances the PR to approval and merging.
+> - PR characteristics may vary among SIGs, so the requirements for PR reviews are subject to the specific SIG.
 
 ### Privileges and responsibilities:
 
 - Control overall code quality of projects under the SIG
 - Guide Contributors and Reviewers to contribute to TiKV continuously
 - Participate in Committer meetings regularly and have knowledge priority regarding project development
+- Participate in design discussions
+- Get the profile listed on the membership page of the corresponding SIG
 
 ## Reviewer
 
@@ -57,9 +59,8 @@ Reviewer status is scoped to the part of the codebase under the SIG.
 
 - Familiar with the codebase
 - Demonstrated a recoganized level of community engagement in the SIG development, via contributions that have met one or more of the minimal criteria as defined below：
-  - Merged a specific amount of PRs (10+, may vary among SIGs)
+  - Merged 20+ PRs (may vary among SIGs)
   - Handled 1+ more issue of Medium difficulty or higher
-  - Proposed 3+ ideas that get adopted
 - Sponsored by at 2+ TiKV Committers
 
 ### Privileges and responsibilities:
@@ -68,24 +69,40 @@ Reviewer status is scoped to the part of the codebase under the SIG.
 - Respond promptly to PRs
 - Participate in SIG meetings regularly
 - Approve code reviews with LGTM (Looks Good To Me)
+- Get the profile listed on the membership page of the corresponding SIG
 
 ## Active Contributor
 
-Active community contributors with certain amount of PR contributions in a SIG as described below.
+Active Contributors are continuously active contributors in the community. They can have issues and PRs assigned to them, participate in SIGs through GitHub teams, and pre-submit tests are automatically run for their PRs.
 
 ### How to become an Active Contributor:
 
-- Contributed 8 PRs and above to specific SIG within one year
-- Sponsored by two incumbent Reviewers
-
->**Note:**
->
-> To be eligible for a SIG, a mimimum of 8 PRs must be exclusive to the specific SIG.
+- Contributed 8 PRs and above to a specific SIG within one year
+- Sponsored by two incumbent Reviewers in a SIG
 
 ### Privileges and responsibilities:
 
-- Active Contributor is automatically eligible for and will be invited to the corresponding SIG.
+- Get the profile listed on the membership page of the corresponding SIG
 
 ## Contributor
 
-- Merged at least 1 PR for any SIG under [TiKV](https://github.com/tikv)
+New contributors should be welcomed to the community by existing members, helped with PR workflow, and directed to relevant documentation and communication channels.
+
+### How to become a Contributor:
+
+- Merged at least 1 PR for any SIG
+
+You are also encouraged to participate in the projects in the following ways:
+
+- Actively answer technical questions asked by community users in github issues.
+- Help test the projects
+- Help review the pull requests (PRs) submitted by others
+- Help improve technical documents
+- Submit valuable issues
+- Report or fix known and unknown bugs
+- Write articles about source code analysis and usage cases for the - projects.
+
+### Privileges and responsibilities:
+
+- Become a member in the SIG
+- Get the profile listed on the membership page of the TiKV community

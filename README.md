@@ -42,10 +42,6 @@ The [Contributor Guide](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md
 2. [How to run TiKV](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md#running-tikv)
 3. [Contribution flow](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md#contribution-flow)
 
-## How Do I Become a Committer?
-
-Firstly you need to get involved and become a Active Contributor in a SIG. After that, you will be invited into the SIG as a SIG member, which kicks off your path to higher roles such as Reviewer and Committer. For more details on the requirements, see [Community Membership](community-membership.md).
-
 ## Communication
 
 Communication within the TiKV community abides by [TiKV Code of Conduct](https://github.com/tikv/tikv/blob/master/CODE_OF_CONDUCT.md). Here is an excerpt:
