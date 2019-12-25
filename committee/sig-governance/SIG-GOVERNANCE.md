@@ -17,7 +17,7 @@ In order to standardize Special Interest Group efforts, create maximum transpare
 
 ## SIG Roles
 
-The SIG follows the role definitions in the [Community Membership](/community-membership) and [GOVERNANCE](/GOVERNANCE.md).
+The SIG follows the role definitions in the [Community Membership](/community-membership.md) and [GOVERNANCE](/GOVERNANCE.md).
 
 ### SIG Members
 
@@ -26,6 +26,7 @@ The SIG follows the role definitions in the [Community Membership](/community-me
 - SHOULD show sustained contributions to the SIG
 - SHOULD hold corresponding responsibilities in the SIG as documented in [Community Membership](/community-membership.md)
 - MAY participate in decision making of the SIG
+- Members are tracked in `membership.md` in the specific SIG (Contributors are listed in the aggregated contributor list for maintainence convenience)
 
 ### Tech Lead
 
@@ -37,7 +38,7 @@ The SIG follows the role definitions in the [Community Membership](/community-me
   - **Election:**
       - Nominated by the Tech Leads or self-nominate
       - Gained supermajority votes of Maintainers
-      - Done through PR to update the 
+      - Done through PR to update the `membership.md` file in the SIG
 - **Responsibilities**
     - Creating new projects under the SIG
     - Triaging issues/tasks in the SIG
