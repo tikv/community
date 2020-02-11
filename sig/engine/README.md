@@ -10,7 +10,7 @@ Covers engine related work in TiKV, including supporting various engines in TiKV
 
 ## Meetings
 
-* Regular SIG Meeting: TBD
+* Regular SIG Meeting: Bi-weekly on Wed 10am, Beijing Time (Tue 6pm PST) starting from 2020/02/11.
 
 ## Leadership
 
