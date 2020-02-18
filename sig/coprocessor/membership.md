@@ -12,10 +12,10 @@ None
 ## Committers
 
 - [@niedhui](https://github.com/niedhui)
+- [@TennyZhuang](https://github.com/TennyZhuang)
 
 ## Reviewers
 
-- [@TennyZhuang](https://github.com/TennyZhuang)
 - [@Fullstop000](https://github.com/Fullstop000)
 
 ## Active Contributors
