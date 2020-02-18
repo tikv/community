@@ -16,12 +16,13 @@ None
 
 ## Reviewers
 
+- [@Fullstop000](https://github.com/Fullstop000)
+
 ## Active Contributors
 
 - [@hawkingrei](http://github.com/hawkingrei)
 - [@koushiro](http://github.com/koushiro)
 - [@cireu](https://github.com/cireu)
-- [@Fullstop000](https://github.com/Fullstop000)
 
 ## Former Members
 
