@@ -10,7 +10,7 @@ Covers engine related work in TiKV, including supporting various engines in TiKV
 
 ## Meetings
 
-* Regular SIG Meeting: TBD
+* Regular SIG Meeting: [Meeting Notes](https://docs.google.com/document/d/17GpwAsIWlxAM6lX6svXZK-9OtLrUG_Lau0mgW8kutLI/edit)
 
 ## Leadership
 
