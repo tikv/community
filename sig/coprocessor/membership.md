@@ -23,6 +23,7 @@ None
 - [@hawkingrei](http://github.com/hawkingrei)
 - [@koushiro](http://github.com/koushiro)
 - [@cireu](https://github.com/cireu)
+- [@renkai](https://github.com/renkai)
 
 ## Former Members
 
