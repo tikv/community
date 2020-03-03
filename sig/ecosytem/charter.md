@@ -14,7 +14,7 @@ This charter follows the TiKV Community Charter, using the role definitions and 
   - [client-c](https://github.com/tikv/client-c): TiKV C Client.
   - [client-java](https://github.com/tikv/client-java): TiKV Java Client.
   - [BR](https://github.com/pingcap/br): TiKV fast backup and restore tool.
-  - [rust-promethues](https://github.com/tikv/rust-prometheus): Prometheus Rust Client。
+  - [rust-promethues](https://github.com/tikv/rust-prometheus): Prometheus Rust Client.
 
 - Test
   - The code needs to pass existing integration tests, and new changes need to add new integration tests.
