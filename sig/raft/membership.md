@@ -2,7 +2,7 @@
 
 ## Tech Leader
 
-- [@AndreMouche](https://github.com/AndreMouche)
+- [@BusyJay](https://github.com/BusyJay)
 
 ## Maintainers
 

@@ -2,7 +2,9 @@
 
 ## Tech Leader
 
-- [@BusyJay](https://github.com/BusyJay)
+- [@AndreMouche](https://github.com/AndreMouche)
+- [@MyonKeminta](https://github.com/MyonKeminta)
+- [@nrc](https://github.com/nrc)
 
 ## Maintainers
 

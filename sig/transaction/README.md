@@ -20,6 +20,8 @@ Covers transaction related work in TiKV, including improve transaction in TiKV a
 ### Tech Leader
 
 * Xuelian Wu(**[@AndreMouche](https://github.com/AndreMouche)**)
+* Zhenjing Zhou(**[@MyonKeminta](https://github.com/MyonKeminta)**)
+* Nick Cameron(**[@nrc](https://github.com/nrc)**)
 
 ## Contact
 
