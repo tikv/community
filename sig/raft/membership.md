@@ -2,6 +2,7 @@
 
 ## Tech Leader
 
+- [@AndreMouche](https://github.com/AndreMouche)
 
 ## Maintainers
 

@@ -4,7 +4,6 @@ Covers the surrounding modules of the TiKV project, like TiKV clients in differe
 
 - Charter: [中文](./charter-zh_CN.md) [English](./charter.md)
 - Membership: [English](./membership.md)
-- Workflow: [中文](./workflow-zh_CN.md)
 
 ## Meetings
 
@@ -15,7 +14,8 @@ Covers the surrounding modules of the TiKV project, like TiKV clients in differe
 
 ### Tech Leader
 
+* Taining Shen(**[@overvenus](https://github.com/overvenus)**)
 
 ## Contact
 
-- Slack: [#ecosystem-sig](https://tikv-wg.slack.com/messages/ecosystem-sig)
+- Slack: [tikv-wg.slack.com](https://join.slack.com/t/tikv-wg/shared_invite/enQtNTUyODE4ODU2MzI0LWVlMWMzMDkyNWE5ZjY1ODAzWYZWYZWYWJGWZGWYG) [#ecosystem-sig](https://tikv-wg.slack.com/messages/ecosystem-sig)

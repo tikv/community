@@ -2,7 +2,7 @@
 
 Covers Raft related work in TiKV, including optimize raft-rs and the Multi-Raft implementation in TiKV.
 
-- Constitution: [中文](./constitution-zh_CN.md)
+- Constitution: [中文](./constitution-zh_CN.md)/[English](./constitution.md)
 - Membership: [English](./membership.md)
 - Workflow: [中文](./workflow-zh_CN.md)
 - Document Archive: 中文/English
@@ -19,6 +19,8 @@ Covers Raft related work in TiKV, including optimize raft-rs and the Multi-Raft 
 
 ### Tech Leader
 
+* Jianjun Li(**[@BusyJay](https://github.com/BusyJay)**)
+
 ## Contact
 
-- Slack: [#raft-sig](https://tikv-wg.slack.com/messages/raft-sig)
+- Slack: [tikv-wg.slack.com](https://join.slack.com/t/tikv-wg/shared_invite/enQtNTUyODE4ODU2MzI0LWVlMWMzMDkyNWE5ZjY1ODAzWYZWYZWYWJGWZGWYG) [#raft-sig](https://tikv-wg.slack.com/messages/raft-sig)

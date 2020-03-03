@@ -2,9 +2,8 @@
 
 Covers performance related work in TiKV, including find bottlenecks in TiKV and give optimizations.
 
-- Constitution: [中文](./constitution-zh_CN.md)
+- Constitution: [中文](./constitution-zh_CN.md) [English](./constitution.md)
 - Membership: [English](./membership.md)
-- Workflow: [中文](./workflow-zh_CN.md)
 - Document Archive: 中文/English
 - Meeting Notes: English
 
@@ -19,6 +18,9 @@ Covers performance related work in TiKV, including find bottlenecks in TiKV and 
 
 ### Tech Leader
 
+* Cong Liu(**[@innerr](https://github.com/innerr)**)
+* Wei Liu(**[@Little-Wallace](https://github.com/Little-Wallace)**)
+
 ## Contact
 
-- Slack: [#performance-sig](https://tikv-wg.slack.com/messages/performance-sig)
+- Slack: [tikv-wg.slack.com](https://join.slack.com/t/tikv-wg/shared_invite/enQtNTUyODE4ODU2MzI0LWVlMWMzMDkyNWE5ZjY1ODAzWYZWYZWYWJGWZGWYG) [#performance-sig](https://tikv-wg.slack.com/messages/performance-sig)

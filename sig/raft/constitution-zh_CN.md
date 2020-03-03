@@ -23,7 +23,7 @@ Raft SIG 的主要职责是致力于分布式一致性算法 [Raft](https://gith
 
 - 代码风格、提交规范、PR Description 模板等请参考 [文档](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md)
 - 任务分配
-  - SIG Tech Lead 在 https://github.com/tikv/community 维护公开的 [成员列表](./membership.md) 与 [任务列表](https://github.com/tikv/tikv/projects/22) 链接。
+  - SIG Tech Lead 在 https://github.com/tikv/community 维护公开的 [成员列表](./membership.md) 与 [任务列表](https://github.com/tikv/tikv/projects/27) 链接。
   - 新加入的 SIG 成员可自由领取任务，或参与现有任务的开发或推动，但需与 Tech Lead 或相应任务的负责人进行沟通和同步。
   - SIG 成员需维持每个月参与开发任务，或参与关于现有功能或未来规划的设计与讨论。若连续一个季度不参与开发与讨论，视为不活跃状态，视情况将会被移除 SIG。
 
@@ -31,7 +31,7 @@ Raft SIG 的主要职责是致力于分布式一致性算法 [Raft](https://gith
   - 每 2 周以文档形式同步一次当前各个项目的开发进度。
   - 每 2 周召开一次全组进度会议，时间依据参会人员可用时间另行协商。目前没有项目正在开发的成员可选择性参加以便了解各个项目进度。若参与开发的成员不能参加，需提前请假且提前将自己的月度进度更新至文档。
   - 每次会议由一名成员进行会议记录，在会议结束 24 小时内完成会议记录并公开。会议记录由小组成员轮流执行。
-  - Slack: [tikv-wg.slack.com]() #raft-sig
+  - Slack: [tikv-wg.slack.com](https://join.slack.com/t/tikv-wg/shared_invite/enQtNTUyODE4ODU2MzI0LWVlMWMzMDkyNWE5ZjY1ODAzWYZWYZWYWJGWZGWYG) #raft-sig
 
 - 组织线上线下成员的活动
 - Tech Leads 额外承担的职责

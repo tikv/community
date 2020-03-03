@@ -19,6 +19,8 @@ Covers transaction related work in TiKV, including improve transaction in TiKV a
 
 ### Tech Leader
 
+* Xuelian Wu(**[@AndreMouche](https://github.com/AndreMouche)**)
+
 ## Contact
 
-- Slack: [#transaction-sig](https://tikv-wg.slack.com/messages/transaction-sig)
+- Slack: [tikv-wg.slack.com](https://join.slack.com/t/tikv-wg/shared_invite/enQtNTUyODE4ODU2MzI0LWVlMWMzMDkyNWE5ZjY1ODAzWYZWYZWYWJGWZGWYG) [#transaction-sig](https://tikv-wg.slack.com/messages/transaction-sig)
