@@ -1,4 +1,4 @@
-# Coprocessor SIG Members
+# Ecosystem SIG Members
 
 ## Tech Leader
 
