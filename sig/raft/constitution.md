@@ -1,6 +1,6 @@
 # Raft SIG Bylaws
 
-This charter follows the TiKV Community charter and system, using the role definitions and responsibilities in [SIG Governance](/GOVERNANCE-zh_CN.md).
+This charter follows the TiKV Community charter and system, using the role definitions and responsibilities in [SIG Governance](/GOVERNANCE.md).
 
 ## Responsibility
 
