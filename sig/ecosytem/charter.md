@@ -76,7 +76,7 @@ This charter follows the TiKV Community Charter, using the role definitions and 
     - Ensure overall code quality of the project
     - Guide contributors and reviewers
 
-- Quit
+- Exit
   - these repo's SIG members will be removed from the SIG in the following cases (corresponding Active Contributor / Reviewer / Committer roles will be retained):
     - As a new member, not claimed any task within the specified time
     - Inactive for one quarter
