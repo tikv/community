@@ -4,7 +4,7 @@
 
 ## 职责范围
 
-Raft SIG 的主要职责是致力于分布式一致性算法 [Raft](https://github.com/tikv/raft-rs) 库的发展，以及 Multi-Raft 在 TiKV 中的应用和优化，并组织社区成员进行相关开发和维护。仅 Active Contributor 或更高等级社区成员可成为 SIG 成员并参与到相应事项中来，但 SIG 各项实行的决策和进行的项目将公开。
+Raft SIG 的主要职责是致力于分布式共识算法 [Raft](https://github.com/tikv/raft-rs) 库的发展，以及 Multi-Raft 在 TiKV 中的应用和优化，并组织社区成员进行相关开发和维护。仅 Active Contributor 或更高等级社区成员可成为 SIG 成员并参与到相应事项中来，但 SIG 各项实行的决策和进行的项目将公开。
 
 ## 工作内容
 
