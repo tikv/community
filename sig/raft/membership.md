@@ -3,6 +3,7 @@
 ## Tech Leader
 
 - [@BusyJay](https://github.com/BusyJay)
+- [@hicqu](https://github.com/hicqu)
 
 ## Maintainers
 

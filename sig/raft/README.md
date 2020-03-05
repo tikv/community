@@ -20,6 +20,7 @@ Covers Raft related work in TiKV, including optimize raft-rs and the Multi-Raft 
 ### Tech Leader
 
 * Jianjun Li(**[@BusyJay](https://github.com/BusyJay)**)
+* Peng Qu(**[@hicqu](https://github.com/hicqu)**)
 
 ## Contact
 
