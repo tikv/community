@@ -6,21 +6,9 @@
 
 This document describes the governance rules of the TiKV project (organization). It is meant to be followed by all the repositories in the project and TiKV contributors.
 
-## Principles
-
-The TiKV community adheres to the following principles:
-
-**Open**: TiKV is open source, as advertised on our [website](https://tikv.org) or the [TiKV Organization](https://github.com/tikv) on github.
-
-**Welcoming and respectful**: See Code of Conduct below.
-
-**Transparent and accessible**: Work and collaboration are done in public.
-
-**Merit**: Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles.
-
 ## Code of Conduct
 
-The TiKV community follows the [TiKV Code of Conduct](https://github.com/tikv/tikv/blob/master/CODE_OF_CONDUCT.md). Here are some excerpts:
+The TiKV community follows the [CNCF Code of Conduct](https://github.com/tikv/tikv/blob/master/CODE_OF_CONDUCT.md). Here are some excerpts:
 
 > In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
@@ -50,13 +38,13 @@ Membership of the PMC is by invitation from the existing PMC members. A nominati
 
 For the first formation of the committee, our maintainers nominated a group of people who had great impact or influence on the project, including some members from PingCAP who founded TiKV. New PMC members are selected based on the rules described above. The term is one year.
 
-For a list of the current PMC members, see the [PMC Members](/committee/README.md#members).
+The PMC is responsible for maintaining the [Guiding Principles](/guiding-principles.md) and the code of conduct. It is also responsible for ensuring that those rules and principles are followed.
 
-<!--- need the link to a Guiding Principals (Missions, Values; to be added separately) page as the principals for PMC -->
+For a list of the current PMC members, see the [PMC Members](/committee/README.md#members).
 
 ### Developer Group
 
-As the cornerstone of community development, the TiKV Developer Group consists of these roles: Maintainer, Committer, Reviewer, Active Contributor, and Contributor. Each role takes corresponding responsibilities in the community. Collectively they play an important role in the robust development of TiKV. Among these roles, the Maintainers  For more details, refer to [Community Membership](/community-membership.md).
+As the cornerstone of community development, the TiKV Developer Group consists of these roles: Maintainer, Committer, Reviewer, Active Contributor, and Contributor. Each role takes corresponding responsibilities in the community. Collectively they play an important role in the robust development of TiKV. For more details, refer to [Community Membership](/community-membership.md).
 
 The Developer Group operates TiKV projects in two groups: Special Interest Group (SIG) and Working Group (WG). The diagram below illustrates the definition of the SIG and WG, the internal roles of the group, and the role promotion path.
 
@@ -64,7 +52,7 @@ The Developer Group operates TiKV projects in two groups: Special Interest Group
 
 ### Maintainers
 
-While the PMC is the core management group that oversees the project, Maintainers are the technical authority in the Developer Group who function as planners and designers of each project. Maintainers set technical directions and priorities for the sub-project owned by the specific SIG, and ensure its sustained health and development. They make or approve design decisions for the project - either directly or by delegating these responsibilities. Maintainers are appointed by the PMC with supermajority votes.
+While the PMC is the core management group that oversees the project at a community level, Maintainers are the technical authority who function as planners and designers of each sub-project. Maintainers set technical directions and priorities for the sub-project owned by the specific SIG, and ensure its sustained health and development. They make or approve design decisions for the project - either directly or by delegating these responsibilities. Maintainers are appointed by the PMC with supermajority votes.
 
 If a Maintainer is no longer interested or cannot perform the Maintainer duties listed above, they should volunteer to be moved to emeritus status.
 
@@ -72,9 +60,9 @@ See [TiKV Maintainers](https://github.com/tikv/tikv/blob/master/MAINTAINERS.md#t
 
 #### SIGs
 
-The TiKV project is organized primarily into Special Interest Groups, or SIGs. Each SIG consists of members from multiple companies or organizations, with a common purpose of advancing the TiKV project for a specific topic, such as Coprocessor or Documentation. The goal of an SIG is to enable a distributed decision structure and code ownership, as well as providing focused forums for getting work done, making decisions, and onboarding new contributors. Every identifiable subpart of the project (e.g., github org, repository, subdirectory, API, test, issue, PR) is intended to be owned by the corresponding SIG.
+The TiKV project is organized primarily into Special Interest Groups, or SIGs. Each SIG consists of members from multiple organizations or individuals, with a common purpose of advancing the TiKV project for a specific topic, such as Coprocessor or Documentation. The goal of an SIG is to enable a distributed decision structure and code ownership, as well as providing focused forums for getting work done, making decisions, and onboarding new contributors. Every identifiable subpart of the project (e.g., repository, subdirectory, API, test, issue, PR) is intended to be owned by the corresponding SIG.
 
-Currently, any Contributor within a SIG is immediately eligible member of that SIG. It is our intention to properly guide or mentor community talents, and help them advance to the higher-level Reviewer, Committer within an SIG.
+Currently, any Contributor within a SIG is immediately eligible member of that SIG. It is our intention to properly guide or mentor community members, and help them advance to the higher-level Reviewer, Committer within the SIG.
 
 Each SIG must have a charter that specifies its scope (topics, code repositories, and directories), responsibilities, areas of authority, how members and roles of authority/leadership are selected/granted, how decisions are made, and how conflicts are resolved. See the [SIG charter template](/sig-governance/SIG-CHARTER-TEMPLATE.md) for details on how charters are formed and managed. SIGs should be relatively free to customize or change how they operate, within some broad guidelines and constraints imposed by this Governance and [Sig Governance](/committee/sig-governance/sig-governance.md).
 
@@ -90,7 +78,7 @@ Each WG has its life cycle. Once the goal is completed, the group will be disban
 
 WG is subject to PMC's oversight over its formation and disbanding.
 
-See [Working Group Governance](./governance/wg-governance.md) for more information on how a WG run.
+See [Working Group Governance](/governance/wg-governance.md) for more information on how a WG run.
 
 ## Contributions
 
@@ -104,11 +92,11 @@ Major changes such as feature proposals and organization or process changes shou
 
 ## Conflict resolution
 
-In general, we prefer that technical issues and other disputes upon which consensus can't be reached are amicably worked out between the persons involved. If a dispute cannot be decided independently, depending on the nature, the PMC or Maintainers can be called in to resolve the issue by voting based on the [Principles](#principles) and [Code of Conduct](https://github.com/tikv/tikv/blob/master/CODE_OF_CONDUCT.md). The same PR can be used or a separate PR can be opened in the concerned repository for voting.
+In general, we prefer that technical issues and other disputes upon which consensus can't be reached are amicably worked out between the persons involved. If a dispute cannot be resolved independently, depending on the nature, the PMC or Maintainers can be called in to resolve the issue by voting based on the [Guiding Principles](/guiding-principles.md) and [CNCF Code of Conduct](https://github.com/tikv/tikv/blob/master/CODE_OF_CONDUCT.md). The same PR can be used or a separate PR can be opened in the concerned repository for voting.
 
 ## Adding new projects
 
-New projects can be added to the TiKV organization (normally by Tech Leads of a SIG) via GitHub issue discussion in one of the existing SIG, as long as as they adheres to the [CNCF charter](https://www.cncf.io/about/charter/) and the guidelines in this governance. Once sufficient discussions have taken place, the Maintainers will decide whether the new project should be added. The requester needs to create an corresponding RFC for the change to happen, as described in [Decision Making and Voting](#decision-making-and-voting).
+New projects can be added to the TiKV organization via GitHub issue discussion in one of the existing SIG, as long as as they adheres to the [CNCF charter](https://www.cncf.io/about/charter/) and the guidelines in this governance. Once sufficient discussions have taken place, the Maintainers will decide whether the new project should be added. The requester needs to create an corresponding RFC for the change to happen, as described in [Decision Making and Voting](#decision-making-and-voting).
 
 ## Changes in Governance
 
