@@ -1,40 +1,39 @@
 # Community Membership
 
-This doc outlines the various responsibilities of contributor roles in TiKV. The TiKV project is primarily organized in SIGs. Except explicitly stated, the requirements and responsibilities described below are scoped to the specific SIGs.
+This doc outlines the various responsibilities of community roles in TiKV. The TiKV project is primarily organized in SIGs. Except explicitly stated, the requirements and responsibilities described below are scoped to the specific SIGs.
 
 ## Maintainer
 
-Maintainers are the planners and designers of the TiKV project, with the authority to merge branches into the master. Maintainers come from Committers. They must demonstrate both good judgment and responsibility towards the sustained development and overall health of the TiKV project. Maintainers set up the technical directions and make or approve design decisions for the project - either directly or by delegating these responsibilities.
+Maintainers are first and foremost contributors that have shown they are committed to the long term success of a project. They are the planners and designers of the TiKV project, with the authority to merge branches into the master branch. Maintainership is about building trust with the current maintainers of the project and being a person that they can depend on to make decisions in the best interest of the project in a consistent manner.
 
 ### How to become a Maintainer:
 
-- Demonstrated a deep and comprehensive understanding of TiKV's technical goals and directions
-- Must be Committer for at least 2 or more SIGs
-- Actively involved in organizing technical seminars and proposing or reviewing major technical designs
+- Enabled and promoted successful adoptions on the user or ecosystem end
+- Proposed features to TiKV that are later implemented with great significance to the project direction and the eco-system
+- Able to collaborate with the team
+- Demonstrated a deep and comprehensive understanding of TiKV's codebase, technical goals, and directions
+- Actively organizing technical seminars and proposing or reviewing major technical designs
 - Can handle complex problems in the code implementation process
-- Nominated by and obtained supermajority votes from the PMC
+- Nominated by an existing Maintainer and obtained supermajority votes from the PMC
 
 ### Privileges and responsibilities:
 
-- Develop and approve technical design and decisions for TiKV projects
+- Develop and approve technical designs and decisions for TiKV projects
 - Set the technical directions and priorities for SIG projects
 - Participate in product releases and roadmap development of the project
 - Continuously contribute to the project by mentoring Reviewers and Committers
-- Ensure the overall quality of the TiKV project
 
 ## Committer
 
-Committers come from Reviewers. Committer is scoped to the specific SIG where the promotion applies. Committers are recoganized by Maintainers or SIG Tech Leads for their outstanding contributions to the specific SIG.
-
-Committer status is scoped to the part of the codebase under the SIG.
+Committers come from Reviewers. Committer is scoped to the specific SIG where the promotion applies. Committers are recognized by Maintainers or SIG Tech Leads for their outstanding contributions to the specific SIG. 
 
 ### How to become a Committer:
 
 - Demonstrated a good sense of responsibility in PR reviews within the SIG. The review contributions must meet the amount or the difficulty criteria as defined in the charter of the specific SIG.
-- Demonstrated deep understanding of the TiKV components specific to the SIG by contributing significantly to TiKV performance improvements, or fix major bugs, which can be achieved by satisfying one or more requirements below:
+- Demonstrated deep understanding of the TiKV components specific the SIG, which can be measured by one or more requirements below:
     - Finished 2+ tasks of Medium difficulty or higher
     - Fixed 1+ task of Hard difficulty
-- Nominated by the Tech Leads of the SIG and gained supermajority (2/3) votes from Maintainers
+- Nominated by the Tech Lead of the SIG and obtained supermajority (2/3) votes from Maintainers
 
 **Notes:**
 >
@@ -45,7 +44,7 @@ Committer status is scoped to the part of the codebase under the SIG.
 
 - Control overall code quality of projects under the SIG
 - Guide Contributors and Reviewers to contribute to TiKV continuously
-- Participate in Committer meetings regularly and have knowledge priority regarding project development
+- Participate in Committer meetings regularly and join regarding project development
 - Participate in design discussions
 - Get the profile listed on the membership page of the corresponding SIG
 
@@ -100,7 +99,7 @@ You are also encouraged to participate in the projects in the following ways:
 - Help improve technical documents
 - Submit valuable issues
 - Report or fix known and unknown bugs
-- Write articles about source code analysis and usage cases for the - projects.
+- Write articles about source code analysis and usage cases
 
 ### Privileges and responsibilities:
 

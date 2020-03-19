@@ -4,14 +4,14 @@ This charter details on the governance guidelines for TiKV SIGs. It will be upda
 
 ## Organizational Governance
 
-In order to standardize Special Interest Group efforts, create maximum transparency, and route contributors to the appropriate SIG, SIGs should follow these guidelines:
+To standardize Special Interest Group efforts, create maximum transparency, and route contributors to the appropriate SIG, SIGs should follow these guidelines:
 
-- Create a charter and have it approved according to the SIG charter  process. Please refer [Create the SIG charter](#create-the-sig-charter) for more details.
+- Create a charter and have it approved according to the SIG charter process. Please refer to [Create the SIG charter](#create-the-sig-charter) for more details.
 - Meet regularly, at least for 30 minutes every 2 weeks, except for long holidays
 - Keep up-to-date meeting notes, linked from the SIG's page in the community repo
 - Report activity in the weekly community meeting at least once every quarter
 - Participate in release planning meetings and retrospectives, and burndown meetings, as needed
-- Ensure related work happens in a project-owned github org and repository, with code and tests explicitly owned and supported by the SIG, including issue triage, PR reviews, test-failure response, bug  fixes, etc.
+- Ensure projects and work by the SIG happen in TiKV organization repositories and are responsibly maintained according to the standards of TiKV repositories.
 - The assignable tasks will be graded by difficulty levels and claimed by SIG members.
 - Use the GitHub PR & issues, slack channels as the primary means of working, communicating, and collaborating.
 
@@ -26,7 +26,7 @@ The SIG follows the role definitions in the [Community Membership](/community-me
 - SHOULD show sustained contributions to the SIG
 - SHOULD hold corresponding responsibilities in the SIG as documented in [Community Membership](/community-membership.md)
 - MAY participate in decision making of the SIG
-- Members are tracked in `membership.md` in the specific SIG (Contributors are listed in the aggregated contributor list for maintainence convenience)
+- Members are tracked in `membership.md` in the specific SIG (Contributors are listed in the aggregated contributor list for maintenance convenience)
 
 ### Tech Lead
 
@@ -43,14 +43,14 @@ The SIG follows the role definitions in the [Community Membership](/community-me
     - Creating new projects under the SIG
     - Triaging issues/tasks in the SIG
     - Mentoring members of the SIG
-    - Organizing discussions and drawing conclusions for decision making within the SIG
-    - Ensuring health and sustained development of the SIG and grwoth of SIG members
+    - Organizing discussions and facilitate decision making within the SIG
+    - Facilitating health and sustained development of the SIG and growth of SIG members
     - Making roadmap for the SIG
     - Organizing and participating in regular meetings
 
 ## Member Promotion Mechanism
 
-Members of the SIG can be promoted to a higher role based on the rules defined in [Community Membership](/community-membership.md). 
+Members of the SIG can be promoted to a higher role based on the rules defined in [Community Membership](/community-membership.md).
 
 ## Member Exit Mechanism
 
