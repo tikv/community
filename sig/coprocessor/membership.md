@@ -24,6 +24,7 @@ None
 - [@koushiro](http://github.com/koushiro)
 - [@cireu](https://github.com/cireu)
 - [@renkai](https://github.com/renkai)
+- [@codeworm96](https://github.com/codeworm96)
 
 ## Former Members
 
