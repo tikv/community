@@ -6,7 +6,6 @@
 - [@yiwu-arbug](https://github.com/yiwu-arbug)
 - [@sunxiaoguang](https://github.com/sunxiaoguang)
 
-
 ## Maintainers
 
 None
@@ -17,11 +16,11 @@ None
 
 ## Reviewers
 
-None
+- [@fredchenbj](https://github.com/fredchenbj)
 
 ## Active Contributors
 
-- [@fredchenbj](https://github.com/fredchenbj)
+None
 
 ## Former Members
 

@@ -10,7 +10,10 @@ Covers engine related work in TiKV, including supporting various engines in TiKV
 
 ## Meetings
 
-* Regular SIG Meeting: TBD
+* Regular SIG Meeting: 
+     * Bi-weekly on Wed 10am, Beijing Time (Tue 6pm PST) starting from 2020/02/12. 
+     * [Meeting Notes](https://docs.google.com/document/d/17GpwAsIWlxAM6lX6svXZK-9OtLrUG_Lau0mgW8kutLI/edit)
+     * [Meeting Link](https://pingcap.zoom.com.cn/j/146136292)
 
 ## Leadership
 
@@ -22,4 +25,4 @@ Covers engine related work in TiKV, including supporting various engines in TiKV
 
 ## Contact
 
-- Slack: [#engine-sig](https://tikv-wg.slack.com/messages/engine-sig)
+- Slack: [tikv-wg.slack.com](https://join.slack.com/t/tikv-wg/shared_invite/enQtNTUyODE4ODU2MzI0LWVlMWMzMDkyNWE5ZjY1ODAzWYZWYZWYWJGWZGWYG) [#engine-sig](https://tikv-wg.slack.com/messages/engine-sig)
