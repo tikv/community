@@ -74,13 +74,13 @@ SIGs are organized and operated by SIG Leads, which is a SIG internal role that 
 Within a SIG, you could find your path of contribution and growth through multiple roles - Contributor, Active Contributor, Reviewer, and Committer, each with corresponding responsiblities and requirements, as listed below:
 
 | Role | Responsibilities | Requirements | Defined by |
-| -----| ---------------- | ------------ | -------|
-｜Contributor | Contribute | initial contribution (PR, issue reporting, answering questions, etc.) | 'Contributor List"|
+| -----| ---------------- | ------------ | ------- |
+Contributor | contribute | initial contribution (PR, issue reporting, answering questions, etc.) | `Contributor List`|
 | Active Contributor | active contributor in the community | sponsored by 2 Reviewers. Multiple contributions (8+) to the project. | `SIG member`  of the SIG |
-| Reviewer | Review code contributions | Active Contributor + History of review and authorship within a SIG | `SIG member` of the SIG |
-| Committer | Set directions and priorities for the sub-projects scoped to the SIG + guide Reviwers and Contributors | highly experienced and active Reviewer + major contributions to a subproject | `SIG member` of the SIG|
+| Reviewer | review code contributions | Active Contributor + History of review and authorship within a SIG | `SIG member` of the SIG |
+| Committer | set directions and priorities for the sub-projects scoped to the SIG | highly experienced and active Reviewer + major contributions to a subproject | `SIG member` of the SIG|
 
-The roles and responsibilites above are scoped to the SIG and may vary across SIGs. See more details in the corresponding SIG charter.
+The roles and responsibilities above are scoped to the SIG and may vary across SIGs. See more details in the corresponding SIG charter.
 
 ### Users
 
