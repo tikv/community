@@ -6,15 +6,15 @@
 
  This document describes the governance rules of the TiKV project (organization). It is meant to be followed by all the repositories in the project and the TiKV project.
 
-    - [Code of Conduct](#code-of-conduct)
-    - [Community groups and roles](#community-groups-and-roles)
-        - [Maintainer](#maintainer)
-        - [SIGs](#sigs)
-        - [Users](#users)
-    - [Approving PRs](#approving-prs)
-    - [Decision making and voting](#decision-making-and-voting)
-        - [Proposal process](#proposal-process)
-    - [Adding new SIGs/projects](#adding-new-sigsprojects)
+- [Code of Conduct](#code-of-conduct)
+- [Community groups and roles](#community-groups-and-roles)
+    - [Maintainer](#maintainer)
+    - [SIGs](#sigs)
+    - [Users](#users)
+- [Approving PRs](#approving-prs)
+- [Decision making and voting](#decision-making-and-voting)
+    - [Proposal process](#proposal-process)
+- [Adding new SIGs/projects](#adding-new-sigsprojects)
 
 ## Code of Conduct
 
