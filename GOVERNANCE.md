@@ -19,7 +19,7 @@
     - [Approving PRs](#approving-prs)
     - [Decision making and voting](#decision-making-and-voting)
         - [Proposal process](#proposal-process)
-    - [Adding new projects](#adding-new-projects)
+    - [Adding new SIGs/projects](#adding-new-sigsprojects)
 
 <!-- /TOC -->
 
@@ -118,7 +118,7 @@ Voting must comply with the [Guiding Principles](/guiding-principles.md) and [CN
 
 We use a [Request for Comments (RFC) process for any substantial changes to TiKV. This process involves an upfront design that will provide increased visibility to the community. If you're considering a PR that will bring in a new feature that may affect how TiKV is implemented, or may be a breaking change, then you should start with a RFC. We've got the process documented in [RFC repository](https://github.com/tikv/rfcs) and have a [template](https://github.com/tikv/rfcs/blob/master/template.md) for you to get started.
 
-## Adding new projects
+## Adding new SIGs/projects
 
-New projects can be added to the TiKV organization via GitHub issue discussion in one of the existing SIG, as long as as they adheres to the [CNCF charter](https://www.cncf.io/about/charter/) and the guidelines in this governance. Once sufficient discussions have taken place, the Maintainers will decide whether the new project should be added. The requester needs to create an corresponding RFC for the change to happen, as described in [Decision Making and Voting](#decision-making-and-voting).
+New SIGs or sub-projects can be added to the TiKV organization via [RFC process](#proposal-process), as long as as they adhere to the [CNCF charter](https://www.cncf.io/about/charter/) and the guidelines in this governance. Once sufficient discussions have taken place under the RFC PR, the Maintainers will call a vote to decide whether the new SIG/project should be added.
 
