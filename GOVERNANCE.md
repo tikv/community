@@ -4,7 +4,7 @@
 
 # TiKV Governance
 
- This document describes the governance rules of the TiKV project (organization). It is meant to be followed by all the repositories under the TiKV organization.
+ This document describes the governance rules of the TiKV project (organization). It is meant to be followed by all projects under the TiKV organization.
 
 - [Code of Conduct](#code-of-conduct)
 - [Community groups and roles](#community-groups-and-roles)
@@ -34,7 +34,7 @@ Maintainers are first and foremost contributors that have shown they are committ
 
 While maintainership indicates a valued member of the community who has demonstrated a healthy respect for the project’s aims and objectives, their work must still be reviewed by the community before being accepted into an official release.
 
-A Maintainer is not allowed to merge their change without approval from another person. However, they are allowed to sidestep this rule under justifiable circumstances that was approved through other means than the standard process.
+A Maintainer is not allowed to merge their changes without approval from another reviewer. However, they are allowed to sidestep this rule under exceptional circumstances if the changes are approved through other means than the standard process.
 
 #### How to become a Maintainer
 
@@ -46,7 +46,7 @@ Contributors wanting to become maintainers are expected to:
 - Demonstrate a deep and comprehensive understanding of TiKV's codebase, technical goals, and directions
 - Handle complex problems in the code implementation process
 
-A new Maintainer must be self-nominated or nominated by an existing Maintainer by updating [TiKV Maintainers](https://github.com/tikv/tikv/blob/master/MAINTAINERS.md#the-tikv-maintainers). This triggers a voting process that requires supermajority votes from the current Maintainers.
+A new Maintainer nominated by an existing Maintainer by updating [TiKV Maintainers](https://github.com/tikv/tikv/blob/master/MAINTAINERS.md#the-tikv-maintainers). This triggers a voting process that requires supermajority votes from the current Maintainers.
 
 If a Maintainer is no longer interested or cannot perform the Maintainer duties listed above, they should volunteer to be moved to emeritus status. In extreme cases this can also occur by a vote of the maintainers per the voting process below.
 
@@ -56,16 +56,16 @@ The TiKV project is organized primarily into Special Interest Groups, or SIGs. E
 
 Each SIG must have a charter that specifies its scope (topics, code repositories, and directories), responsibilities, areas of authority, how members and roles of authority/leadership are selected/granted, etc. See the [SIG charter template](/sig-governance/SIG-CHARTER-TEMPLATE.md) for details on how charters are formed and managed. SIGs should be relatively free to customize or change how they operate, within some broad guidelines and constraints imposed by this Governance and [Sig Governance](/committee/sig-governance/sig-governance.md).
 
-SIGs are organized and operated by SIG Leads, which is a SIG internal role that oversees the health and sustained development of the SIG. Upon the initial establishment of a SIG, the maintainers will assign 2-3 Tech Leads.
+SIGs are organized and operated by SIG Leads, which is a SIG internal role that oversees the health and sustained development of the SIG. Upon the initial establishment of a SIG, the maintainers will assign 2-3 SIG Leads.
 
-#### SIG Roles
+#### Community roles in SIGs
 
 Within a SIG, you could find your path of contribution and growth through multiple roles - Contributor, Active Contributor, Reviewer, and Committer, each with corresponding responsiblities and requirements, as listed below:
 
 | Role | Responsibilities | Requirements | Defined by |
 | -----| ---------------- | ------------ | ------- |
-Contributor | contribute | initial contribution (PR, issue reporting, answering questions, etc.) | `Contributor List`|
-| Active Contributor | active contributor in the community | sponsored by 2 Reviewers + Continuous contributions (8 or more) to the project. | `SIG member`  of the SIG |
+Contributor | contribute | initial contribution (PR, issue reporting, answering questions, etc.) | `SIG member` of the SIG |
+| Active Contributor | active contributor in the community | sponsored by 2 Reviewers + Continuous contributions (8 or more) to the project. | `SIG member` of the SIG |
 | Reviewer | review code contributions | Active Contributor + History of review and authorship within a SIG | `SIG member` of the SIG |
 | Committer | set directions and priorities for the sub-projects scoped to the SIG | highly experienced and active Reviewer + major contributions to a subproject | `SIG member` of the SIG|
 
@@ -77,12 +77,11 @@ Users are community members who have a need for the project. They are the most i
 
 The project asks its users to participate in the project and community as much as possible. User contributions enable the project team to ensure that they are satisfying the needs of those users. Common user contributions include (but are not limited to):
 
-- evangelising about the project (e.g. a link on a website and word-of-mouth awareness raising)
-- informing developers of strengths and weaknesses from a new user perspective
-- providing moral support
-- providing financial support
+- evangelising the project (e.g. a link on a website and word-of-mouth awareness raising)
+- informing developers of strengths and weaknesses from a user's perspective
+- providing financial support to facilitate collaboration in testing, development, etc.
 
-Users who continue to engage with the project and its community will often become more and more involved. Such users may find themselves becoming contributors, as described in the above section.
+Users who continue to engage with the project and its community will often become more and more involved. Such users may find themselves becoming contributors, as described in the [SIG roles](#sig-roles) section.
 
 ## Approving PRs
 
