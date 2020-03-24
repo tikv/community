@@ -32,23 +32,20 @@ The TiKV project is comprised of the following types of contributing groups:
 
 Maintainers are first and foremost contributors that have shown they are committed to the long term success of a project. They are the planners and designers of the TiKV project. Maintainership is about building trust with the current maintainers of the project and being a person that they can depend on to make decisions in the best interest of the project in a consistent manner.
 
-While maintainership indicates a valued member of the community who has demonstrated a healthy respect for the project’s aims and objectives, their work must still be reviewed by the community before being accepted into an official release.
-
-A Maintainer is not allowed to merge their changes without approval from another reviewer. However, they are allowed to sidestep this rule under exceptional circumstances if the changes are approved through other means than the standard process.
+While maintainership indicates a valued member of the community who has demonstrated a healthy respect for the project’s aims and objectives, their work must still be reviewed by the community before being accepted into an official release. This means that a Maintainer is not allowed to merge their changes without approval from another reviewer. However, they are allowed to sidestep this rule under exceptional circumstances if the changes are approved through other means than the standard process.
 
 #### How to become a Maintainer
 
 Contributors wanting to become maintainers are expected to:
 
 - Enable and promote successful adoptions on the user or ecosystem end
-- Actively Propose features to TiKV that are later implemented with great significance to the project direction and the eco-system
-- Able to promote substained collaboration within the project
-- Demonstrate a deep and comprehensive understanding of TiKV's codebase, technical goals, and directions
-- Handle complex problems in the code implementation process
+- Collaborate well
+- Demonstrate a deep and comprehensive understanding of TiKV's architecture, technical goals, and directions
+- Actively engage with major TiKV feature proposals and implementations
 
-A new Maintainer nominated by an existing Maintainer by updating [TiKV Maintainers](https://github.com/tikv/tikv/blob/master/MAINTAINERS.md#the-tikv-maintainers). This triggers a voting process that requires supermajority votes from the current Maintainers.
+A new Maintainer must be nominated by an existing Maintainer. The nominating Maintainer will create a PR to update [TiKV Maintainers](https://github.com/tikv/tikv/blob/master/MAINTAINERS.md#the-tikv-maintainers). Upon consensus of incumbent Maintainers, the PR will be approved and the new Mainainer becomes active.
 
-If a Maintainer is no longer interested or cannot perform the Maintainer duties listed above, they should volunteer to be moved to emeritus status. In extreme cases this can also occur by a vote of the maintainers per the voting process below.
+If a Maintainer is no longer interested or cannot perform the Maintainer duties listed above, they should volunteer to be moved to emeritus status. In extreme cases this can also occur by a vote of the maintainers per the [voting process](#decision-making-and-voting) below.
 
 ### SIGs
 
@@ -69,7 +66,7 @@ Contributor | contribute | initial contribution (PR, issue reporting, answering 
 | Reviewer | review code contributions | Active Contributor + History of review and authorship within a SIG | `SIG member` of the SIG |
 | Committer | set directions and priorities for the sub-projects scoped to the SIG | highly experienced and active Reviewer + major contributions to a subproject | `SIG member` of the SIG|
 
-The roles and responsibilities above are scoped to the SIG and may vary across SIGs. See the corresponding SIG charter for more details on the promotion path.
+The roles and responsibilities above are scoped to the SIG and may vary across SIGs. See the corresponding SIG charter for more details on SIG roles and the corresponding promotion paths.
 
 ### Users
 
@@ -101,5 +98,5 @@ We use a [Request for Comments (RFC) process for any substantial changes to TiKV
 
 ## Adding new SIGs/projects
 
-New SIGs or sub-projects can be added to the TiKV organization via [RFC process](#proposal-process), as long as as they adhere to the [CNCF charter](https://www.cncf.io/about/charter/) and the guidelines in this document. Once sufficient discussions have taken place under the RFC PR, the Maintainers will call a vote to decide whether the new SIG/project should be added.
+New SIGs or projects can be added to the TiKV organization via [RFC process](#proposal-process), as long as as they adhere to the [CNCF charter](https://www.cncf.io/about/charter/) and the guidelines in this document. Once sufficient discussions have taken place under the RFC PR with consensus reached, the follow-up process can begin.
 
