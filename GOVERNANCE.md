@@ -4,7 +4,7 @@
 
 # TiKV Governance
 
- This document describes the governance rules of the TiKV project (organization). It is meant to be followed by all the repositories in the project and the TiKV project.
+ This document describes the governance rules of the TiKV project (organization). It is meant to be followed by all the repositories under the TiKV organization.
 
 - [Code of Conduct](#code-of-conduct)
 - [Community groups and roles](#community-groups-and-roles)
@@ -30,15 +30,11 @@ The TiKV project is comprised of the following types of contributing groups:
 
 ### Maintainer
 
-Maintainers are first and foremost contributors that have shown they are committed to the long term success of a project. They are the planners and designers of the TiKV project, with the authority to merge branches into the master branch. Maintainership is about building trust with the current maintainers of the project and being a person that they can depend on to make decisions in the best interest of the project in a consistent manner.
+Maintainers are first and foremost contributors that have shown they are committed to the long term success of a project. They are the planners and designers of the TiKV project. Maintainership is about building trust with the current maintainers of the project and being a person that they can depend on to make decisions in the best interest of the project in a consistent manner.
 
-While maintainership indicates a valued member of the community who has demonstrated a healthy respect for the project’s aims and objectives, their work must be reviewed by the community before acceptance in an official release.
+While maintainership indicates a valued member of the community who has demonstrated a healthy respect for the project’s aims and objectives, their work must still be reviewed by the community before being accepted into an official release.
 
-A Maintainer is not allowed to merge their change without approval from another person. However, they are allowed to sidestep this rule under justifiable circumstances. For example:
-
-- If a CI tool is broken, they may override the tool to still submit the change.
-- Minor typos or fixes for broken tests.
-- The change was approved through other means than the standard process.
+A Maintainer is not allowed to merge their change without approval from another person. However, they are allowed to sidestep this rule under justifiable circumstances that was approved through other means than the standard process.
 
 #### How to become a Maintainer
 
@@ -50,7 +46,7 @@ Contributors wanting to become maintainers are expected to:
 - Demonstrate a deep and comprehensive understanding of TiKV's codebase, technical goals, and directions
 - Handle complex problems in the code implementation process
 
-A new Maintainer must be self-nominated or nominated by an existing Maintainer by updating [TiKV Maintainers](https://github.com/tikv/tikv/blob/master/MAINTAINERS.md#the-tikv-maintainers). This triggers a voting process that that requires supermajority votes from the current Maintainers.
+A new Maintainer must be self-nominated or nominated by an existing Maintainer by updating [TiKV Maintainers](https://github.com/tikv/tikv/blob/master/MAINTAINERS.md#the-tikv-maintainers). This triggers a voting process that requires supermajority votes from the current Maintainers.
 
 If a Maintainer is no longer interested or cannot perform the Maintainer duties listed above, they should volunteer to be moved to emeritus status. In extreme cases this can also occur by a vote of the maintainers per the voting process below.
 
@@ -69,11 +65,11 @@ Within a SIG, you could find your path of contribution and growth through multip
 | Role | Responsibilities | Requirements | Defined by |
 | -----| ---------------- | ------------ | ------- |
 Contributor | contribute | initial contribution (PR, issue reporting, answering questions, etc.) | `Contributor List`|
-| Active Contributor | active contributor in the community | sponsored by 2 Reviewers. Multiple contributions (8+) to the project. | `SIG member`  of the SIG |
+| Active Contributor | active contributor in the community | sponsored by 2 Reviewers + Continuous contributions (8 or more) to the project. | `SIG member`  of the SIG |
 | Reviewer | review code contributions | Active Contributor + History of review and authorship within a SIG | `SIG member` of the SIG |
 | Committer | set directions and priorities for the sub-projects scoped to the SIG | highly experienced and active Reviewer + major contributions to a subproject | `SIG member` of the SIG|
 
-The roles and responsibilities above are scoped to the SIG and may vary across SIGs. See more details in the corresponding SIG charter.
+The roles and responsibilities above are scoped to the SIG and may vary across SIGs. See the corresponding SIG charter for more details on the promotion path.
 
 ### Users
 
@@ -90,7 +86,7 @@ Users who continue to engage with the project and its community will often becom
 
 ## Approving PRs
 
-Unless otherwise requested by Maintainers, PRs may be merged after receiving at least two approvals from Reviewers or higer roles.
+Unless otherwise requested by Maintainers, PRs may be merged after receiving at least two approvals (LGTMs) from Reviewers or more previliged role from the relevant SIGs.
 
 ## Decision making and voting
 
@@ -109,9 +105,9 @@ Voting must comply with the [Guiding Principles](/guiding-principles.md) and [CN
 
 ### Proposal process
 
-We use a [Request for Comments (RFC) process for any substantial changes to TiKV. This process involves an upfront design that will provide increased visibility to the community. If you're considering a PR that will bring in a new feature that may affect how TiKV is implemented, or may be a breaking change, then you should start with a RFC. We've got the process documented in [RFC repository](https://github.com/tikv/rfcs) and have a [template](https://github.com/tikv/rfcs/blob/master/template.md) for you to get started.
+We use a [Request for Comments (RFC) process for any substantial changes to TiKV. This process involves an upfront design that will provide increased visibility to the community. If you're considering a PR that will bring in a new feature that may affect how TiKV is implemented, or may be a breaking change, then you should start with a RFC. The process is documented in [RFC repository](https://github.com/tikv/rfcs) and have a [template](https://github.com/tikv/rfcs/blob/master/template.md) for you to get started. However, it is suggested that you bring this proposal for initial SIG discussions before you submit the RFC, which makes the process more smooth and efficient.
 
 ## Adding new SIGs/projects
 
-New SIGs or sub-projects can be added to the TiKV organization via [RFC process](#proposal-process), as long as as they adhere to the [CNCF charter](https://www.cncf.io/about/charter/) and the guidelines in this governance. Once sufficient discussions have taken place under the RFC PR, the Maintainers will call a vote to decide whether the new SIG/project should be added.
+New SIGs or sub-projects can be added to the TiKV organization via [RFC process](#proposal-process), as long as as they adhere to the [CNCF charter](https://www.cncf.io/about/charter/) and the guidelines in this document. Once sufficient discussions have taken place under the RFC PR, the Maintainers will call a vote to decide whether the new SIG/project should be added.
 
