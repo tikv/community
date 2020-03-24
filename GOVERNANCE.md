@@ -86,22 +86,15 @@ Users who continue to engage with the project and its community will often becom
 
 ## Approving PRs
 
-Unless otherwise requested by Maintainers, PRs may be merged after receiving at least two approvals (LGTMs) from Reviewers or more previliged role from the relevant SIGs.
+PRs may be merged only after receiving at least two approvals (LGTMs) from Reviewers, more previliged roles from the relevant SIGs, or even Maintainers.
 
 ## Decision making and voting
 
-Ideally, all project decisions are resolved by consensus via a PR or GitHub issue. If this is not possible, Maintainers may call a vote. Many of the day-to-day project maintenance can be done by a [lazy consensus](http://communitymgt.wikia.com/wiki/Lazy_consensus) model. But the following items must be called to vote:
+Ideally, all project decisions are resolved by consensus via a PR or GitHub issue. Any of the day-to-day project maintenance can be done by a [lazy consensus](http://communitymgt.wikia.com/wiki/Lazy_consensus) model. Cross-SIG or community-level decisions must be brought to broader awareness via community meetings, slack channels, etc.
 
-- Enforcing a Code of Conduct violation (super majority)
-- Adding or removing a maintainer/committer/SIG Leads (super majority)
-- Changing the governance rules in this document (super majority)
-- Licensing and intellectual property changes (including new logos, wordmarks) (simple majority)
-- Adding, archiving, or removing SIG/subproject (simple majority)
-- Other cases where consensus cannot be made (super majority)
+In general, we prefer that technical issues and maintainer membership are amicably worked out between the persons involved. If a dispute cannot be decided independently, the Maintainers can be called in to resolve the issue by voting. For voting, a specific statement of what is being voted on should be added to the relevant github issue or PR, and a link to that issue or PR added to the maintainers meeting agenda document. Maintainers should indicate their yes/no vote on that issue or PR, and after a suitable period of time, the votes will be tallied and the outcome noted.
 
-For formal votes, a specific statement of what is being voted on should be added to the relevant github issue or PR, and a link to that issue or PR added to the maintainers meeting agenda document. Maintainers should indicate their yes/no vote on that issue or PR, and after a suitable period of time, the votes will be tallied and the outcome noted.
-
-Voting must comply with the [Guiding Principles](/guiding-principles.md) and [CNCF Code of Conduct](https://github.com/tikv/tikv/blob/master/CODE_OF_CONDUCT.md).
+Decision making must comply with the [Guiding Principles](/guiding-principles.md) and [CNCF Code of Conduct](https://github.com/tikv/tikv/blob/master/CODE_OF_CONDUCT.md).
 
 ### Proposal process
 
