@@ -43,7 +43,7 @@ Contributors wanting to become maintainers are expected to:
 - Demonstrate a deep and comprehensive understanding of TiKV's architecture, technical goals, and directions
 - Actively engage with major TiKV feature proposals and implementations
 
-A new Maintainer must be nominated by an existing Maintainer. The nominating Maintainer will create a PR to update [TiKV Maintainers](https://github.com/tikv/tikv/blob/master/MAINTAINERS.md#the-tikv-maintainers). Upon consensus of incumbent Maintainers, the PR will be approved and the new Mainainer becomes active.
+A new Maintainer must be nominated by an existing Maintainer. The nominating Maintainer will create a PR to update [TiKV Maintainers](https://github.com/tikv/tikv/blob/master/MAINTAINERS.md#the-tikv-maintainers). Upon consensus of incumbent Maintainers, the PR will be approved and the new Maintainer becomes active.
 
 If a Maintainer is no longer interested or cannot perform the Maintainer duties listed above, they should volunteer to be moved to emeritus status. In extreme cases this can also occur by a vote of the maintainers per the [voting process](#decision-making-and-voting) below.
 
@@ -86,7 +86,7 @@ PRs may be merged only after receiving at least two approvals (LGTMs) from Revie
 
 ## Decision making and voting
 
-Ideally, all project decisions are resolved by consensus via a PR or GitHub issue. Any of the day-to-day project maintenance can be done by a [lazy consensus](http://communitymgt.wikia.com/wiki/Lazy_consensus) model. Cross-SIG or community-level decisions must be brought to broader awareness via community meetings, slack channels, etc.
+Ideally, all project decisions are resolved by consensus via a PR or GitHub issue. Any of the day-to-day project maintenance can be done by a [lazy consensus](http://communitymgt.wikia.com/wiki/Lazy_consensus) model. Cross-SIG or community-level decisions must be brought to broader awareness via synchronous communications such as community meetings and slack channels, or asynchronous communications such as monthly newsletters.
 
 In general, we prefer that technical issues and maintainer membership are amicably worked out between the persons involved. If a dispute cannot be decided independently, the Maintainers can be called in to resolve the issue by voting. For voting, a specific statement of what is being voted on should be added to the relevant github issue or PR, and a link to that issue or PR added to the maintainers meeting agenda document. Maintainers should indicate their yes/no vote on that issue or PR, and after a suitable period of time, the votes will be tallied and the outcome noted.
 
@@ -98,5 +98,5 @@ We use a [Request for Comments (RFC) process for any substantial changes to TiKV
 
 ## Adding new SIGs/projects
 
-New SIGs or projects can be added to the TiKV organization via [RFC process](#proposal-process), as long as as they adhere to the [CNCF charter](https://www.cncf.io/about/charter/) and the guidelines in this document. Once sufficient discussions have taken place under the RFC PR with consensus reached, the follow-up process can begin.
+New SIGs or projects can be added to the TiKV organization via [RFC process](#proposal-process), as long as they adhere to the [CNCF charter](https://www.cncf.io/about/charter/) and the guidelines in this document. Once sufficient discussions have taken place under the RFC PR with consensus reached, the follow-up process can begin.
 
