@@ -1,20 +1,20 @@
-# Ecosystem SIG Charter
+# Tools SIG Charter
 
 This charter follows the TiKV Community Charter, using the role definitions and responsibilities in [SIG Governance](/GOVERNANCE.md).
 
 ## Scope
 
- Ecosystem SIG focuses on the surrounding modules of the TiKV project. These modules including [client-rust](https://github.com/tikv/client-rust), [client-go](https://github.com/tikv/client-go), [client-c](https://github.com/tikv/client-c), [client-java](https://github.com/tikv/client-java)，fast backup and resotre tool [BR](https://github.com/pingcap/br/), and Rust Promethues client [rust-promethues](https://github.com/tikv/rust-prometheus). The primary responsibility of this SIG is to discuss, plan, develop, and maintain the future development of these modules. Only Active Contributors or higher-level community members can become members of the SIG and participate in SIG activities. However, the decisions and projects undertaken by the Ecosystem SIG will be made public.
+ Tools SIG focuses on the surrounding tools of the TiKV project. These modules including fast backup and resotre tool [BR (Backup & Restore)](https://github.com/pingcap/br/), and [CDC (Change Data Capture)](https://github.com/pingcap/ticdc). The primary responsibility of this SIG is to discuss, plan, develop, and maintain the future development of these modules. Only Active Contributors or higher-level community members can become members of the SIG and participate in SIG activities. However, the decisions and projects undertaken by the Tools SIG will be made public.
 
 ## Routine Work
 
 - Code
-  - [client-rust](https://github.com/tikv/client-rust): TiKV Rust Client.
-  - [client-go](https://github.com/tikv/client-go): TiKV Golang Client.
-  - [client-c](https://github.com/tikv/client-c): TiKV C Client.
-  - [client-java](https://github.com/tikv/client-java): TiKV Java Client.
-  - [BR](https://github.com/pingcap/br): TiKV fast backup and restore tool.
-  - [rust-promethues](https://github.com/tikv/rust-prometheus): Prometheus Rust Client.
+  - [BR](https://github.com/pingcap/br): TiKV fast backup and restore tool;
+    - [components/backup](https://github.com/tikv/tikv/tree/master/components/backup): TiKV backup implementation;
+    - [components/sst_importer](https://github.com/tikv/tikv/tree/master/components/sst_importer): TiKV restore implementation;
+    - [components/external_storage](https://github.com/tikv/tikv/tree/master/components/external_storage): TiKV external storage implementation;
+  - [CDC](https://github.com/pingcap/ticdc): TiKV Change Data Capture;
+    - [components/cdc](https://github.com/tikv/tikv/tree/master/components/cdc): TiKV CDC implementation;
 
 - Test
   - The code needs to pass existing integration tests, and new changes need to add new integration tests.
@@ -35,7 +35,8 @@ This charter follows the TiKV Community Charter, using the role definitions and 
   - Synchronize the development progress of current projects every 2 weeks.
   - A full group progress meeting will be held every 2 weeks, depending on the available time of the participants. Members who are currently not developing a project are also eligible to participate in order to know the progress of each project. If members are unable to participate, he / she must apply for leave in advance and update the progress document.
   - A meeting is recorded by one member each time. Meeting notes are completed and made public within 24 hours of the end of the meeting. The meeting notes are recorded by the team members in turn.
-  - Slack: https://tikv-wg.slack.com #copr-sig-china
+  - Slack (English): [#sig-tools](https://tidbcommunity.slack.com/messages/sig-tools)
+  - Slack (中文): [#sig-tools-zh](https://tidbcommunity.slack.com/messages/sig-tools-zh)
 
 - Organize offline activities
 

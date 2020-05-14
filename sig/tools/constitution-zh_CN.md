@@ -1,20 +1,20 @@
-# Ecosystem SIG 章程
+# Tools SIG 章程
 
 本章程遵循 TiKV Community 章程和制度，使用 [SIG Governance](/GOVERNANCE-zh_CN.md) 中的角色定义以及职责。
 
 ## 职责范围
 
-Ecosystem SIG 聚焦 TiKV 项目的周边模块，例如 [client-rust](https://github.com/tikv/client-rust), [client-go](https://github.com/tikv/client-go), [client-c](https://github.com/tikv/client-c), [client-java](https://github.com/tikv/client-java) 等 TiKV client，快速备份恢复工具 [BR](https://github.com/pingcap/br/), 监控模块 [rust-promethues](https://github.com/tikv/rust-prometheus) 等。本 SIG 的主要职责是对这些模块进行未来发展的讨论、规划、开发和维护。仅 Active Contributor 或更高等级社区成员可成为 SIG 成员并参与到相应事项中来，但 SIG 各项实行的决策和进行的项目将公开。
+Tools SIG 聚焦 TiKV 项目的周边工具，例如快速备份恢复工具 [BR](https://github.com/pingcap/br/), 数据同步工具 [CDC](https://github.com/pingcap/ticdc) 等。本 SIG 的主要职责是对这些模块进行未来发展的讨论、规划、开发和维护。仅 Active Contributor 或更高等级社区成员可成为 SIG 成员并参与到相应事项中来，但 SIG 各项实行的决策和进行的项目将公开。
 
 ## 工作内容
 
 - 代码范围
-  - [client-rust](https://github.com/tikv/client-rust): TiKV Rust Client;
-  - [client-go](https://github.com/tikv/client-go): TiKV Golang Client;
-  - [client-c](https://github.com/tikv/client-c): TiKV C Client;
-  - [client-java](https://github.com/tikv/client-java): TiKV Java Client;
   - [BR](https://github.com/pingcap/br): TiKV 快速备份恢复工具;
-  - [rust-promethues](https://github.com/tikv/rust-prometheus): Prometheus Rust Client。
+    - [components/backup](https://github.com/tikv/tikv/tree/master/components/backup): TiKV 备份数据模块;
+    - [components/sst_importer](https://github.com/tikv/tikv/tree/master/components/sst_importer): TiKV 恢复数据模块;
+    - [components/external_storage](https://github.com/tikv/tikv/tree/master/components/external_storage): TiKV 备份恢复数据存储模块;
+  - [CDC](https://github.com/pingcap/ticdc): TiKV 同步数据工具;
+    - [components/cdc](https://github.com/tikv/tikv/tree/master/components/cdc): TiKV 同步数据模块;
 
 - 测试规范
   - 代码需要通过已有集成测试，并对新的更改需要添加新的集成测试。
@@ -34,7 +34,8 @@ Ecosystem SIG 聚焦 TiKV 项目的周边模块，例如 [client-rust](https://g
   - 每 2 周以文档形式同步一次当前各个项目的开发进度。
   - 每 2 周召开一次全组进度会议，时间依据参会人员可用时间另行协商。目前没有项目正在开发的成员可选择性参加以便了解各个项目进度。若参与开发的成员不能参加，需提前请假且提前将自己的月度进度更新至文档。
   - 每次会议由一名成员进行会议记录，在会议结束 24 小时内完成会议记录并公开。会议记录由小组成员轮流执行。
-  - Slack: https://tikv-wg.slack.com #ecosystem
+  - Slack (English): [#sig-tools](https://tidbcommunity.slack.com/messages/sig-tools)
+  - Slack (中文): [#sig-tools-zh](https://tidbcommunity.slack.com/messages/sig-tools-zh)
 
 - 组织线上线下成员的活动
 - Tech Leads 额外承担的职责
