@@ -1,5 +1,7 @@
 # Raft SIG Members
 
+Updated at 2020/05/15.
+
 ## Tech Leader
 
 - [@BusyJay](https://github.com/BusyJay)
@@ -15,10 +17,20 @@ None
 
 ## Reviewers
 
+- [Fullstop000](https://github.com/Fullstop000)
+
 ## Active Contributors
 
-None
+- [ngaut](https://github.com/ngaut)
+- [siddontang](https://github.com/siddontang)
+- [Hoverbear](https://github.com/Hoverbear)
+- [disksing](https://github.com/disksing)
+- [hhkbp2](https://github.com/hhkbp2)
+- [morefreeze](https://github.com/morefreeze)
+- [nrc](https://github.com/nrc)
+- [ice1000](https://github.com/ice1000)
+- [csmoe](https://github.com/csmoe)
 
-## Former Members
+## Contributors
 
-None
+Full list of contributors is [here](https://github.com/tikv/raft-rs/graphs/contributors).
