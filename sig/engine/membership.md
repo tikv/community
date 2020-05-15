@@ -1,18 +1,15 @@
 # Engine SIG Members
 
-## Tech Leader
+## SIG Leader
 
-- [@zhangjinpeng1987](https://github.com/zhangjinpeng1987)
 - [@yiwu-arbug](https://github.com/yiwu-arbug)
-- [@sunxiaoguang](https://github.com/sunxiaoguang)
-
-## Maintainers
-
-None
 
 ## Committers
 
-None
+- [@zhangjinpeng1987](https://github.com/zhangjinpeng1987)
+- [@sunxiaoguang](https://github.com/sunxiaoguang)
+- [@Connor1996](https://github.com/Connor1996)
+- [@Little-Wallace](https://github.com/Little-Wallace)
 
 ## Reviewers
 
@@ -22,6 +19,9 @@ None
 
 None
 
-## Former Members
+## Contributor
 
-None
+- [@tabokie](https://github.com/tabokie)
+- [@wujy-cs](https://github.com/wujy-cs)
+- [@haoxiang47](https://github.com/haoxiang)
+- [@foeb](https://github.com/foeb)
