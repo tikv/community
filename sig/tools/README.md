@@ -14,7 +14,7 @@ Part of [TiDB Tools SIG](https://github.com/pingcap/community/tree/master/specia
 
 ### Tech Leader
 
-* Kenny Chen (**[@kennytm](https://github.com/kennytm)**)
+* Kenny Chan (**[@kennytm](https://github.com/kennytm)**)
 
 ## Contact
 
