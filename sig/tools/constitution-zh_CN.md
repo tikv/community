@@ -31,9 +31,7 @@ Tools SIG 聚焦 TiKV 项目的周边工具，例如快速备份恢复工具 [BR
   - SIG 成员需维持每个月参与开发任务，或参与关于现有功能或未来规划的设计与讨论。若连续一个季度不参与开发与讨论，视为不活跃状态，将会被移除 SIG。作为 acknowledgment，仍会处于成员列表的「Former Member」中。
 
 - 定期同步进度，定期周会
-  - 每 2 周以文档形式同步一次当前各个项目的开发进度。
-  - 每 2 周召开一次全组进度会议，时间依据参会人员可用时间另行协商。目前没有项目正在开发的成员可选择性参加以便了解各个项目进度。若参与开发的成员不能参加，需提前请假且提前将自己的月度进度更新至文档。
-  - 每次会议由一名成员进行会议记录，在会议结束 24 小时内完成会议记录并公开。会议记录由小组成员轮流执行。
+  - 暂无定期会议。
   - Slack (English): [#sig-tools](https://tidbcommunity.slack.com/messages/sig-tools)
   - Slack (中文): [#sig-tools-zh](https://tidbcommunity.slack.com/messages/sig-tools-zh)
 

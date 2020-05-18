@@ -32,9 +32,7 @@ This charter follows the TiKV Community Charter, using the role definitions and 
   - SIG members are required to engage development each month, or participate in the design or discussion of existing features or future design. If a member does not participate in code development or future discussion for one quarter, he / she will be considered inactive and will be removed from the SIG. However as an acknowledgment, the name will be stay in the "Former Member" of the member list.
 
 - Regularly synchronize
-  - Synchronize the development progress of current projects every 2 weeks.
-  - A full group progress meeting will be held every 2 weeks, depending on the available time of the participants. Members who are currently not developing a project are also eligible to participate in order to know the progress of each project. If members are unable to participate, he / she must apply for leave in advance and update the progress document.
-  - A meeting is recorded by one member each time. Meeting notes are completed and made public within 24 hours of the end of the meeting. The meeting notes are recorded by the team members in turn.
+  - No regular meeting.
   - Slack (English): [#sig-tools](https://tidbcommunity.slack.com/messages/sig-tools)
   - Slack (中文): [#sig-tools-zh](https://tidbcommunity.slack.com/messages/sig-tools-zh)
 
