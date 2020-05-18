@@ -4,7 +4,7 @@ This charter follows the TiKV Community Charter, using the role definitions and 
 
 ## Scope
 
- Tools SIG focuses on the surrounding tools of the TiKV project. These modules including fast backup and resotre tool [BR (Backup & Restore)](https://github.com/pingcap/br/), and [CDC (Change Data Capture)](https://github.com/pingcap/ticdc). The primary responsibility of this SIG is to discuss, plan, develop, and maintain the future development of these modules. Only Active Contributors or higher-level community members can become members of the SIG and participate in SIG activities. However, the decisions and projects undertaken by the Tools SIG will be made public.
+ Tools SIG focuses on the surrounding tools of the TiKV project. These modules including fast backup and resotre tool [BR (Backup & Restore)](https://github.com/pingcap/br/), and [CDC (Change Data Capture)](https://github.com/pingcap/ticdc). The primary responsibility of this SIG is to discuss, plan, develop, and maintain the future development of these tools. Only Active Contributors or higher-level community members can become members of the SIG and participate in SIG activities. However, the decisions and projects undertaken by the Tools SIG will be made public.
 
 ## Routine Work
 
