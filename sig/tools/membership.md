@@ -13,7 +13,7 @@ None
 - [@3pointer](https://github.com/3pointer)
 - [@5kbpers](https://github.com/5kbpers)
 - [@amyangfei](https://github.com/amyangfei)
-- [@csuzhngxc](https://github.com/csuzhngxc)
+- [@csuzhangxc](https://github.com/csuzhangxc)
 - [@GMHDBJD](https://github.com/GMHDBJD)
 - [@GregoryIan](https://github.com/GregoryIan)
 - [@july2993](https://github.com/july2993)
