@@ -24,11 +24,11 @@ The main responsibility of Transaction SIG is to discuss and plan the future dev
 
 - Code style, submission specifications, PR Description template, etc. please refer to [Document](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md)
 - Task Assignment
-  - SIG Tech Lead maintains public [Member List](./membership.md) and [Task List](https://github.com/tikv/tikv/projects/28) Link.
+  - Tech Lead maintains public [Member List](./membership.md) and [Task List](https://github.com/tikv/tikv/projects/28) Link.
   - New SIG members can freely receive tasks, or participate in the development or promotion of existing tasks, but need to communicate and synchronize with the Tech Lead or the person responsible for the corresponding task.
   - SIG members are required to maintain monthly participation in development tasks or to participate in the design and discussion of existing features or future plans. If you do not participate in development and discussion for a quarter of a year, it is considered inactive and SIG will be removed as appropriate.
 
- -Regular sync progress, regular weekly meetings
+- Regular sync progress, regular weekly meetings
   - Synchronize the current development progress of each project as a document every 2 weeks.
   - A progress meeting for the entire group will be held every 2 weeks, and the time will be negotiated separately based on the available time of the participants. Members who are not currently developing a project can choose to participate in order to know the progress of each project. If members participating in the development are not able to participate, they need to take leave in advance and update their monthly progress to the document in advance.
   - Minutes of each meeting are recorded by one member, which is completed and made public within 24 hours after the meeting ends. The minutes of the meeting are performed in turn by the members of the group.
@@ -43,16 +43,16 @@ The main responsibility of Transaction SIG is to discuss and plan the future dev
 ## SIG Active Rules, Promotion Mechanism
 
 - Assessment & Promotion System
-  - Tech Leader evaluates group members on a monthly basis to determine whether members can be promoted to Reviewer from Active Contributor:
+  - Tech Lead evaluates group members on a monthly basis to determine whether members can be promoted to Reviewer from Active Contributor:
     - Familiar with the code base
-    - Nominated by at least 2 TiKV Committers
+    - Nominated by at least 2 Committers
     - PR contributions meet any of the following:
       - Merged transaction-related PRs totaled more than 10
       - Propose design ideas and adopt them into more than 3 tasks
 
-  - Tech Leader and TiKV Maintainer evaluate team members on a quarterly basis to determine whether members can be promoted to Committer from Reviewer:
+  - Tech Lead and Maintainers evaluate team members on a quarterly basis to determine whether members can be promoted to Committer from Reviewer:
     - Show good technical judgment
-    - Nominated for at least 2 TiKV Maintainers
+    - Nominated by at least 2 Maintainers
     - PR contributions meet at least two of the following:
       - Complete an important feature independently or lead
       - Fix a major bug

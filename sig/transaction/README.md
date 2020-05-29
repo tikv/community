@@ -10,18 +10,17 @@ Covers transaction related work in TiKV, including improve transaction in TiKV a
 
 ## Meetings
 
-* Regular SIG Meeting: 
-     * Bi-weekly on Wed 10am, Beijing Time (Tue 6pm PST) starting from 2020/02/12. 
-     * Meeting Notes
-     * Meeting Link
+- Regular SIG Meeting:
+  - Weekly on Fri 11am, Beijing Time starting from 2020/05/15.
+  - [Meeting Notes](https://drive.google.com/drive/folders/15jTHu8Z-ha6RzF3AqcPH59FXthmlNv-Q?usp=sharing)
+  - [Meeting Link](https://pingcap.zoom.us/j/5527699243)
 
 ## Leadership
 
-### Tech Leader
+### Tech Lead
 
-* Xuelian Wu(**[@AndreMouche](https://github.com/AndreMouche)**)
-* Zhenjing Zhou(**[@MyonKeminta](https://github.com/MyonKeminta)**)
-* Nick Cameron(**[@nrc](https://github.com/nrc)**)
+- Nick Cameron(**[@nrc](https://github.com/nrc)**)
+- Jack Yu(**[@jackysp](https://github.com/jackysp)**)
 
 ## Contact
 
