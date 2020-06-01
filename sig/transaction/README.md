@@ -24,4 +24,4 @@ Covers transaction related work in TiKV, including improve transaction in TiKV a
 
 ## Contact
 
-- Slack: [tikv-wg.slack.com](https://join.slack.com/t/tikv-wg/shared_invite/enQtNTUyODE4ODU2MzI0LWVlMWMzMDkyNWE5ZjY1ODAzWYZWYZWYWJGWZGWYG) [#transaction-sig](https://tikv-wg.slack.com/messages/transaction-sig)
+- Slack: [#sig-transaction](https://slack.tidb.io/invite?team=tikv-wg&channel=sig-transaction&ref=github-sig)

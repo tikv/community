@@ -25,4 +25,4 @@ Covers engine related work in TiKV, including supporting various engines in TiKV
 
 ## Contact
 
-- Slack: [tikv-wg.slack.com](https://join.slack.com/t/tikv-wg/shared_invite/enQtNTUyODE4ODU2MzI0LWVlMWMzMDkyNWE5ZjY1ODAzWYZWYZWYWJGWZGWYG) [#engine-sig](https://tikv-wg.slack.com/messages/engine-sig)
+- Slack: [#sig-engine](https://slack.tidb.io/invite?team=tikv-wg&channel=sig-engine&ref=github-sig)

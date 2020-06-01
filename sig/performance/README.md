@@ -23,4 +23,4 @@ Covers performance related work in TiKV, including find bottlenecks in TiKV and 
 
 ## Contact
 
-- Slack: [tikv-wg.slack.com](https://join.slack.com/t/tikv-wg/shared_invite/enQtNTUyODE4ODU2MzI0LWVlMWMzMDkyNWE5ZjY1ODAzWYZWYZWYWJGWZGWYG) [#performance-sig](https://tikv-wg.slack.com/messages/performance-sig)
+- Slack: [#sig-performance](https://slack.tidb.io/invite?team=tikv-wg&channel=sig-performance&ref=github-sig)
