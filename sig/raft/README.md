@@ -24,4 +24,4 @@ Covers Raft related work in TiKV, including optimize raft-rs and the Multi-Raft 
 
 ## Contact
 
-- Slack: [tikv-wg.slack.com](https://join.slack.com/t/tikv-wg/shared_invite/enQtNTUyODE4ODU2MzI0LWVlMWMzMDkyNWE5ZjY1ODAzWYZWYZWYWJGWZGWYG) [#raft-sig](https://tikv-wg.slack.com/messages/raft-sig)
+- Slack: [#sig-raft](https://slack.tidb.io/invite?team=tikv-wg&channel=sig-raft&ref=github-sig)
