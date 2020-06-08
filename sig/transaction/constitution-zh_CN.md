@@ -24,18 +24,18 @@ Transaction SIG 的主要职责是对 TiKV 分布式事务的未来发展进行�
 
 - 代码风格、提交规范、PR Description 模板等请参考 [文档](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md)
 - 任务分配
-  - SIG Tech Lead 在 https://github.com/tikv/community 维护公开的 [成员列表](./membership.md) 与 [任务列表](https://github.com/tikv/tikv/projects/28) 链接。
+  - Tech Lead 在 <https://github.com/tikv/community> 维护公开的 [成员列表](./membership.md) 与 [任务列表](https://github.com/tikv/tikv/projects/28) 链接。
   - 新加入的 SIG 成员可自由领取任务，或参与现有任务的开发或推动，但需与 Tech Lead 或相应任务的负责人进行沟通和同步。
   - SIG 成员需维持每个月参与开发任务，或参与关于现有功能或未来规划的设计与讨论。若连续一个季度不参与开发与讨论，视为不活跃状态，视情况将会被移除 SIG。
 
 - 定期同步进度，定期周会
-  - 每 2 周以文档形式同步一次当前各个项目的开发进度。
-  - 每 2 周召开一次全组进度会议，时间依据参会人员可用时间另行协商。目前没有项目正在开发的成员可选择性参加以便了解各个项目进度。若参与开发的成员不能参加，需提前请假且提前将自己的月度进度更新至文档。
+  - 每周以文档形式同步一次当前各个项目的开发进度。
+  - 每周召开一次全组进度会议，时间依据参会人员可用时间另行协商。目前没有项目正在开发的成员可选择性参加以便了解各个项目进度。若参与开发的成员不能参加，需提前请假且提前将自己的月度进度更新至文档。
   - 每次会议由一名成员进行会议记录，在会议结束 24 小时内完成会议记录并公开。会议记录由小组成员轮流执行。
   - Slack: [tikv-wg.slack.com](https://join.slack.com/t/tikv-wg/shared_invite/enQtNTUyODE4ODU2MzI0LWVlMWMzMDkyNWE5ZjY1ODAzMWUwZGVhNGNhYTc3MzJhYWE0Y2FjYjliYzY1OWJlYTc4OWVjZWM1NDkwN2QxNDE) #transaction-sig
 
 - 组织线上线下成员的活动
-- Tech Leads 额外承担的职责
+- Tech Lead 额外承担的职责
   - SIG 成员提出的问题需要在 2 个工作日给出回复
   - 及时 Review 设计文档和代码
   - 定时发布任务（如果 SIG member 退出后，未完成的任务需要重新分配）
@@ -43,16 +43,16 @@ Transaction SIG 的主要职责是对 TiKV 分布式事务的未来发展进行�
 ## SIG 活跃规则，晋升机制
 
 - 考核 & 晋升制度
-  - Tech Leader 以月为单位对小组成员进行考核，决定成员是否可由 Active Contributor 晋升为 Reviewer：
+  - Tech Lead 以月为单位对小组成员进行考核，决定成员是否可由 Active Contributor 晋升为 Reviewer：
     - 熟悉代码库
-    - 获得至少 2 位 TiKV Committer 的提名
+    - 获得至少 2 位 Committer 的提名
     - PR 贡献满足以下任意一点：
       - 合并 Transaction 相关 PR 总数超过 10 个
       - 提出设计想法并得到采纳成为可执行任务超过 3 个
 
-  - Tech Leader 和 TiKV Maintainer 以季度为单位对小组成员进行考核，决定成员是否可由 Reviewer 晋升为 Committer：
+  - Tech Lead 和 Maintainer 以季度为单位对小组成员进行考核，决定成员是否可由 Reviewer 晋升为 Committer：
     - 表现出良好的技术判断力
-    - 获得至少 2 位 TiKV Maintainer 的提名
+    - 获得至少 2 位 Maintainer 的提名
     - PR 贡献满足以下至少两点：
       - 独立或领导完成一项重要 feature
       - 修复一个重大 bug

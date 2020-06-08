@@ -20,5 +20,4 @@ Covers Coprocessor component in TiKV.
 
 ## Contact
 
-- Slack: [#copr-sig](https://tikv-wg.slack.com/messages/copr-sig)
-- Slack: [#copr-sig-china](https://tikv-wg.slack.com/messages/copr-sig-china)
+- Slack: [#sig-copr](https://slack.tidb.io/invite?team=tikv-wg&channel=sig-copr&ref=github_sig)
