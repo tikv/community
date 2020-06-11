@@ -51,7 +51,7 @@ If a Maintainer is no longer interested or cannot perform the Maintainer duties 
 
 The TiKV project is organized primarily into Special Interest Groups, or SIGs. Each SIG consists of contributors with a common purpose of advancing the TiKV project for a specific topic, such as Coprocessor, Transaction, or Scheduling. The goal of an SIG is to enable a distributed decision structure and code ownership, as well as providing focused forums for getting work done, making decisions, and onboarding new contributors. Every identifiable subpart of the project (e.g., repository, subdirectory, API, test, issue, PR) is intended to be owned by the corresponding SIG.
 
-Each SIG must have a charter that specifies its scope (topics, code repositories, and directories), responsibilities, areas of authority, how members and roles of authority/leadership are selected/granted, etc. See the [SIG charter template](/sig-governance/SIG-CHARTER-TEMPLATE.md) for details on how charters are formed and managed. SIGs should be relatively free to customize or change how they operate, within some broad guidelines and constraints imposed by this Governance and [Sig Governance](/committee/sig-governance/sig-governance.md).
+Each SIG must have a charter that specifies its scope (topics, code repositories, and directories), responsibilities, areas of authority, how members and roles of authority/leadership are selected/granted, etc. See the [SIG charter template](/committee/sig-governance/SIG-CHARTER-TEMPLATE.md) for details on how charters are formed and managed. SIGs should be relatively free to customize or change how they operate, within some broad guidelines and constraints imposed by this Governance and [Sig Governance](/committee/sig-governance/SIG-GOVERNANCE.md).
 
 SIGs are organized and operated by SIG Leads, which is a SIG internal role that oversees the health and sustained development of the SIG. Upon the initial establishment of a SIG, the maintainers will assign 2-3 SIG Leads.
 
@@ -78,7 +78,7 @@ The project asks its users to participate in the project and community as much a
 - informing developers of strengths and weaknesses from a user's perspective
 - providing financial support to facilitate collaboration in testing, development, etc.
 
-Users who continue to engage with the project and its community will often become more and more involved. Such users may find themselves becoming contributors, as described in the [SIG roles](#sig-roles) section.
+Users who continue to engage with the project and its community will often become more and more involved. Such users may find themselves becoming contributors, as described in the [SIG roles](#Community-roles-in-SIGs) section.
 
 ## Approving PRs
 
