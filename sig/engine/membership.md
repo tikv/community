@@ -10,6 +10,7 @@
 - [@sunxiaoguang](https://github.com/sunxiaoguang)
 - [@Connor1996](https://github.com/Connor1996)
 - [@Little-Wallace](https://github.com/Little-Wallace)
+- [@brson](https://github.com/brson)
 
 ## Reviewers
 
