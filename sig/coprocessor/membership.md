@@ -14,6 +14,12 @@ None
 - [@niedhui](https://github.com/niedhui)
 - [@TennyZhuang](https://github.com/TennyZhuang)
 
+- [@sticnarf](https://github.com/sticnarf) (PingCAP)
+- [@zhongzc](https://github.com/zhongzc) (PingCAP)
+- [@iosmanthus](https://github.com/iosmanthus) (PingCAP)
+- [@andylokandy](https://github.com/andylokandy) (PingCAP)
+- [@AndreMouche](https://github.com/AndreMouche) (PingCAP)
+
 ## Reviewers
 
 - [@Fullstop000](https://github.com/Fullstop000)
