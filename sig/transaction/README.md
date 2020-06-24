@@ -2,11 +2,12 @@
 
 Covers transaction related work in TiKV, including improve transaction in TiKV and explore new transaction model.
 
+- Repository: https://github.com/tikv/sig-transaction (Most useful resource, contains lots of information about the SIG and transactions)
 - Constitution: [中文](./constitution-zh_CN.md)
 - Membership: [English](./membership.md)
 - Workflow: [中文](./workflow-zh_CN.md)
-- Document Archive: 中文/English
-- Meeting Notes: English
+- Document Archive: See https://github.com/tikv/sig-transaction
+- Meeting Notes: See https://github.com/tikv/sig-transaction
 
 ## Meetings
 

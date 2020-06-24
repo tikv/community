@@ -4,10 +4,7 @@
 
 - [@nrc](https://github.com/nrc)
 - [@jackysp](https://github.com/jackysp)
-
-## Maintainers
-
-None
+- [@andylokandy](https://github.com/andylokandy)
 
 ## Committers
 
