@@ -31,6 +31,7 @@ None
 - [@cireu](https://github.com/cireu)
 - [@renkai](https://github.com/renkai)
 - [@codeworm96](https://github.com/codeworm96)
+- [@Rustin-Liu](https://github.com/Rustin-Liu)
 
 ## Former Members
 
