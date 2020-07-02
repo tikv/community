@@ -3,7 +3,6 @@
 ## Tech Lead
 
 - [@nrc](https://github.com/nrc)
-- [@jackysp](https://github.com/jackysp)
 - [@andylokandy](https://github.com/andylokandy)
 
 ## Committers
@@ -20,6 +19,9 @@
 - [@cfzjywxk](https://github.com/cfzjywxk)
 - [@bobotu](https://github.com/bobotu)
 - [@sticnarf](https://github.com/sticnarf)
+- [@jackysp](https://github.com/jackysp)
+- [@longfangsong](https://github.com/longfangsong)
+- [@ekexium](https://github.com/ekexium)
 
 ## Reviewers
 
