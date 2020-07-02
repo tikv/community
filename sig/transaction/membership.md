@@ -8,6 +8,9 @@
 
 ## Committers
 
+- [@AndreMouche](https://github.com/AndreMouche)
+- [@disksing](https://github.com/disksing)
+- [@zhangjinpeng1987](https://github.com/zhangjinpeng1987)
 - [@MyonKeminta](https://github.com/MyonKeminta)
 - [@youjiali1995](https://github.com/youjiali1995)
 - [@coocood](https://github.com/coocood)
@@ -23,9 +26,5 @@
 None
 
 ## Active Contributors
-
-None
-
-## Former Members
 
 None
