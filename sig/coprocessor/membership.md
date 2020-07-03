@@ -2,18 +2,16 @@
 
 ## Tech Leader
 
-- [@breeswish](https://github.com/breeswish)
-- [@lonng](https://github.com/lonng)
-
-## Maintainers
-
-None
+- [@breeswish](https://github.com/breeswish) (PingCAP)
+- Probation: [@SunRunAway](https://github.com/SunRunAway) (PingCAP)
+- Probation: [@lzmhhh123](https://github.com/lzmhhh123) (PingCAP)
 
 ## Committers
 
 - [@niedhui](https://github.com/niedhui)
 - [@TennyZhuang](https://github.com/TennyZhuang)
 
+- [@lonng](https://github.com/lonng) (PingCAP, previous Tech Leader)
 - [@sticnarf](https://github.com/sticnarf) (PingCAP)
 - [@zhongzc](https://github.com/zhongzc) (PingCAP)
 - [@iosmanthus](https://github.com/iosmanthus) (PingCAP)
