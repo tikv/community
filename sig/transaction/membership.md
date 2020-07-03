@@ -20,8 +20,6 @@
 - [@bobotu](https://github.com/bobotu)
 - [@sticnarf](https://github.com/sticnarf)
 - [@jackysp](https://github.com/jackysp)
-- [@longfangsong](https://github.com/longfangsong)
-- [@ekexium](https://github.com/ekexium)
 
 ## Reviewers
 
