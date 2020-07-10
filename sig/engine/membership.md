@@ -11,6 +11,7 @@
 - [@Connor1996](https://github.com/Connor1996)
 - [@Little-Wallace](https://github.com/Little-Wallace)
 - [@brson](https://github.com/brson)
+- [@tabokie](https://github.com/tabokie)
 
 ## Reviewers
 
