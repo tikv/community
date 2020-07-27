@@ -1,5 +1,7 @@
 # Transaction Special Interest Group
 
+> SIG Repository: https://github.com/tikv/sig-transaction (Most useful resource, contains lots of information about the SIG and transactions)
+
 The transactions special interest group (SIG-transaction) are a group of people interested in transactions in distributed databases. We have a focus on transactions in TiKV and TiDB, but discuss academic work and other implementations too.
 
 The SIG is in the process of starting up and currently does not have any official activity. In the near future we hope to host:
@@ -9,10 +11,6 @@ The SIG is in the process of starting up and currently does not have any officia
 * discussion of transaction research and implementations on Slack,
 * help understanding and configuring transactions in TiKV and TiDB,
 * support for contributors to TiKV and related projects.
-
-## Learning Materials
-
-SIG Repository: https://github.com/tikv/sig-transaction (Most useful resource, contains lots of information about the SIG and transactions)
 
 ## Contributing
 
@@ -29,7 +27,7 @@ If you would like to join the SIG or have any questions about it, please email s
 
 ## Members
 
-See [SIG Transaction Member List](https://github.com/tikv/sig-transaction/blob/master/people.md).
+See [SIG Transaction Member List](./membership.md).
 
 ## Meetings
 
