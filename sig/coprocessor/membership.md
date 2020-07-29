@@ -10,6 +10,7 @@
 
 - [@niedhui](https://github.com/niedhui)
 - [@TennyZhuang](https://github.com/TennyZhuang)
+- [@skyzh](https://github.com/skyzh)
 
 - [@lonng](https://github.com/lonng) (PingCAP, previous Tech Leader)
 - [@sticnarf](https://github.com/sticnarf) (PingCAP)
@@ -30,7 +31,6 @@
 - [@renkai](https://github.com/renkai)
 - [@codeworm96](https://github.com/codeworm96)
 - [@Rustin-Liu](https://github.com/Rustin-Liu)
-- [@skyzh](https://github.com/skyzh)
 
 ## Former Members
 
