@@ -1,8 +1,8 @@
 # Scheduling Special Interest Group(Scheduling SIG)
 
-Scheduling SIG covers the scheduling system in TiDB cluster. Our work includes
+Scheduling SIG covers the scheduling system for TiKV. Our work includes
 
-- Supporting new scheduling policies or optimizing the existing scheduling system.
+- Supporting new scheduling policies and optimizing the existing scheduling systems.
 - Engineering optimizations.
 
 ## Roles and Organization Management
