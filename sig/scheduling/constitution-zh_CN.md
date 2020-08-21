@@ -29,7 +29,7 @@ Scheduling SIG 的主要职责是致力于调度系统 [pd](https://github.com/t
 
 - 定期同步进度
   - 每 2 周以文档形式同步一次当前各个项目的开发进度。
-  - Slack: [#sig-scheduling](https://slack.tidb.io/invite?team=tidb-community&channel=sig-scheduling&ref=github-sig)
+  - Slack: [#sig-scheduling](https://slack.tidb.io/invite?team=tikv-wg&channel=sig-scheduling&ref=pingcap-community)
 
 - 组织线上线下成员的活动
 - Tech Leads 额外承担的职责

@@ -29,7 +29,7 @@ The main responsibility of Scheduling SIG is to work on the development of the s
 
 - Regular sync progress, regular weekly meetings
   - Synchronize the current development progress of each project as a document every 2 weeks.
-  - Slack: [#sig-scheduling](https://slack.tidb.io/invite?team=tidb-community&channel=sig-scheduling&ref=github-sig)
+  - Slack: [#sig-scheduling](https://slack.tidb.io/invite?team=tikv-wg&channel=sig-scheduling&ref=pingcap-community)
 
 - Organize events for online and offline members
 - Additional responsibilities for Tech Leads
