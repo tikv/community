@@ -3,7 +3,7 @@
 **NOTE**:
 
 * This member list is updated on a monthly basis.
-* Last update time: 2020-08-20
+* Last update time: 2020-08-24
 
 ## SIG Leader
 
@@ -29,9 +29,10 @@ None
 
 * [Luffbee](https://github.com/Luffbee)
 * [shafreeck](https://github.com/shafreeck)
+* [JmPotato](https://github.com/JmPotato), [PingCAP](https://pingcap.com/en/)
+* [Yisaer](https://github.com/Yisaer), [PingCAP](https://pingcap.com/en/)
+* [xhebox](https://github.com/xhebox)
 
 ## Active Contributors
 
 * [mantuliu](https://github.com/mantuliu), [Hive Box](https://www.fcbox.com/en)
-* [JmPotato](https://github.com/JmPotato), [PingCAP](https://pingcap.com/en/)
-* [Yisaer](https://github.com/Yisaer), [PingCAP](https://pingcap.com/en/)
