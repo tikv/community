@@ -20,6 +20,7 @@ None
 ## Reviewers
 
 - [Fullstop000](https://github.com/Fullstop000)
+- [accelsao](https://github.com/accelsao)
 
 ## Active Contributors
 
@@ -32,6 +33,7 @@ None
 - [nrc](https://github.com/nrc)
 - [ice1000](https://github.com/ice1000)
 - [csmoe](https://github.com/csmoe)
+- [accelsao](https://github.com/accelsao)
 
 ## Contributors
 
