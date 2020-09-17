@@ -32,6 +32,7 @@ None
 * [shafreeck](https://github.com/shafreeck)
 * [JmPotato](https://github.com/JmPotato), [PingCAP](https://pingcap.com/en/)
 * [xhebox](https://github.com/xhebox)
+* [howardlau1999](https://github.com/howardlau1999), [PingCAP](https://pingcap.com/en/)
 
 ## Active Contributors
 
