@@ -3,7 +3,7 @@
 **NOTE**:
 
 * This member list is updated on a monthly basis.
-* Last update time: 2020-08-24
+* Last update time: 2020-09-17
 
 ## SIG Leader
 
@@ -24,13 +24,13 @@ None
 * [huachaohuang](https://github.com/huachaohuang)
 * [overvenus](https://github.com/overvenus), [PingCAP](https://pingcap.com/en/)
 * [Connor1996](https://github.com/Connor1996), [PingCAP](https://pingcap.com/en/)
+* [Yisaer](https://github.com/Yisaer), [PingCAP](https://pingcap.com/en/)
 
 ## Reviewers
 
 * [Luffbee](https://github.com/Luffbee)
 * [shafreeck](https://github.com/shafreeck)
 * [JmPotato](https://github.com/JmPotato), [PingCAP](https://pingcap.com/en/)
-* [Yisaer](https://github.com/Yisaer), [PingCAP](https://pingcap.com/en/)
 * [xhebox](https://github.com/xhebox)
 
 ## Active Contributors
