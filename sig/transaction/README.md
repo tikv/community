@@ -40,15 +40,11 @@ See [SIG Transaction Member List](./membership.md).
 
 - Slack: [#sig-transaction](https://slack.tidb.io/invite?team=tikv-wg&channel=sig-transaction&ref=github-sig)
 
-## Repositories, Projects and Labels
+## Repositories, Projects and labels
 
-- [Transaction issues](https://github.com/tikv/tikv/issues?q=is%3Aopen+is%3Aissue+label%3Acomponent%2Ftransaction),
-- [sig-transaction issues](https://github.com/tikv/tikv/issues?q=is%3Aopen+is%3Aissue+label%3Asig%2Ftransaction),
-- [storage issues](https://github.com/tikv/tikv/issues?q=is%3Aopen+is%3Aissue+label%3Acomponent%2Fstorage) (most of these are transaction-related in some way),
-- project: [Pipelined pessimistic lock](https://github.com/tikv/tikv/projects/37),
-- project: [Large transactions](https://github.com/tikv/tikv/projects/36),
-- project: [Green GC](https://github.com/tikv/tikv/projects/35),
-- project: [Parallel commit](https://github.com/tikv/tikv/projects/34).
+- [TiKV](https://github.com/tikv/tikv)
+  - [Transaction SIG](https://github.com/tikv/tikv/projects/28)
+    - [component/transaction](https://github.com/tikv/tikv/labels/component%2Ftransaction)
 
 ## Code Locations
 
