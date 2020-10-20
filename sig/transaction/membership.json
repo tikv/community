@@ -1,0 +1,55 @@
+{
+  "name": "transaction",
+  "techLeaders": [
+    {
+      "githubName": "nrc"
+    },
+    {
+      "githubName": "andylokandy"
+    }
+  ],
+  "coLeaders": [],
+  "committers": [
+    {
+      "githubName": "bobotu"
+    },
+    {
+      "githubName": "AndreMouche"
+    },
+    {
+      "githubName": "cfzjywxk"
+    },
+    {
+      "githubName": "coocood"
+    },
+    {
+      "githubName": "disksing"
+    },
+    {
+      "githubName": "imtbkcat"
+    },
+    {
+      "githubName": "jackysp"
+    },
+    {
+      "githubName": "lysu"
+    },
+    {
+      "githubName": "MyonKeminta"
+    },
+    {
+      "githubName": "sticnarf"
+    },
+    {
+      "githubName": "tiancaiamao"
+    },
+    {
+      "githubName": "youjiali1995"
+    },
+    {
+      "githubName": "zhangjinpeng1987"
+    }
+  ],
+  "reviewers": [],
+  "activeContributors": []
+}
