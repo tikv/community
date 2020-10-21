@@ -3,7 +3,9 @@
   "techLeaders": [
     {
       "githubName": "breeswish"
-    },
+    }
+  ],
+  "coLeaders": [
     {
       "githubName": "SunRunAway"
     },
@@ -11,7 +13,6 @@
       "githubName": "lzmhhh123"
     }
   ],
-  "coLeaders": [],
   "committers": [
     {
       "githubName": "niedhui"
