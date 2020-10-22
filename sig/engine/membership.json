@@ -1,0 +1,35 @@
+{
+  "name": "engine",
+  "techLeaders": [
+    {
+      "githubName": "yiwu-arbug"
+    }
+  ],
+  "coLeaders": [],
+  "committers": [
+    {
+      "githubName": "zhangjinpeng1987"
+    },
+    {
+      "githubName": "sunxiaoguang"
+    },
+    {
+      "githubName": "Connor1996"
+    },
+    {
+      "githubName": "Little-Wallace"
+    },
+    {
+      "githubName": "brson"
+    },
+    {
+      "githubName": "tabokie"
+    }
+  ],
+  "reviewers": [
+    {
+      "githubName": "fredchenbj"
+    }
+  ],
+  "activeContributors": []
+}
