@@ -1,0 +1,63 @@
+{
+  "name": "scheduling",
+  "techLeaders": [
+    {
+      "githubName": "rleungx"
+    }
+  ],
+  "coLeaders": [],
+  "committers": [
+    {
+      "githubName": "nolouch"
+    },
+    {
+      "githubName": "disksing"
+    },
+    {
+      "githubName": "lhy1024"
+    },
+    {
+      "githubName": "HunDunDM"
+    },
+    {
+      "githubName": "siddontang"
+    },
+    {
+      "githubName": "qiuyesuifeng"
+    },
+    {
+      "githubName": "huachaohuang"
+    },
+    {
+      "githubName": "overvenus"
+    },
+    {
+      "githubName": "Connor1996"
+    },
+    {
+      "githubName": "Yisaer"
+    }
+  ],
+  "reviewers": [
+    {
+      "githubName": "Luffbee"
+    },
+    {
+      "githubName": "shafreeck"
+    },
+    {
+      "githubName": "JmPotato"
+    },
+    {
+      "githubName": "xhebox"
+    },
+    {
+      "githubName": "howardlau1999"
+    }
+  ],
+  "activeContributors": [
+    {
+      "githubName": "mantuliu"
+    }
+  ]
+}
