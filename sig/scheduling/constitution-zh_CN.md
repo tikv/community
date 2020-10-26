@@ -23,7 +23,7 @@ Scheduling SIG 的主要职责是致力于调度系统 [pd](https://github.com/t
 
 - 代码风格、提交规范、PR Description 模板等请参考 [文档](https://github.com/tikv/pd/blob/master/CONTRIBUTING.md)
 - 任务分配
-  - SIG Tech Lead 在 https://github.com/tikv/community 维护公开的 [成员列表](./membership.md) 与 [任务列表](https://github.com/tikv/pd/projects/5) 链接。
+  - SIG Tech Lead 在 https://github.com/tikv/community 维护公开的 [成员列表](https://tikv.github.io/members/build/index.html?name=scheduling) 与 [任务列表](https://github.com/tikv/pd/projects/5) 链接。
   - 新加入的 SIG 成员可自由领取任务，或参与现有任务的开发或推动，但需与 Tech Lead 或相应任务的负责人进行沟通和同步。
   - SIG 成员需维持每个月参与开发任务，或参与关于现有功能或未来规划的设计与讨论。若连续一个季度不参与开发与讨论，视为不活跃状态，视情况将会被移除 SIG。
 
