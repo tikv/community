@@ -27,7 +27,7 @@ Coprocessor SIG focuses on the Coprocessor module of the TiKV project, which is 
 - For code style, submission specification, PR description template, etc, please refer to [Documentation](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md)
 
 - Task Assignment
-  - SIG Tech Lead maintains a public [Member List](./membership.md) and [Task List](./workflow-zh_CN.md) at https://github.com/tikv/community.
+  - SIG Tech Lead maintains a public [Member List](https://tikv.github.io/members/build/index.html?name=coprocessor) and [Task List](./workflow-zh_CN.md) at https://github.com/tikv/community.
   - New SIG members have 2 weeks to learn about tasks and claim a task, or participate in the development of an existing task. If the task is not claimed within this time, the member will be removed from SIG.
   - SIG members are required to engage development each month, or participate in the design or discussion of existing features or future design. If a member does not participate in code development or future discussion for one quarter, he / she will be considered inactive and will be removed from the SIG. However as an acknowledgment, the name will be stay in the "Former Member" of the member list.
 
