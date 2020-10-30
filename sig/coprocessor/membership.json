@@ -6,6 +6,9 @@
     }
   ],
   "coLeaders": [
+    {
+      "githubName": "skyzh"
+    }
   ],
   "committers": [
     {
@@ -13,9 +16,6 @@
     },
     {
       "githubName": "TennyZhuang"
-    },
-    {
-      "githubName": "skyzh"
     },
     {
       "githubName": "lonng"
