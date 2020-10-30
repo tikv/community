@@ -1,0 +1,67 @@
+{
+  "name": "coprocessor",
+  "techLeaders": [
+    {
+      "githubName": "breeswish"
+    }
+  ],
+  "coLeaders": [
+    {
+      "githubName": "skyzh"
+    }
+  ],
+  "committers": [
+    {
+      "githubName": "niedhui"
+    },
+    {
+      "githubName": "TennyZhuang"
+    },
+    {
+      "githubName": "lonng"
+    },
+    {
+      "githubName": "sticnarf"
+    },
+    {
+      "githubName": "zhongzc"
+    },
+    {
+      "githubName": "iosmanthus"
+    },
+    {
+      "githubName": "andylokandy"
+    },
+    {
+      "githubName": "MyonKeminta"
+    },
+    {
+      "githubName": "AndreMouche"
+    }
+  ],
+  "reviewers": [
+    {
+      "githubName": "Fullstop000"
+    }
+  ],
+  "activeContributors": [
+    {
+      "githubName": "hawkingrei"
+    },
+    {
+      "githubName": "koushiro"
+    },
+    {
+      "githubName": "cireu"
+    },
+    {
+      "githubName": "renkai"
+    },
+    {
+      "githubName": "codeworm96"
+    },
+    {
+      "githubName": "Rustin-Liu"
+    }
+  ]
+}

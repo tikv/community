@@ -23,7 +23,7 @@ The main responsibility of Scheduling SIG is to work on the development of the s
 
 - Code style, submission specifications, PR Description template, etc. please refer to [Document](https://github.com/tikv/pd/blob/master/CONTRIBUTING.md)
 - Task Assignment
-  - SIG Tech Lead maintains public [Member List](./membership.md) and [Task List](https://github.com/tikv/pd/projects/5) Link.
+  - SIG Tech Lead maintains public [Member List](https://tikv.github.io/members/build/index.html?name=scheduling) and [Task List](https://github.com/tikv/pd/projects/5) Link.
   - New SIG members can freely receive tasks, or participate in the development or promotion of existing tasks, but need to communicate and synchronize with the Tech Lead or the person responsible for the corresponding task.
   - SIG members are required to maintain monthly participation in development tasks or to participate in the design and discussion of existing features or future plans. If you do not participate in development and discussion for a quarter of a year, it is considered inactive and SIG will be removed as appropriate.
 
