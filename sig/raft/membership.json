@@ -1,0 +1,72 @@
+{
+  "name": "raft",
+  "techLeaders": [
+    {
+      "githubName": "BusyJay"
+    },
+    {
+      "githubName": "hicqu"
+    }
+  ],
+  "coLeaders": [],
+  "committers": [
+    {
+      "githubName": "5kbpers"
+    },
+    {
+      "githubName": "gengliqi"
+    },
+    {
+      "githubName": "overvenus"
+    },
+    {
+        "githubName": "NingLing-P"
+    }
+  ],
+  "reviewers": [
+    {
+      "githubName": "Fullstop000"
+    },
+    {
+      "githubName": "accelsao"
+    },
+    {
+      "githubName": "JmPotato"
+    },
+    {
+      "githubName": "xhebox"
+    },
+    {
+      "githubName": "howardlau1999"
+    }
+  ],
+  "activeContributors": [
+    {
+      "githubName": "ngaut"
+    },
+    {
+      "githubName": "siddontang"
+    },
+    {
+      "githubName": "Hoverbear"
+    },
+    {
+      "githubName": "disksing"
+    },
+    {
+      "githubName": "hhkbp2"
+    },
+    {
+      "githubName": "morefreeze"
+    },
+    {
+      "githubName": "nrc"
+    },
+    {
+      "githubName": "ice1000"
+    },
+    {
+      "githubName": "csmoe"
+    }
+  ]
+}
