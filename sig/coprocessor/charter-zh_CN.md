@@ -26,7 +26,7 @@ Coprocessor SIG 聚焦 TiKV 项目 Coprocessor 模块，Coprocessor 是 TiKV 中
 
 - 代码风格、提交规范、PR Description 模板等请参考 [文档](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md)
 - 任务分配
-  - SIG Tech Lead 在 https://github.com/tikv/community 维护公开的 [成员列表](https://tikv.github.io/members/build/index.html?name=coprocessor) 与 [任务列表](./workflow-zh_CN.md) 链接。
+  - SIG Tech Lead 在 https://github.com/tikv/community 维护公开的 [成员列表](https://pingcap.com/developer/sig/coprocessor) 与 [任务列表](./workflow-zh_CN.md) 链接。
   - 新加入的 SIG 成员可有 2 周时间了解各个任务详情并认领一个任务，或参与一个现有任务的开发或推动。若未能在该时间内认领任务则会被移除 SIG。
   - SIG 成员需维持每个月参与开发任务，或参与关于现有功能或未来规划的设计与讨论。若连续一个季度不参与开发与讨论，视为不活跃状态，将会被移除 SIG。作为 acknowledgment，仍会处于成员列表的「Former Member」中。
 

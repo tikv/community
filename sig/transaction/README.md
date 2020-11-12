@@ -27,7 +27,7 @@ If you would like to join the SIG or have any questions about it, please email s
 
 ## Members
 
-See [SIG Transaction Member List](https://tikv.github.io/members/build/index.html?name=transaction).
+See [SIG Transaction Member List](https://pingcap.com/developer/sig/transaction).
 
 ## Meetings
 
