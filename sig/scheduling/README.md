@@ -12,7 +12,7 @@ Scheduling SIG covers the scheduling system for TiKV. Our work includes
 
 ## Members
 
-See [SIG Scheduling Members](https://tikv.github.io/members/build/index.html?name=scheduling).
+See [SIG Scheduling Members](https://pingcap.com/developer/sig/scheduling).
 
 ## Meetings
 

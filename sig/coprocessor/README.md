@@ -3,7 +3,7 @@
 Covers Coprocessor component in TiKV.
 
 - Charter: [中文](./charter-zh_CN.md) [English](./charter.md)
-- Membership: [English](https://tikv.github.io/members/build/index.html?name=coprocessor)
+- Membership: [English](https://pingcap.com/developer/sig/coprocessor)
 - Workflow: [中文](./workflow-zh_CN.md)
 
 ## Meetings
