@@ -50,6 +50,10 @@
       "githubName": "zhangjinpeng1987"
     }
   ],
-  "reviewers": [],
+  "reviewers": [
+    {
+      "githubName": "you06"
+    }
+  ],
   "activeContributors": []
 }
