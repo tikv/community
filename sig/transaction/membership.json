@@ -2,19 +2,19 @@
   "name": "transaction",
   "techLeaders": [
     {
-      "githubName": "nrc"
+      "githubName": "andylokandy"
     },
     {
-      "githubName": "andylokandy"
-    }
+      "githubName": "nrc"
+    },
   ],
   "coLeaders": [],
   "committers": [
     {
-      "githubName": "bobotu"
+      "githubName": "AndreMouche"
     },
     {
-      "githubName": "AndreMouche"
+      "githubName": "bobotu"
     },
     {
       "githubName": "cfzjywxk"
@@ -52,8 +52,11 @@
   ],
   "reviewers": [
     {
+      "githubName": "longfangsong"
+    },
+    {
       "githubName": "you06"
-    }
+    },
   ],
   "activeContributors": []
 }
