@@ -6,7 +6,8 @@ assignees: 'hi-rustin'
 ---
 
 ### GitHub Username
-e.g. (at)example_user
+- sig-name: e.g. sig-raft
+- role: e.g. committer
 
 ### SIG you are requesting membership in
 e.g. sig-raft
