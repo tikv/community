@@ -2,7 +2,7 @@
 name: SIG Membership Request
 about: Request membership in a TiKV SIG
 title: 'REQUEST: New membership for <your-GH-handle>'
-assignees: 'hi-rustin'
+assignees: 'Mini256'
 ---
 
 ### GitHub Username
