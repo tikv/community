@@ -1,0 +1,31 @@
+{
+    "maintainer": [
+        "nolouch",
+        "rleungx"
+    ],
+
+    "committer": [
+        "Connor1996",
+        "HunDunDM",
+        "JmPotato",
+        "Yisaer",
+        "disksing",
+        "huachaohuang",
+        "lhy1024",
+        "overvenus",
+        "qiuyesuifeng",
+        "siddontang"
+    ],
+
+    "reviewer": [
+        "Luffbee",
+        "howardlau1999",
+        "shafreeck",
+        "xhebox"
+    ],
+
+    "repository": [
+        "pd",
+        "rfcs"
+    ]    
+}

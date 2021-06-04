@@ -1,0 +1,23 @@
+{
+    "maintainer": [
+        "BusyJay",
+        "hicqu"
+    ],
+
+    "committer": [
+        "5kbpers",
+        "NingLin-P",
+        "gengliqi",
+        "overvenus"
+    ],
+
+    "reviewer": [
+        "Fullstop000",
+        "accelsao"
+    ],
+
+    "repository": [
+        "raft-rs",
+        "rfcs"
+    ]    
+}
