@@ -24,7 +24,7 @@
         "xhebox"
     ],
 
-    "repository": [
+    "repositories": [
         "pd",
         "rfcs"
     ]    
