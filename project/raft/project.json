@@ -1,22 +1,22 @@
 {
-    "maintainer": [
+    "maintainers": [
         "BusyJay",
         "hicqu"
     ],
 
-    "committer": [
+    "committers": [
         "5kbpers",
         "NingLin-P",
         "gengliqi",
         "overvenus"
     ],
 
-    "reviewer": [
+    "reviewers": [
         "Fullstop000",
         "accelsao"
     ],
 
-    "repository": [
+    "repositories": [
         "raft-rs",
         "rfcs"
     ]    

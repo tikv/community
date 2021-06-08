@@ -1,5 +1,5 @@
 {
-    "maintainer": [
+    "maintainers": [
         "BusyJay",
         "andylokandy",
         "breeswish",
@@ -9,7 +9,7 @@
         "yiwu-arbug"
     ],
 
-    "committer": [
+    "committers": [
         "5kbpers",
         "AndreMouche",
         "Connor1996",
@@ -40,7 +40,7 @@
         "zhongzc"
     ],
 
-    "reviewer": [
+    "reviewers": [
         "Fullstop000",
         "Jibbow",
         "Xuanwo",
@@ -55,7 +55,7 @@
         "zyguan"
     ],
 
-    "repository": [
+    "repositories": [
         "agatedb",
         "async-speed-limit",
         "bytes",
