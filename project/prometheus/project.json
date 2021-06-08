@@ -1,0 +1,17 @@
+{
+    "maintainers": [
+        "breedwish",
+        "lucab",
+        "mxinden",
+        "siddontang"
+    ],
+
+    "committers": [],
+
+    "reviewers": [],
+
+    "repositories": [
+        "rust-prometheus",
+        "rfcs"
+    ]    
+}
