@@ -38,11 +38,14 @@
         "sunxiaoguang",
         "sticnarf",
         "tabokie",
-        "tiancaiamao",
         "youjiali1995",
         "zhangjinpeng1987",
         "zhongzc",
         "zhouqiang-cl"
+    ],
+
+    "emeritus_committers": [
+        "tiancaiamao"
     ],
 
     "reviewers": [
