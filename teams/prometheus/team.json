@@ -1,0 +1,23 @@
+{
+    "_comment": [
+        "Items of lists in this file are in alphabetical order. Please keep it on modification."
+    ],
+    
+    "maintainers": [
+        "breeswish",
+        "lucab",
+        "mxinden",
+        "siddontang"
+    ],
+
+    "committers": [
+        "zhouqiang-cl"
+    ],
+
+    "reviewers": [],
+
+    "repositories": [
+        "rust-prometheus",
+        "rfcs"
+    ]    
+}

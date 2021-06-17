@@ -1,0 +1,36 @@
+{
+    "_comment": [
+        "Items of lists in this file are in alphabetical order. Please keep it on modification."
+    ],
+    
+    "maintainers": [
+        "nolouch",
+        "rleungx"
+    ],
+
+    "committers": [
+        "Connor1996",
+        "HunDunDM",
+        "JmPotato",
+        "Yisaer",
+        "disksing",
+        "huachaohuang",
+        "lhy1024",
+        "overvenus",
+        "qiuyesuifeng",
+        "siddontang",
+        "zhouqiang-cl"
+    ],
+
+    "reviewers": [
+        "Luffbee",
+        "howardlau1999",
+        "shafreeck",
+        "xhebox"
+    ],
+
+    "repositories": [
+        "pd",
+        "rfcs"
+    ]    
+}

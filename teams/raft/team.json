@@ -1,0 +1,28 @@
+{
+    "_comment": [
+        "Items of lists in this file are in alphabetical order. Please keep it on modification."
+    ],
+    
+    "maintainers": [
+        "BusyJay",
+        "hicqu"
+    ],
+
+    "committers": [
+        "5kbpers",
+        "NingLin-P",
+        "gengliqi",
+        "overvenus",
+        "zhouqiang-cl"
+    ],
+
+    "reviewers": [
+        "Fullstop000",
+        "accelsao"
+    ],
+
+    "repositories": [
+        "raft-rs",
+        "rfcs"
+    ]    
+}
