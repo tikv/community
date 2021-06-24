@@ -95,6 +95,7 @@
         "procinfo-rs",
         "protobuf-build",
         "raft-engine",
+        "rfcs",
         "rocksdb",
         "rusoto",
         "rust-rocksdb",
