@@ -37,7 +37,7 @@ The current list of steering committee members is as below, in alphabetical orde
 
 Teams are persistent open groups that focus on a part of the TiKV project. A team has its reviewer, committer and maintainer, and owns one or more repositories. Team level decision making comes from its maintainers.
 
-The current list of teams is under the `teams` directory.
+The current list of teams is under the [teams](teams/README.md) directory.
 
 #### Reviewers
 
