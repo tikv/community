@@ -31,8 +31,6 @@ The current list of steering committee members is as below, in alphabetical orde
 | Wink Yao <wink@pingcap.com>              | PingCAP       | [winkyao](https://github.com/winkyao)                   |
 | Jinpeng Zhang <zhangjinpeng@pingcap.com> | PingCAP       | [zhangjinpeng1987](https://github.com/zhangjinpeng1987) |
 
-
-
 ### Teams
 
 Teams are persistent open groups that focus on a part of the TiKV project. A team has its reviewer, committer and maintainer, and owns one or more repositories. Team level decision making comes from its maintainers.
@@ -103,9 +101,9 @@ Only active (i.e. non-emeritus) maintainers and steering committee members have 
 
 These are the types of approvals that can be sought. Different actions require different types of approvals.
 
-* Consensus: Consensus requires 2 binding +1 votes and no binding vetoes.
-* Lazy Majority: A lazy majority vote requires 2 binding +1 votes and more binding +1 votes than -1 votes.
-* 2/3 Majority: Some actions require a 2/3 majority to pass. Such actions typically affect the foundation of the project (e.g. adopting a new codebase). The higher threshold is designed to ensure such changes are strongly supported. To pass this vote requires at least 2/3 of binding vote holders to vote +1.
+* **Consensus**: Consensus requires 2 binding +1 votes and no binding vetoes.
+* **Lazy Majority**: A lazy majority vote requires 2 binding +1 votes and more binding +1 votes than -1 votes.
+* **2/3 Majority**: Some actions require a 2/3 majority to pass. Such actions typically affect the foundation of the project (e.g. adopting a new codebase). The higher threshold is designed to ensure such changes are strongly supported. To pass this vote requires at least 2/3 of binding vote holders to vote +1.
 
 > In order to address the case of insufficient active binding voters to reach 2/3 majority, one can follow the process below to exclude a binding vote from the counting of this particular voting thread. 
 > 
