@@ -55,7 +55,7 @@ Commit access can be revoked by consensus by the maintainers (except the committ
 
 #### Maintainers
 
-The maintainers consist group of active committers that moderate the discussion, manage the project release, and proposes new committers or maintainers. Potential candidates are usually proposed via an internal discussion among maintainers, followed by a consensus approval, i.e. a concrete number of approvals, and no vetoes. Any veto must be accompanied by reasoning. Maintainers should serve the community by upholding the community practices and guidelines TiDB a better community for everyone. Maintainers  should nominate new reviewer, committers and maintainers, and should also strive to only nominate new candidates outside of their own organization.
+The maintainers consist group of active committers that moderate the discussion, manage the project release, and proposes new committers or maintainers. Potential candidates are usually proposed via an internal discussion among maintainers, followed by a consensus approval, i.e. a concrete number of approvals, and no vetoes. Any veto must be accompanied by reasoning. Maintainers should serve the community by upholding the community practices and guidelines TiKV a better community for everyone. Maintainers  should nominate new reviewer, committers and maintainers, and should also strive to only nominate new candidates outside of their own organization.
 
 Membership of the maintainers is by invitation only and must be approved by a consensus of the maintainers. A maintainer is considered emeritus by their own declaration. An emeritus member may request reinstatement to the maintainers, which will be sufficient to restore him or her to active maintainers.
 
@@ -118,6 +118,8 @@ A valid, binding veto cannot be overruled. If a veto is cast, it must be accompa
 If you disagree with a valid veto, you must lobby the person casting the veto to withdraw their veto. If a veto is not withdrawn, the action that has been vetoed must be reversed in a timely manner.
 
 ### Actions
+
+Steering committee is permitted to take over team level decision making from the team maintainers, e.g., new maintainer or maintainer removal by consensus. However, it is a safety valve and the committee should avoid actually doing that.
 
 | Actions                  | Description                                                                                                                                                                                                                                         | Approval      | Binding Voters           | Minimum Length (days) |
 | :----------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ | :----------------------- | :-------------------- |
