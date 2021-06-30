@@ -1,102 +1,137 @@
-> **Note:**
->
-> This is a **Work in Progress**. Stay tuned for more follow-up updates!
-
 # TiKV Governance
 
- This document describes the governance rules of the TiKV project (organization). It is meant to be followed by all projects under the TiKV organization.
+This document defines governance policies of the TiKV project. It is meant to be followed by all projects under the TiKV organization.
 
-- [Code of Conduct](#code-of-conduct)
-- [Community groups and roles](#community-groups-and-roles)
-    - [Maintainer](#maintainer)
-    - [SIGs](#sigs)
-    - [Users](#users)
-- [Approving PRs](#approving-prs)
-- [Decision making and voting](#decision-making-and-voting)
-    - [Proposal process](#proposal-process)
-- [Adding new SIGs/projects](#adding-new-sigsprojects)
+## Roles and Responsibilities
 
-## Code of Conduct
+### Steering Committee
 
-The TiKV community follows the [CNCF Code of Conduct](https://github.com/tikv/tikv/blob/master/CODE_OF_CONDUCT.md).
+Steering committee members demonstrate a strong commitment to the project with views in the interest of the broader TiKV project.
 
-## Community groups and roles
+Responsibilities include:
 
-The TiKV project is comprised of the following types of contributing groups:
+* Own the overall direction of the TiKV project.
+* Speaking on behalf of the project.
+* Maintaining guidelines of the project.
+* Nominating new committee members.
 
-- Maintainers
-- Special Interest Groups (SIGs)
-- Users
+Membership of steering committee is by invitation only and must be approved by a consensus of the steering committee. A committee member is considered emeritus by their own declaration. An emeritus member may request reinstatement to the steering committee, which will be sufficient to restore him or her to active committee member.
 
-### Maintainer
+Membership of steering committee can be revoked by a consensus vote of the steering committee other than the member in question.
 
-Maintainers are first and foremost contributors that have shown they are committed to the long term success of a project. They are the planners and designers of the TiKV project. Maintainership is about building trust with the current maintainers of the project and being a person that they can depend on to make decisions in the best interest of the project in a consistent manner.
+The current list of steering committee members is as below, in alphabetical order on last name.
 
-While maintainership indicates a valued member of the community who has demonstrated a healthy respect for the project’s aims and objectives, their work must still be reviewed by the community before being accepted into an official release. This means that a Maintainer is not allowed to merge their changes without approval from another reviewer. However, they are allowed to sidestep this rule under exceptional circumstances if the changes are approved through other means than the standard process.
+| Name                                     | Represents    | GitHub                                                  |
+| ---------------------------------------- | ------------- | :------------------------------------------------------ |
+| Fu Chen <cfworking1990@gmail.com>        | Yidian Zixun  | [fredchenbj](https://github.com/fredchenbj)             |
+| Daobing Li <lidaobing@gmail.com>         | JD Cloud & AI | [lidaobing](https://github.com/lidaobing)               |
+| Jay Li <jay@pingcap.com>                 | PingCAP       | [BusyJay](https://github.com/BusyJay)                   |
+| Xiaoguang Sun <sunxiaoguang@zhihu.com>   | Zhihu         | [sunxiaoguang](https://github.com/sunxiaoguang)         |
+| Siddon Tang <tl@pingcap.com>             | PingCAP       | [siddontang](https://github.com/siddontang)             |
+| Wink Yao <wink@pingcap.com>              | PingCAP       | [winkyao](https://github.com/winkyao)                   |
+| Jinpeng Zhang <zhangjinpeng@pingcap.com> | PingCAP       | [zhangjinpeng1987](https://github.com/zhangjinpeng1987) |
 
-#### How to become a Maintainer
+### Teams
 
-Contributors wanting to become maintainers are expected to:
+Teams are persistent open groups that focus on a part of the TiKV project. A team has its reviewer, committer and maintainer, and owns one or more repositories. Team level decision making comes from its maintainers.
 
-- Enable and promote successful adoptions on the user or ecosystem end
-- Collaborate well
-- Demonstrate a deep and comprehensive understanding of TiKV's architecture, technical goals, and directions
-- Actively engage with major TiKV feature proposals and implementations
+The current list of teams is under the [teams](teams/README.md) directory.
 
-A new Maintainer must be nominated by an existing Maintainer. The nominating Maintainer will create a PR to update [TiKV Maintainers](https://github.com/tikv/tikv/blob/master/MAINTAINERS.md#the-tikv-maintainers). Upon consensus of incumbent Maintainers, the PR will be approved and the new Maintainer becomes active.
+#### Reviewers
 
-If a Maintainer is no longer interested or cannot perform the Maintainer duties listed above, they should volunteer to be moved to emeritus status. In extreme cases this can also occur by a vote of the maintainers per the [voting process](#decision-making-and-voting) below.
+Reviewers are individuals who actively make contribution and are willing to participate in the code review of new contributions. We identify reviewers from active contributors. The committers should explicitly solicit reviews from reviewers. High-quality code reviews prevent technical debt for long-term and are crucial to the success of the project. A pull request to the project has to be reviewed by at least one reviewer in order to be merged.
 
-### SIGs
+Review access is by invitation only and must be approved by consensus of the maintainers. A reviewer is considered emeritus by their own declaration. An emeritus reviewer may request reinstatement of review access from the maintainers, which will be sufficient to restore him or her to active reviewer status.
 
-The TiKV project is organized primarily into Special Interest Groups, or SIGs. Each SIG consists of contributors with a common purpose of advancing the TiKV project for a specific topic, such as Coprocessor, Transaction, or Scheduling. The goal of an SIG is to enable a distributed decision structure and code ownership, as well as providing focused forums for getting work done, making decisions, and onboarding new contributors. Every identifiable subpart of the project (e.g., repository, subdirectory, API, test, issue, PR) is intended to be owned by the corresponding SIG.
+Review access can be revoked by consensus by the maintainers (except the reviewer in question if they are also a maintainer).
 
-Each SIG must have a charter that specifies its scope (topics, code repositories, and directories), responsibilities, areas of authority, how members and roles of authority/leadership are selected/granted, etc. See the [SIG charter template](/committee/sig-governance/SIG-CHARTER-TEMPLATE.md) for details on how charters are formed and managed. SIGs should be relatively free to customize or change how they operate, within some broad guidelines and constraints imposed by this Governance and [Sig Governance](/committee/sig-governance/SIG-GOVERNANCE.md).
+#### Committers
 
-SIGs are organized and operated by SIG Leads, which is a SIG internal role that oversees the health and sustained development of the SIG. Upon the initial establishment of a SIG, the maintainers will assign 2-3 SIG Leads.
+Committers are individuals who are granted the write access to the repositories belong to the team. A committer is usually responsible for a certain area or several areas of the code where they oversee the code review process. The area of contribution can take all forms, including code contributions and code reviews, documents, education, and outreach. Committers are essential for a high quality and healthy project.
 
-#### Community roles in SIGs
+Commit access is by invitation only and must be approved by consensus of the maintainers. A committer is considered emeritus by their own declaration. An emeritus committer may request reinstatement of commit access from the maintainers, which will be sufficient to restore him or her to active committer status.
 
-Within a SIG, you could find your path of contribution and growth through multiple roles - Contributor, Active Contributor, Reviewer, and Committer, each with corresponding responsiblities and requirements, as listed below:
+Commit access can be revoked by consensus by the maintainers (except the committer in question if they are also a maintainer).
 
-| Role | Responsibilities | Requirements | Defined by |
-| -----| ---------------- | ------------ | ------- |
-Contributor | contribute | initial contribution (PR, issue reporting, answering questions, etc.) | `SIG member` of the SIG |
-| Active Contributor | active contributor in the community | sponsored by 2 Reviewers + Continuous contributions (8 or more) to the project. | `SIG member` of the SIG |
-| Reviewer | review code contributions | Active Contributor + History of review and authorship within a SIG | `SIG member` of the SIG |
-| Committer | set directions and priorities for the sub-projects scoped to the SIG | highly experienced and active Reviewer + major contributions to a subproject | `SIG member` of the SIG|
+#### Maintainers
 
-The roles and responsibilities above are scoped to the SIG and may vary across SIGs. See the corresponding SIG charter for more details on SIG roles and the corresponding promotion paths.
+The maintainers consist group of active committers that moderate the discussion, manage the project release, and proposes new committers or maintainers. Potential candidates are usually proposed via an internal discussion among maintainers, followed by a consensus approval, i.e. a concrete number of approvals, and no vetoes. Any veto must be accompanied by reasoning. Maintainers should serve the community by upholding the community practices and guidelines TiKV a better community for everyone. Maintainers  should nominate new reviewer, committers and maintainers, and should also strive to only nominate new candidates outside of their own organization.
 
-### Users
+Membership of the maintainers is by invitation only and must be approved by a consensus of the maintainers. A maintainer is considered emeritus by their own declaration. An emeritus member may request reinstatement to the maintainers, which will be sufficient to restore him or her to active maintainers.
 
-Users are community members who have a need for the project. They are the most important members of the community and without them the project would have no purpose. Anyone can be a user; there are no special requirements.
+Membership of the maintainers can be revoked by a consensus vote of all the maintainers other than the member in question.
 
-The project asks its users to participate in the project and community as much as possible. User contributions enable the project team to ensure that they are satisfying the needs of those users. Common user contributions include (but are not limited to):
+### Infrastructure
 
-- evangelising the project (e.g. a link on a website and word-of-mouth awareness raising)
-- informing developers of strengths and weaknesses from a user's perspective
-- providing financial support to facilitate collaboration in testing, development, etc.
+The Infrastructure team, known as Infra, provides and manages all infrastructure and services for the TiKV project. This infrastructure includes the various machines and their operating systems, discussion forum, and GitHub settings. Infra is responsible for systems administration and security, and supports existing teams at the TiKV project. Infra works hard to provide services and setup for each new team.
 
-Users who continue to engage with the project and its community will often become more and more involved. Such users may find themselves becoming contributors, as described in the [SIG roles](#Community-roles-in-SIGs) section.
+Infra does not participant in the project or team decision making process, but help on applying the decision.
 
-## Approving PRs
+Membership of Infra is by invitation only and must be approved by a consensus of the steering committee. A team member is considered emeritus by their own declaration. An emeritus member may request reinstatement to Infra, which will be sufficient to restore him or her to active Infra member.
 
-PRs may be merged only after receiving at least two approvals (LGTMs) from Reviewers, more previliged roles from the relevant SIGs, or even Maintainers.
+Membership of Infra can be revoked by a consensus vote of the steering committee (except the member in question if they are also a committee member).
 
-## Decision making and voting
+The current list of Infra members is as below, in alphabetical order on last name.
 
-Ideally, all project decisions are resolved by consensus via a PR or GitHub issue. Any of the day-to-day project maintenance can be done by a [lazy consensus](http://communitymgt.wikia.com/wiki/Lazy_consensus) model. Cross-SIG or community-level decisions must be brought to broader awareness via synchronous communications such as community meetings and slack channels, or asynchronous communications such as monthly newsletters.
+| Name                                  | GitHub                                           |
+| ------------------------------------- | :----------------------------------------------- |
+| Zili Chen <wander4096@gmail.com>      | [tisonkun](https://github.com/tisonkun)          |
+| Zhiyuan Liang <minianter@foxmail.com> | [Mini256](https://github.com/Mini256)            |
+| Qiang Zhou <zhouqiang.cl@gmail.com>   | [zhouqiang-cl](https://github.com/zhouqiang-cl/) |
 
-In general, we prefer that technical issues and maintainer membership are amicably worked out between the persons involved. If a dispute cannot be decided independently, the Maintainers can be called in to resolve the issue by voting. For voting, a specific statement of what is being voted on should be added to the relevant github issue or PR, and a link to that issue or PR added to the maintainers meeting agenda document. Maintainers should indicate their yes/no vote on that issue or PR, and after a suitable period of time, the votes will be tallied and the outcome noted.
+## Decision Making
 
-Decision making must comply with the [Guiding Principles](/guiding-principles.md) and [CNCF Code of Conduct](https://github.com/tikv/tikv/blob/master/CODE_OF_CONDUCT.md).
+Within the TiKV project, different types of decisions require different forms of approval. For example, the previous section describes several decisions which require 'consensus' approval. This section defines how voting is performed, the types of approvals, and which types of decision require which type of approval.
 
-### Proposal process
+### Voting
 
-We use a [Request for Comments (RFC) process for any substantial changes to TiKV. This process involves an upfront design that will provide increased visibility to the community. If you're considering a PR that will bring in a new feature that may affect how TiKV is implemented, or may be a breaking change, then you should start with a RFC. The process is documented in [RFC repository](https://github.com/tikv/rfcs) and have a [template](https://github.com/tikv/rfcs/blob/master/template.md) for you to get started. However, it is suggested that you bring this proposal for initial SIG discussions before you submit the RFC, which makes the process more smooth and efficient.
+Decisions regarding the project are made by votes on [the primary project community repository](https://github.com/tikv/community). Votes are clearly indicated by a pull request adding an entry under [votes](votes/README.md) folder. Votes may contain multiple items for approval and these should be clearly separated. Voting is carried out by replying to the vote pull request. Voting may take three flavors
 
-## Adding new SIGs/projects
+* **+1**: 'Yes,' 'Agree,' or 'the action should be performed.'
+* **0**: Neutral about the proposed action (or mildly negative but not enough so to want to block it).
+* **-1**: This is a negative vote. On issues where consensus is required, this vote counts as a veto. All vetoes must contain an explanation of why the veto is appropriate. Vetoes with no explanation are void. It may also be appropriate for a -1 vote to include an alternative course of action.
 
-New SIGs or projects can be added to the TiKV organization via [RFC process](#proposal-process), as long as they adhere to the [CNCF charter](https://www.cncf.io/about/charter/) and the guidelines in this document. Once sufficient discussions have taken place under the RFC PR with consensus reached, the follow-up process can begin.
+All participants in the TiKV project are encouraged to show their agreement with or against a particular action by voting. For team decisions, only the votes of active team maintainers are binding. For project decisions, only the votes of active steering committee members are binding. Non-binding votes are still useful for those with binding votes to understand the perception of an action in the wider TiKV community.
 
+Voting can also be applied to changes already made to the TiKV codebase. These typically take the form of a veto (-1) in reply to the commit message sent when the commit is made. Note that this should be a rare occurrence. All efforts should be made to discuss issues when they are still patches before the code is committed.
+
+Only active (i.e. non-emeritus) maintainers and steering committee members have binding votes.
+
+### Approvals
+
+These are the types of approvals that can be sought. Different actions require different types of approvals.
+
+* **Consensus**: Consensus requires 2 binding +1 votes and no binding vetoes.
+* **Lazy Majority**: A lazy majority vote requires 2 binding +1 votes and more binding +1 votes than -1 votes.
+* **2/3 Majority**: Some actions require a 2/3 majority to pass. Such actions typically affect the foundation of the project (e.g. adopting a new codebase). The higher threshold is designed to ensure such changes are strongly supported. To pass this vote requires at least 2/3 of binding vote holders to vote +1.
+
+> In order to address the case of insufficient active binding voters to reach 2/3 majority, one can follow the process below to exclude a binding vote from the counting of this particular voting thread. 
+> 
+> 1. Wait until the minimum length of the voting passes.
+> 2. Publicly reach out via mentioned to the remaining binding voters in the voting pull request for at least 2 attempts with at least 7 days between two attempts.
+> 3. If the binding voter being contacted still failed to respond after all the attempts, the binding voter will be considered as inactive for the purpose of this particular voting.
+
+### Vetoes
+
+A valid, binding veto cannot be overruled. If a veto is cast, it must be accompanied by a valid reason explaining the reasons for the veto. The validity of a veto, if challenged, can be confirmed by anyone who has a binding vote. This does not necessarily signify agreement with the veto - merely that the veto is valid.
+
+If you disagree with a valid veto, you must lobby the person casting the veto to withdraw their veto. If a veto is not withdrawn, the action that has been vetoed must be reversed in a timely manner.
+
+### Actions
+
+Steering committee is permitted to take over team level decision making from the team maintainers, e.g., new maintainer or maintainer removal by consensus. However, it is a safety valve and the committee should avoid actually doing that.
+
+| Actions                  | Description                                                                                                                                                                                                                                         | Approval      | Binding Voters           | Minimum Length (days) |
+| :----------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ | :----------------------- | :-------------------- |
+| New Reviewer             | When a new reviewer is proposed for the team.                                                                                                                                                                                                       | Lazy Majority | Active maintainers       | 3                     |
+| New Committer            | When a new committer is proposed for the team.                                                                                                                                                                                                      | Consensus     | Active maintainers       | 6                     |
+| New Maintainer           | When a new maintainer is proposed for the team.                                                                                                                                                                                                     | Consensus     | Active maintainers       | 6                     |
+| New Infra Member         | When a new member of the infrastructure team is proposed.                                                                                                                                                                                           | Consensus     | Active committee members | 3                     |
+| New Committee Member     | When a new member of the steering committee is proposed. Note: such actions will also be referred to the CNCF by the steering committee.                                                                                                            | Consensus     | Active committee members | 6                     |
+| Reviewer Removal         | When removal of review privileges is sought.                                                                                                                                                                                                        | Consensus     | Active maintainers       | 6                     |
+| Committer Removal        | When removal of commit privileges is sought.                                                                                                                                                                                                        | Consensus     | Active maintainers       | 6                     |
+| Maintainer Removal       | When removal of maintain privileges is sought. Note: such actions will also be referred to the CNCF by the steering committee.                                                                                                                      | Consensus     | Active maintainers       | 6                     |
+| Infra Member Removal     | When removal of the infrastructure team membership is sought.                                                                                                                                                                                       | Consensus     | Active committee members | 6                     |
+| Committee Member Removal | When removal of committee membership is sought.                                                                                                                                                                                                     | Consensus     | Active committee members | 6                     |
+| Adoption of New Codebase | Adoption of large existing external codebase. This refers to contributions big enough that potentially change the shape and direction of the project with massive restructuring and future maintenance commitment, or potentially build a new team. | 2/3 majority  | Active committee members | 6                     |
+| Modifying Governance     | Modifying this document                                                                                                                                                                                                                             | 2/3 majority  | Active committee members | 6                     |
