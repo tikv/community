@@ -10,4 +10,10 @@ For the background, see also [tikv/community#118](https://github.com/tikv/commun
 
 ## Result
 
-Not yet concluded.
+Approved by 4 binding votes, 1 non-binding votes.
+
+* BusyJay (binding)
+* sunxiaoguang (binding)
+* winkyao (binding)
+* zhangjinpeng1987 (binding)
+* zhouqiang-cl (non-binding)
