@@ -6,29 +6,22 @@ Your journey of becoming a contributor and committer starts from here: improving
 
 ## Guiding Principles
 
-See [Guiding Principles for TiKV Community](https://github.com/tikv/community/blob/master/guiding-principles.md).
+See [Guiding Principles for TiKV Community](guiding-principles.md).
 
 ## Governance
 
-See the full governance([中文](/GOVERNANCE-zh_CN.md), [English](/GOVERNANCE.md)) for more details.
+See [GOVERNANCE](GOVERNANCE.md) for more details.
 
 ## Communicating
 
 You can reach out to the community members via any one of the following ways:
 
-+ Slack: [https://tikv-wg.slack.com](https://join.slack.com/t/tikv-wg/shared_invite/enQtNTUyODE4ODU2MzI0LWVlMWMzMDkyNWE5ZjY1ODAzMWUwZGVhNGNhYTc3MzJhYWE0Y2FjYjliYzY1OWJlYTc4OWVjZWM1NDkwN2QxNDE)
-
-+ Discourse: [Discourse](https://forum.tikv.org/c/tikv)
-
-+ Stack Overflow: [https://stackoverflow.com/questions/tagged/tikv](https://stackoverflow.com/questions/tagged/tikv)
-
-+ WeChat: [https://github.com/tikv/tikv/blob/master/README.md#WeChat](https://github.com/tikv/tikv/blob/master/README.md#WeChat)
-
-+ Twitter: [https://twitter.com/tikvproject](https://twitter.com/tikvproject)
-
-+ Blog: [https://tikv.org/blog/](https://tikv.org/blog/)
-
-+ Reddit: [https://www.reddit.com/r/TiKV](https://www.reddit.com/r/TiKV)
+* Slack: [https://tikv-wg.slack.com](https://join.slack.com/t/tikv-wg/shared_invite/enQtNTUyODE4ODU2MzI0LWVlMWMzMDkyNWE5ZjY1ODAzMWUwZGVhNGNhYTc3MzJhYWE0Y2FjYjliYzY1OWJlYTc4OWVjZWM1NDkwN2QxNDE)
+* Discourse: [Discourse](https://internals.tidb.io/c/storage)
+* Stack Overflow: [https://stackoverflow.com/questions/tagged/tikv](https://stackoverflow.com/questions/tagged/tikv)
+* Twitter: [https://twitter.com/tikvproject](https://twitter.com/tikvproject)
+* Blog: [https://tikv.org/blog/](https://tikv.org/blog/)
+* Reddit: [https://www.reddit.com/r/TiKV](https://www.reddit.com/r/TiKV)
 
 ## Your First Contribution
 
