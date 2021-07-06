@@ -17,7 +17,7 @@ See [GOVERNANCE](GOVERNANCE.md) for more details.
 You can reach out to the community members via any one of the following ways:
 
 * Slack: [https://tikv-wg.slack.com](https://join.slack.com/t/tikv-wg/shared_invite/enQtNTUyODE4ODU2MzI0LWVlMWMzMDkyNWE5ZjY1ODAzMWUwZGVhNGNhYTc3MzJhYWE0Y2FjYjliYzY1OWJlYTc4OWVjZWM1NDkwN2QxNDE)
-* Discourse: [Discourse](https://internals.tidb.io/c/storage)
+* Forum: [developer discussion forum](https://internals.tidb.io/c/storage)
 * Stack Overflow: [https://stackoverflow.com/questions/tagged/tikv](https://stackoverflow.com/questions/tagged/tikv)
 * Twitter: [https://twitter.com/tikvproject](https://twitter.com/tikvproject)
 * Blog: [https://tikv.org/blog/](https://tikv.org/blog/)
