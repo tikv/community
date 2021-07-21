@@ -12,4 +12,11 @@ I (@nolouch and @rleungx) hereby nominate @bufferflies as PD Committer and call 
 
 ## Result
 
-Not yet.
+Approved by 2 binding votes, 4 non-binding votes.
+
+* nolouch (binding)
+* rleungx (binding)
+* JmPotato (non-binding)
+* disksing (non-binding)
+* lhy1024 (non-binding)
+* tisonkun (non-binding)
