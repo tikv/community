@@ -1,4 +1,4 @@
-# A Vote for kennytm as TiKV Reviewer
+# A Vote for liuzix as TiKV Reviewer
 
 ## Proposal
 
