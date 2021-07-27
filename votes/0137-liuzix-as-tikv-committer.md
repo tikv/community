@@ -11,4 +11,8 @@ I (@overvenus) hereby nominate @liuzix as TiKV Reviewer and call for a vote.
 
 ## Result
 
-Not yet.
+Approved by 2 binding votes, 1 non-binding votes.
+
+* BusyJay (binding)
+* hicqu (binding)
+* overvenus (non-binding)
