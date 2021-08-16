@@ -17,3 +17,6 @@ I (@overvenus) hereby nominate @kennytm as TiKV Committer and call for a vote.
 Approved by 2 binding votes, 1 non-binding votes.
 
 * overvenus (non-binding)
+* tisonkun (non-binding)
+* skyzh (binding)
+* BusyJay (binding)
