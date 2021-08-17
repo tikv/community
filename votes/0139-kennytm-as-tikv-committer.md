@@ -20,3 +20,5 @@ Approved by 2 binding votes, 1 non-binding votes.
 * tisonkun (non-binding)
 * skyzh (binding)
 * BusyJay (binding)
+* sunxiaoguang (non-binding)
+* lonng (non-binding)
