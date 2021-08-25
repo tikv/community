@@ -35,6 +35,7 @@
         "liuzix",
         "lonng",
         "lysu",
+        "marsishandsome",
         "niedhui",
         "overvenus",
         "sunxiaoguang",
@@ -79,6 +80,7 @@
         "client-java",
         "client-py",
         "client-rust",
+        "client-node",
         "client-validator",
         "copr-test",
         "crc64fast",
@@ -86,6 +88,7 @@
         "fail-rs",
         "grpc-rs",
         "importer",
+        "jepsen-test",
         "jemalloc",
         "jemallocator",
         "minitrace-go",
@@ -111,5 +114,5 @@
         "tlaplus-specs",
         "website",
         "yatp"
-    ]    
+    ]
 }

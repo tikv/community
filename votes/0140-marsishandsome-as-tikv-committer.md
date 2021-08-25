@@ -10,4 +10,7 @@ I (@andylokandy) hereby nominate @marsishandsome as TiKV Committer and call for 
 
 ## Result
 
-Approved by 2 binding votes, 1 non-binding votes.
+Approved by 2 binding votes.
+
+* andylokandy
+* skyzh
