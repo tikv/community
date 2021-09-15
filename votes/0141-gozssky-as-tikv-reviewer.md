@@ -8,8 +8,13 @@
 * [Reviewed pull requests](https://github.com/tikv/tikv/pulls?q=is%3Apr+reviewed-by%3Agozssky)
 
 I (@Little-Wallace) hereby nominate @gozssky as TiKV Reviwer and call for a vote.
+## Deadline
+
+The vote will be open for at least 72 hours unless there is an objection or not enough votes.
 
 ## Result
 
 Approved by 2 binding votes.
 
+* skyzh (binding)
+* BusyJay (binding)
