@@ -15,5 +15,7 @@ The vote will be open for at least 72 hours unless there is an objection or not 
 
 ## Result
 
-Approved by 0 binding votes.
+Approved by 2 binding votes.
 
+* rleungx (binding)
+* nolouch (binding)
