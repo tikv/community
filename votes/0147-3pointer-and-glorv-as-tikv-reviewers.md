@@ -20,7 +20,7 @@ The vote will be open for at least 72 hours unless there is an objection or not 
 
 ## Result
 
-Approved by X binding votes, X non-binding votes.
+Approved by 2 binding votes, 2 non-binding votes.
 
 * BusyJay (binding)
 * skyzh (binding)
