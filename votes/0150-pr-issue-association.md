@@ -25,7 +25,7 @@ I propose to check that a pull request must be associated with issue(s).
 
 In details:
 
-* A pull request MUST be associated with issue(s) in commit messages. That is, the change set by `git commit` with a message mention `ref #{issue-number}` or `close #{issue-number}` or semantic equivalent.
+* A pull request MUST be associated with issue(s) in commit messages. That is, the change set by `git commit` with a message mention the issue(s) associated, by `ref #{issue-number}` or `close[sd]?|resolve[sd]?|fix(e[sd])? #{issue-number}`.
 * A pull request SHOULD be with a description mention the issue(s) associated, so that reviewers are able to get the information directly.
 
 For the first point, we will develop a checker to guard the condition. For the second point, the PR template has already contained such entry.
@@ -38,7 +38,7 @@ However, it's more about development practices than rules. So our committers are
 
 ### Alternative
 
-To ensure PR issue association, we can also check the reference in PR title or PR description. Both are discussed and rejected in the thread on the [developer discussion forum](https://internals.tidb.io/t/topic/409).
+To ensure PR issue association, we can also check the reference in PR title or PR description. Both are discussed in the thread on the [developer discussion forum](https://internals.tidb.io/t/topic/409).
 
 ## Deadline
 
