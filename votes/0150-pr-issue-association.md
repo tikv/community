@@ -11,7 +11,7 @@ To measure software evolution, we focus on features implemented, bugs fixed, and
 
 Normally, an issue documents a work item, and a pull request resolves it (despite cherry-picks). However, the relation between pull requests and issues is complicated in TiDB projects.
 
-* 1 issue with 0 PR: question, bug vanished without a reason, etc. 
+* 1 issue with 0 PRs: question, bug vanished without a reason, etc. 
 * 1 issue with 1 PR: normal case. 
 * 1 issue with n PRs: resolve a bug multiple times ([1](https://github.com/pingcap/tidb/issues/24679)), or resolve a complex issue in steps([2](https://github.com/pingcap/tidb/issues/27652)).
 * n issues with 1 PR: trade off resolving things as a whole (due to code coupling, or we can resolve multiple bugs at the common parent level) ([3](https://github.com/pingcap/tidb/pull/27697)), duplicated issues. 
