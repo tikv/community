@@ -12,9 +12,9 @@ To measure software evolution, we focus on features implemented, bugs fixed, and
 Normally, an issue documents a work item, and a pull request resolves it (despite cherry-picks). However, the relation between pull requests and issues is complicated in TiDB projects.
 
 * 1 issue with 0 PRs: question, bug vanished without a reason, etc. 
-* 1 issue with 1 PR: normal case. 
-* 1 issue with n PRs: resolve a bug multiple times, or resolve a complex issue in steps.
-* n issues with 1 PR: trade off resolving things as a whole (due to code coupling, or we can resolve multiple bugs at the common parent level), duplicated issues. 
+* 1 issue with 1 PR: normal case ([example](https://github.com/tikv/tikv/pull/10971)).
+* 1 issue with n PRs: resolve a bug multiple times, or resolve a complex issue in steps ([example](https://github.com/tikv/tikv/issues/10114)).
+* n issues with 1 PR: trade off resolving things as a whole (due to code coupling, or we can resolve multiple bugs at the common parent level), duplicated issues ([example](https://github.com/tikv/tikv/pull/10364)). 
 * **0 issue with 1 PR**: coding without a ticket ([example](https://github.com/tikv/tikv/pull/10999)). Even if the description is detailed or even if a design document is present, pull requests focus on the change set. It is about the implementation, not the question; if it is, we always mix discussion because the change set has a primary position. 
 
 ### Solution
