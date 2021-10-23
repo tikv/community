@@ -14,3 +14,6 @@ I (@yiwu-arbug) hereby nominate @MrCroxx as TiKV Reviewer and call for a vote.
 The vote will be open for at least 72 hours unless there is an objection or not enough votes.
 
 ## Result
+
+- BusyJay (binding)
+- hicqu (binding)
