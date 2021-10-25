@@ -15,6 +15,10 @@ The vote will be open for at least 72 hours unless there is an objection or not 
 
 ## Result
 
-Approved by X binding votes and X non-binding votes.
+Approved by 3 binding votes and 2 non-binding votes.
 
+* hicqu (binding)
+* BusyJay (binding)
+* skyzh (binding)
 * overvenus (non-binding)
+* tisonkun (non-binding)
