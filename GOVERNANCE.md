@@ -26,7 +26,7 @@ The current list of steering committee members is as below, in alphabetical orde
 | Fu Chen <cfworking1990@gmail.com>        | Yidian Zixun  | [fredchenbj](https://github.com/fredchenbj)             |
 | Daobing Li <lidaobing@gmail.com>         | JD Cloud & AI | [lidaobing](https://github.com/lidaobing)               |
 | Jay Li <jay@pingcap.com>                 | PingCAP       | [BusyJay](https://github.com/BusyJay)                   |
-| Xiaoguang Sun <sunxiaoguang@zhihu.com>   | Zhihu         | [sunxiaoguang](https://github.com/sunxiaoguang)         |
+| Xiaoguang Sun <sunxiaoguang@pingcap.com> | PingCAP       | [sunxiaoguang](https://github.com/sunxiaoguang)         |
 | Siddon Tang <tl@pingcap.com>             | PingCAP       | [siddontang](https://github.com/siddontang)             |
 | Wink Yao <wink@pingcap.com>              | PingCAP       | [winkyao](https://github.com/winkyao)                   |
 | Jinpeng Zhang <zhangjinpeng@pingcap.com> | PingCAP       | [zhangjinpeng1987](https://github.com/zhangjinpeng1987) |
