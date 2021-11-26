@@ -15,7 +15,8 @@ The vote will be open for at least 72 hours unless there is an objection or not 
 
 ## Result
 
-Approved by 1 binding votes and 1 non-binding votes.
+Approved by 2 binding votes and 1 non-binding votes.
 
 * skyzh (binding)
+* sticnarf (binding)
 * 5kbpers (non-binding)
