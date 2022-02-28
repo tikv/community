@@ -16,4 +16,8 @@ The vote will be open for at least 72 hours unless there is an objection or not 
 
 ## Result
 
-Conclude the voting result, including approvals and vetoes, binding and non-binding.
+Approved by 3 binding votes.
+
+* BusyJay (binding)
+* andylokandy (binding)
+* skyzh (binding)
