@@ -77,6 +77,7 @@ The current list of Infra members is as below, in alphabetical order on last nam
 | ------------------------------------- | :----------------------------------------------- |
 | Zili Chen <wander4096@gmail.com>      | [tisonkun](https://github.com/tisonkun)          |
 | Zhiyuan Liang <minianter@foxmail.com> | [Mini256](https://github.com/Mini256)            |
+| Xiang Zhang <angwerzx@126.com>        | [zhangyangyu](https://github.com/zhangyangyu)    |
 | Qiang Zhou <zhouqiang.cl@gmail.com>   | [zhouqiang-cl](https://github.com/zhouqiang-cl/) |
 
 ## Decision Making
