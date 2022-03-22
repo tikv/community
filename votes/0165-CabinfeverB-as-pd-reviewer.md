@@ -16,3 +16,13 @@ I ([@rleungx](https://github.com/rleungx)) hereby nominate [@CabinfeverB](https:
 ## Deadline
 
 The vote will be open for at least 72 hours unless there is an objection or not enough votes.
+
+## Result
+
+Approved by 2 binding votes and 3 non-binding votes.
+
+* nolouch (binding)
+* rleungx (binding)
+* JmPotato (non-binding)
+* lhy1024 (non-binding)
+* AndreMouche (non-binding)
