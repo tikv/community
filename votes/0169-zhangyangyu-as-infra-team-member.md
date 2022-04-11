@@ -18,3 +18,6 @@ The vote will be open for at least 72 hours unless there is an objection or not 
 Approved by 0 binding votes and 1 non-binding votes.
 
 * Mini256 (non-binding)
+* tisonkun (non-binding)
+* BusyJay (binding)
+
