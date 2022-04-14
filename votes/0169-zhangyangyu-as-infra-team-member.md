@@ -15,9 +15,9 @@ The vote will be open for at least 72 hours unless there is an objection or not 
 
 ## Result
 
-Approved by 1 binding votes and 2 non-binding votes.
+Approved by 2 binding votes and 2 non-binding votes.
 
 * Mini256 (non-binding)
 * tisonkun (non-binding)
 * BusyJay (binding)
-
+* sunxiaoguang (binding)
