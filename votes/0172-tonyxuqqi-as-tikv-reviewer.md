@@ -1,4 +1,4 @@
-# A Vote for AndreMouche as PD Reviewer
+# A Vote for tonyxuqqi as PD Reviewer
 
 ## Proposal
 
