@@ -17,4 +17,5 @@ The vote will be open for at least 72 hours unless there is an objection or not 
 Approved by 1 binding votes.
 
 * skyzh (binding)
+* innerr (binding)
 
