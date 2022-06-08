@@ -38,3 +38,10 @@ TiKV Community is under the Apache 2.0 license. See the [LICENSE.md](https://git
 ## Acknowledgements
 
 Thank you to the [Kubernetes](https://github.com/kubernetes/community), [Apache](http://activemq.apache.org/becoming-a-committer.html) and [Docker](https://github.com/docker/community) community pages for providing us with inspiration.
+
+## Result
+
+Approved by 2 binding votes.
+
+* skyzh (binding)
+* andylokandy (binding)
