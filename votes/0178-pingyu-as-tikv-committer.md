@@ -10,3 +10,9 @@
 I (@iosmanthus) hereby nominate @pingyu as TiKV Committer and call for a vote.
 
 ## Result
+
+Approved by 3 binding votes.
+
+- andylokandy (binding)
+- busyjay (binding)
+- sunxiaoguang (binding)
