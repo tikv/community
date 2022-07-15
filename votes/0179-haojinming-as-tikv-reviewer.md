@@ -13,3 +13,9 @@ I ([@pingyu](https://github.com/pingyu)) hereby nominate [@haojinming](https://g
 The vote will be open for at least 72 hours unless there is an objection or not enough votes.
 
 ## Result
+
+Approved by 2 binding votes and 1 non-binding votes.
+
+* andylokandy (binding)
+* sunxiaoguang (binding)
+* iosmanthus (non-binding)
