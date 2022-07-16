@@ -102,6 +102,7 @@
         "jepsen-test",
         "jemalloc",
         "jemallocator",
+        "match-template",
         "minitrace-go",
         "minitrace-rust",
         "minstant",
