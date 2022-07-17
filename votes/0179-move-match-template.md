@@ -10,8 +10,9 @@ The vote will be open for at least 6 days unless there is an objection or not en
 
 ## Result
 
-Approved by 2 binding votes.    
+Approved by 3 binding votes.    
 
 - busyjay (binding)
 - skyzh (binding)
-- tisonkun (binding)
+- andylokandy (binding)
+- tisonkun (non-binding)
