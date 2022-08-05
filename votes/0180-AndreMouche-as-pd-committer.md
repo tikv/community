@@ -1,9 +1,10 @@
-# A Vote for AndreMouche as PD Reviewer
+# A Vote for AndreMouche as PD Committer
 
 ## Proposal
 
 [@AndreMouche](https://github.com/AndreMouche) has been working on `tikv/pd` for more than a year. The main contributions are listed in the following:
 
+[scheduling diagnosis](https://github.com/tikv/pd/issues/5257)
 
 See more:
 * [Authored pull requests](https://github.com/tikv/pd/pulls?q=is%3Apr+author%3AAndreMouche+is)
