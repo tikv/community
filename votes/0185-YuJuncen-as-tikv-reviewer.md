@@ -16,9 +16,4 @@ The vote will be open for at least 3 days unless there is an objection or not en
 
 ## Result
 
-Approved by 2 binding votes and 1 non-binding votes.
-
-* BusyJay (binding)
-* hicqu (binding)
-* overvenus (non-binding)
 
