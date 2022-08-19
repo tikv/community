@@ -6,7 +6,7 @@
 
 [scheduling diagnosis](https://github.com/tikv/pd/issues/5257)
 
-[http audit](https://github.com/tikv/pd/issues/3111)
+[http audit](https://github.com/tikv/pd/issues/4480)
 
 See more:
 * [Authored pull requests](https://github.com/tikv/pd/pulls?q=is%3Apr+author%3ACabinfeverB+is)
@@ -19,12 +19,9 @@ The vote will be open for at least 72 hours unless there is an objection or not 
 
 ## Result
 
-Approved by 3 binding votes and 4 non-binding votes.
+Approved by 2 binding votes and 2 non-binding votes.
 
 * nolouch (binding)
 * rleungx (binding)
-* disksing (binding)
-* JmPotato (non-binding)
 * lhy1024 (non-binding)
-* HundunDM (non-binding)
 * bufferflies (non-binding)
