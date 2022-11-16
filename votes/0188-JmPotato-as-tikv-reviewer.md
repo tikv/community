@@ -15,3 +15,10 @@ I ([@Connor1996](https://github.com/Connor1996)) hereby nominate [@JmPotato](htt
 The vote will be open for at least 3 days unless there is an objection or not enough votes.
 
 ## Result
+
+* skyzh (binding)
+
+* tonyxuqqi (non-binding)
+
+* zhangjinpeng1987 (non-binding)
+
