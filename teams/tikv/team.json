@@ -52,24 +52,27 @@
         "bobotu",
         "tiancaiamao"
     ],
-    
+
     "reviewers": [
         "3pointer",
+        "Fullstop000",
+        "Jibbow",
+        "JmPotato",
+        "Mossaka",
+        "MrCroxx",
+        "Xuanwo",
+        "YuJuncen",
         "ekexium",
         "ethercflow",
         "fredchenbj",
-        "Fullstop000",
         "glorv",
         "gozssky",
         "haojinming",
         "hi-rustin",
         "jayzhan211",
-        "Jibbow",
         "lhy1024",
         "longfangsong",
         "lzmhhh123",
-        "Mossaka",
-        "MrCroxx",
         "nolouch",
         "rleungx",
         "tier-cap",
@@ -77,11 +80,8 @@
         "v01dstar",
         "wjhuang2016",
         "wshwsh12",
-        "Xuanwo",
         "you06",
-        "YuJuncen",
-        "zyguan",
-        "JmPotato"
+        "zyguan"
     ],
 
     "repositories": [
