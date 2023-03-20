@@ -15,3 +15,10 @@ I ([@rleungx](https://github.com/rleungx)) hereby nominate [@binshi-bing](https:
 The vote will be open for at least 3 days unless there is an objection or not enough votes.
 
 ## Result
+
+Approved by 2 binding votes and 2 non-binding votes.
+
+* nolouch (binding)
+* rleungx (binding)
+* JmPotato (non-binding)
+* lhy1024 (non-binding)
