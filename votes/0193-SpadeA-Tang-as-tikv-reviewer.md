@@ -1,8 +1,8 @@
-# A Vote for CalvinNeo as TiKV Reviewer
+# A Vote for SpadeA-Tang as TiKV Reviewer
 
 ## Proposal
 
-[@SpadeA-Tang](https://github.com/CalvinNeo) has continuously contributed to `tikv/tikv` on different components, including but not limited to storage, raftstore and related components. The main contributions are listed in the following:
+[@SpadeA-Tang](https://github.com/SpadeA-Tang) has continuously contributed to `tikv/tikv` on different components, including but not limited to storage, raftstore and related components. The main contributions are listed in the following:
 
 * [Authored pull requests](https://github.com/tikv/tikv/pulls?q=is%3Amerged+is%3Apr+author%3ASpadeA-Tang)
 
