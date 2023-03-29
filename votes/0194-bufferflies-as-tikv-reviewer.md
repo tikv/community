@@ -1,8 +1,8 @@
-# A Vote for tongjian as TiKV Reviewer
+# A Vote for bufferflies as TiKV Reviewer
 
 ## Proposal
 
-[@binshi-bing](https://github.com/bufferflies) has continuously contributed to `tikv/pd` on different components, including but not limited to raftstore components. The main contributions are listed in the following:
+[@bufferflies](https://github.com/bufferflies) has continuously contributed to `tikv/pd` on different components, including but not limited to raftstore components. The main contributions are listed in the following:
 
 * [Authored pull requests](https://github.com/tikv/tikv/pulls?q=is%3Apr+author%3Abufferflies)
 
