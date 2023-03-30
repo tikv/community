@@ -15,3 +15,11 @@ I ([@tonyxuqqi](https://github.com/tonyxuqqi)) hereby nominate [@SpadeA-Tang](ht
 The vote will be open for at least 3 days unless there is an objection or not enough votes.
 
 ## Result
+
+Approved by 1 binding vote and 2 non-binding votes
+
+* hicqu (binding)
+
+* MyonKeminta (non-binding)
+
+* glorv (non-binding)
