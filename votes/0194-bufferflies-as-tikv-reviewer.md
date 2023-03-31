@@ -15,3 +15,7 @@ I ([@tonyxuqqi](https://github.com/tonyxuqqi)) hereby nominate [@bufferflies](ht
 The vote will be open for at least 3 days unless there is an objection or not enough votes.
 
 ## Result
+
+Approved by 2 binding votes
+* busyjay (binding)
+* hicqu (binding)
