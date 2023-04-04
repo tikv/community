@@ -1,0 +1,44 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+approvers:
+  - BusyJay
+  - andylokandy
+  - breezewish
+  - caniszczyk
+  - fredchenbj
+  - hicqu
+  - innerr
+  - lidaobing
+  - lucab
+  - nolouch
+  - nrc
+  - rleungx
+  - siddontang
+  - skyzh
+  - sunxiaoguang
+  - sykp241095
+  - yiwu-arbug
+  - zhangjinpeng1987
+  - zhangyangyu
+  - zz-jason
+reviewers:
+  - BusyJay
+  - andylokandy
+  - breezewish
+  - caniszczyk
+  - fredchenbj
+  - hicqu
+  - innerr
+  - lidaobing
+  - lucab
+  - nolouch
+  - nrc
+  - rleungx
+  - siddontang
+  - skyzh
+  - sunxiaoguang
+  - sykp241095
+  - tisonkun
+  - yiwu-arbug
+  - zhangjinpeng1987
+  - zhangyangyu
+  - zz-jason
