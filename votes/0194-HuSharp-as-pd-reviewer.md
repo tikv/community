@@ -20,4 +20,3 @@ Approved by 2 binding votes
 * nolouch (binding)
 * JmPotato (binding)
 * CabinfeverB (non-binding)
-* rleungx (non-binding)
