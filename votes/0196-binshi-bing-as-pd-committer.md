@@ -16,6 +16,8 @@ The vote will be open for at least 3 days unless there is an objection or not en
 
 ## Result
 
-Approved by _ binding votes and _ non-binding votes.
+Approved by 2 binding votes and 1 non-binding votes.
 
-
+* disksing (binding)
+* rleungx (binding)
+* JmPotato (non-binding)
