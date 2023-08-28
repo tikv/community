@@ -21,3 +21,5 @@ The vote will be open for at least 3 days unless there is an objection or not en
 ## Result
 
 Approved by
+* overvenus (binding)
+* tonyxuqqi (binding)
