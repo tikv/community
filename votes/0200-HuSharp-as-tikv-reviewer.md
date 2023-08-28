@@ -1,4 +1,4 @@
-# A Vote for HuSharp as TiKV Committer
+# A Vote for HuSharp as TiKV Reviewer
 
 ## Proposal
 
