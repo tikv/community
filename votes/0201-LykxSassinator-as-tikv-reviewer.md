@@ -13,3 +13,11 @@ I ([tonyxuqqi](https://github.com/tonyxuqqi)) hereby nominate [LykxSassinator](h
 ## Deadline
 
 The vote will be open for at least 3 days unless there is an objection or not enough votes.
+
+
+## Result
+
+Approved by
+* overvenus (binding)
+* hicqu (binding)
+* Connor1996 (binding) 
