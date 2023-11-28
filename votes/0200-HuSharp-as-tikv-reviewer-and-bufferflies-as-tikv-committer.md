@@ -1,4 +1,4 @@
-# A Vote for HuSharp as TiKV Reviewer
+# A Vote for HuSharp as TiKV Reviewer and bufferflies as TiKV Committer
 
 ## Proposal
 
@@ -21,5 +21,6 @@ The vote will be open for at least 3 days unless there is an objection or not en
 ## Result
 
 Approved by
+
 * overvenus (binding)
 * tonyxuqqi (binding)
