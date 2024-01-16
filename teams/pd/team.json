@@ -23,7 +23,8 @@
         "zhouqiang-cl",
         "AndreMouche",
         "CabinfeverB",
-        "binshi-bing"
+        "binshi-bing",
+        "HuSharp"
     ],
 
     "reviewers": [
@@ -31,8 +32,7 @@
         "Luffbee",
         "howardlau1999",
         "shafreeck",
-        "xhebox",
-        "HuSharp"
+        "xhebox"
     ],
 
     "repositories": [
