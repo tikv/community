@@ -1,4 +1,4 @@
-# A Vote for Leavrth as TiKV Committer
+# A Vote for Leavrth as TiKV Reviewer
 
 ## Proposal
 
