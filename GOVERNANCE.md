@@ -25,7 +25,7 @@ The current list of steering committee members is as below, in alphabetical orde
 | ---------------------------------------- | ------------- | :------------------------------------------------------ |
 | Fu Chen <cfworking1990@gmail.com>        | Yidian Zixun  | [fredchenbj](https://github.com/fredchenbj)             |
 | Daobing Li <lidaobing@gmail.com>         | JD Cloud & AI | [lidaobing](https://github.com/lidaobing)               |
-| Jay Li <jay@pingcap.com>                 | PingCAP       | [BusyJay](https://github.com/BusyJay)                   |
+| Jay Li <jay@pingcap.com>                 |               | [BusyJay](https://github.com/BusyJay)                   |
 | Xiaoguang Sun <sunxiaoguang@pingcap.com> | PingCAP       | [sunxiaoguang](https://github.com/sunxiaoguang)         |
 | Siddon Tang <tl@pingcap.com>             | PingCAP       | [siddontang](https://github.com/siddontang)             |
 | Wink Yao <wink@pingcap.com>              | PingCAP       | [winkyao](https://github.com/winkyao)                   |
@@ -75,10 +75,10 @@ The current list of Infra members is as below, in alphabetical order on last nam
 
 | Name                                  | GitHub                                           |
 | ------------------------------------- | :----------------------------------------------- |
-| Zili Chen <wander4096@gmail.com>      | [tisonkun](https://github.com/tisonkun)          |
+| Junchen Ye <yejunchen@pingcap.cn>     | [VelocityLight](https://github.com/VelocityLight)|
 | Zhiyuan Liang <minianter@foxmail.com> | [Mini256](https://github.com/Mini256)            |
 | Xiang Zhang <angwerzx@126.com>        | [zhangyangyu](https://github.com/zhangyangyu)    |
-| Qiang Zhou <zhouqiang.cl@gmail.com>   | [zhouqiang-cl](https://github.com/zhouqiang-cl/) |
+| Wuhui Zuo <wuhui.zuo@pingcap.cn>      | [wuhuizuo](https://github.com/wuhuizuo/)         |
 
 ## Decision Making
 
