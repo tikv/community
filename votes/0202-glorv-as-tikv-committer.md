@@ -15,3 +15,8 @@ I ([@Connor1996](https://github.com/Connor1996)) hereby nominate [@glorv](https:
 The vote will be open for at least 3 days unless there is an objection or not enough votes.
 
 ## Result
+
+* overvenus (binding)
+* tonyxuqqi (binding)
+* SpadeA-Tang (binding)
+* LykxSassinator (non-binding)
