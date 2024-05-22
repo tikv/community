@@ -15,5 +15,5 @@ Approved by 4 binding votes, 1 non-binding votes.
 * BusyJay (binding)
 * sunxiaoguang (binding)
 * winkyao (binding)
-* zhangjinpeng1987 (binding)
+* zhangjinpeng87 (binding)
 * zhouqiang-cl (non-binding)

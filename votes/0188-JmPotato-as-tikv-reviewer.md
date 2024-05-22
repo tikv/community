@@ -22,5 +22,5 @@ Approved by 1 binding vote and 2 non-binding votes
 
 * tonyxuqqi (non-binding)
 
-* zhangjinpeng1987 (non-binding)
+* zhangjinpeng87 (non-binding)
 
