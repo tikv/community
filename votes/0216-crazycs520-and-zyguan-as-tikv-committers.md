@@ -26,3 +26,8 @@ I ([@MyonKeminta](https://github.com/MyonKeminta)) hereby nominate [@crazycs520]
 The vote will be open for at least 6 days unless there is an objection or not enough votes.
 
 ## Result
+
+Approved by 2 binding votes.
+
+* hicqu (binding)
+* breezewish (binding)
