@@ -2,7 +2,6 @@
     "_comment": [
         "Items of lists in this file are in alphabetical order. Please keep it on modification."
     ],
-
     "maintainers": [
         "BusyJay",
         "andylokandy",
@@ -14,7 +13,6 @@
         "yiwu-arbug",
         "AndreMouche"
     ],
-
     "committers": [
         "5kbpers",
         "Connor1996",
@@ -57,12 +55,10 @@
         "zyguan",
         "crazycs520"
     ],
-
     "emeritus_committers": [
         "bobotu",
         "tiancaiamao"
     ],
-
     "reviewers": [
         "3pointer",
         "CalvinNeo",
@@ -91,9 +87,9 @@
         "Leavrth",
         "crazycs520",
         "Leavrth",
-        "3AceShowHand"
+        "3AceShowHand",
+        "hbisheng"
     ],
-
     "repositories": [
         "agatedb",
         "async-speed-limit",
