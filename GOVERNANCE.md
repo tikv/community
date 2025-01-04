@@ -32,6 +32,7 @@ The current list of steering committee members is as below, in alphabetical orde
 | Jinpeng Zhang <zzzhangjinpeng@gmail.com> | PingCAP       | [zhangjinpeng87](https://github.com/zhangjinpeng87)     |
 | Qi Liu <liuqi@pingcap.cn>                | PingCAP       | [ngaut](https://github.com/ngaut)                       |
 | Dongxu Huang <huang@pingcap.cn>          | PingCAP       | [c4pt0r](https://github.com/c4pt0r)                     |
+| Qiu Cui <cuiqiu@pingcap.cn>              | PingCAP       | [qiuyesuifeng](https://github.com/qiuyesuifeng)         |
 
 ### Teams
 
