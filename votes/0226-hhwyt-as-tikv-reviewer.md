@@ -14,3 +14,10 @@ I ([@glorv](https://github.com/glorv)) hereby nominate [@hhwyt](https://github.c
 The vote will be open for at least 3 days unless there is an objection or not enough votes.
 
 ## Result
+
+Approved by 1 binding votes, 4 non-binding votes.
+* zhangjinpeng87 (binding)
+* v01dstar (non-binding)
+* overvenus (non-binding)
+* LykxSassinator (non-binding)
+* Connor1996 (non-binding)
