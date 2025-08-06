@@ -2,7 +2,7 @@
     "_comment": [
         "Items of lists in this file are in alphabetical order. Please keep it on modification."
     ],
-    
+
     "maintainers": [
         "nolouch",
         "rleungx"
@@ -33,11 +33,12 @@
         "howardlau1999",
         "shafreeck",
         "xhebox",
-        "okJiang"
+        "okJiang",
+        "Tema"
     ],
 
     "repositories": [
         "pd",
         "rfcs"
-    ]    
+    ]
 }
