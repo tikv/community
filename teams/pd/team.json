@@ -2,42 +2,43 @@
     "_comment": [
         "Items of lists in this file are in alphabetical order. Please keep it on modification."
     ],
-    
+
     "maintainers": [
         "nolouch",
         "rleungx"
     ],
 
     "committers": [
-        "Connor1996",
-        "HunDunDM",
-        "JmPotato",
-        "Yisaer",
+        "AndreMouche",
+        "binshi-bing",
         "bufferflies",
+        "CabinfeverB",
+        "Connor1996",
         "disksing",
         "huachaohuang",
+        "HunDunDM",
+        "HuSharp",
+        "JmPotato",
         "lhy1024",
         "overvenus",
         "qiuyesuifeng",
         "siddontang",
-        "zhouqiang-cl",
-        "AndreMouche",
-        "CabinfeverB",
-        "binshi-bing",
-        "HuSharp"
+        "Yisaer",
+        "zhouqiang-cl"
     ],
 
     "reviewers": [
         "BusyJay",
-        "Luffbee",
         "howardlau1999",
+        "Luffbee",
+        "okJiang",
         "shafreeck",
-        "xhebox",
-        "okJiang"
+        "Tema",
+        "xhebox"
     ],
 
     "repositories": [
         "pd",
         "rfcs"
-    ]    
+    ]
 }
