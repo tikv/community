@@ -17,3 +17,9 @@ I ([@rleungx](https://github.com/rleungx)) hereby nominate [@Tema](https://githu
 The vote will be open for at least 3 days unless there is an objection or not enough votes.
 
 ## Result
+
+Approved by 1 binding votes, 3 non-binding votes.
+* rleungx (binding)
+* bufferflies (non-binding)
+* okJiang (non-binding)
+* JmPotato (non-binding)
