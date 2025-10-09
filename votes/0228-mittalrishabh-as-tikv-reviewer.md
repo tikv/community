@@ -16,3 +16,11 @@ I ([@zhangjinpeng87](https://github.com/zhangjinpeng87)) hereby nominate [@mitta
 The vote will be open for at least 3 days unless there is an objection or not enough votes.
 
 ## Result
+
+Approved by 1 binding votes, 4 non-binding votes.
+* zhangjinpeng87 (binding)
+* glorv (no-binding)
+* connor1996 (no-binding)
+* v01dstar (no-binding)
+* lykxsassinator (no-binding)
+
