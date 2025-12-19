@@ -31,6 +31,7 @@ I hereby nominate [@lcwangchao](https://github.com/lcwangchao) as TiKV reviewer 
 The vote will be open for at least 3 days unless there is an objection or not enough votes.
 
 ## Result
+
 Approved by 1 binding votes, 2 non-binding votes.
 * cfzjywxk (binding)
 * ekexium (no-binding)
