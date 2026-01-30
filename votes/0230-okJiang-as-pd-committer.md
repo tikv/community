@@ -15,3 +15,7 @@ I ([@rleungx](https://github.com/rleungx)) hereby nominate [@okJiang](https://gi
 The vote will be open for at least 3 days unless there is an objection or not enough votes.
 
 ## Result
+
+Approved by 1 binding votes, 1 non-binding votes.
+* rleungx (binding)
+* lhy1024 (non-binding)
