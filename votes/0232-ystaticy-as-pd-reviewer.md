@@ -16,4 +16,7 @@ The vote will be open for at least 3 days unless there is an objection or not en
 
 ## Result
 
-Conclude the voting result, including approvals and vetoes, binding and non-binding.
+Approved by 1 binding votes, 1 non-binding votes.
+
+* rleungx (binding)
+* niubell (non-binding)
