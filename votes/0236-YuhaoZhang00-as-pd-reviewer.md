@@ -41,3 +41,11 @@ I ([@JmPotato](https://github.com/JmPotato)) hereby nominate [@YuhaoZhang00](htt
 The vote will be open for at least 3 days unless there is an objection or not enough votes.
 
 ## Result
+
+Approved on September 14, 2026, with 2 binding +1 votes, 1 non-binding +1 vote, and no negative votes, after the minimum 3-day voting period.
+
+* [rleungx](https://github.com/tikv/community/pull/239#pullrequestreview-5164071648) (binding)
+* [nolouch](https://github.com/tikv/community/pull/239#pullrequestreview-5193828769) (binding)
+* [bufferflies](https://github.com/tikv/community/pull/239#pullrequestreview-5162687019) (non-binding)
+
+The vote passes under the Lazy Majority rule for a new reviewer.
